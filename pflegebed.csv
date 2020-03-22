@@ -1,0 +1,417 @@
+"krs","name","pflegebeduerftige","ambulant","vollstaendig","pflegegeld_empfaenger","land"
+1001,"Flensburg, Kreisfreie Stadt",3267,968,1014,1284,SH
+1002,"Kiel, Landeshauptstadt, Kreisfreie Stadt",7319,2203,2010,3102,SH
+1003,"Lübeck, Hansestadt, Kreisfreie Stadt",8521,1747,3146,3626,SH
+1004,"Neumünster, Kreisfreie Stadt",3557,848,1130,1575,SH
+1051,"Dithmarschen, Landkreis",5497,1297,1648,2550,SH
+1053,"Herzogtum Lauenburg, Landkreis",7974,2040,2324,3603,SH
+1054,"Nordfriesland, Landkreis",6128,1699,1752,2666,SH
+1055,"Ostholstein, Landkreis",8843,1726,3275,3839,SH
+1056,"Pinneberg, Landkreis",11211,2938,3217,5055,SH
+1057,"Plön, Landkreis",4318,848,1212,2234,SH
+1058,"Rendsburg-Eckernförde, Landkreis",9839,2458,3112,4264,SH
+1059,"Schleswig-Flensburg, Landkreis",7872,1901,2757,3209,SH
+1060,"Segeberg, Landkreis",10033,2123,3700,4204,SH
+1061,"Steinburg, Landkreis",5874,1364,1873,2631,SH
+1062,"Stormarn, Landkreis",8909,1952,3345,3608,SH
+2000,"Hamburg",63145,18950,16330,27841,HH
+3101,"Braunschweig, Kreisfreie Stadt",11241,2987,3027,5225,NI
+3102,"Salzgitter, Kreisfreie Stadt",5632,982,1415,3235,NI
+3103,"Wolfsburg, Kreisfreie Stadt",5405,849,1229,3326,NI
+3151,"Gifhorn, Landkreis",8573,1839,1754,4980,NI
+3153,"Goslar, Landkreis",9174,2249,2852,4072,NI
+3154,"Helmstedt, Landkreis",4546,841,1620,2085,NI
+3155,"Northeim, Landkreis",8903,2629,2195,4074,NI
+3157,"Peine, Landkreis",6736,1592,1832,3311,NI
+3158,"Wolfenbüttel, Landkreis",5674,1338,1523,2813,NI
+3159,"Göttingen, Landkreis",16930,4119,4831,7975,NI
+3241,"Region Hannover, Landkreis",51946,13499,13618,24820,NI
+3241001,"Hannover, Landeshauptstadt",23578,7126,6234,10213,
+3251,"Diepholz, Landkreis",9984,2561,2313,5100,NI
+3252,"Hameln-Pyrmont, Landkreis",9295,2596,2513,4182,NI
+3254,"Hildesheim, Landkreis",15049,4085,3909,7048,NI
+3255,"Holzminden, Landkreis",4613,1391,1280,1939,NI
+3256,"Nienburg (Weser), Landkreis",6730,1459,1756,3512,NI
+3257,"Schaumburg, Landkreis",9668,2329,3013,4322,NI
+3351,"Celle, Landkreis",9787,2288,2604,4892,NI
+3352,"Cuxhaven, Landkreis",9787,2310,2428,5043,NI
+3353,"Harburg, Landkreis",9488,2561,2386,4531,NI
+3354,"Lüchow-Dannenberg, Landkreis",3064,792,854,1411,NI
+3355,"Lüneburg, Landkreis",7526,2001,2207,3312,NI
+3356,"Osterholz, Landkreis",4885,1076,1351,2458,NI
+3357,"Rotenburg (Wümme), Landkreis",7538,1599,1814,4123,NI
+3358,"Heidekreis, Landkreis",6649,1551,1727,3371,NI
+3359,"Stade, Landkreis",8637,1822,2268,4543,NI
+3360,"Uelzen, Landkreis",5220,1375,1709,2135,NI
+3361,"Verden, Landkreis",5884,1128,1673,3080,NI
+3401,"Delmenhorst, Kreisfreie Stadt",3661,675,545,2441,NI
+3402,"Emden, Kreisfreie Stadt",2487,636,508,1343,NI
+3403,"Oldenburg (Oldenburg), Kreisfreie Stadt",6623,1876,1626,3121,NI
+3404,"Osnabrück, Kreisfreie Stadt",5808,1657,1346,2797,NI
+3405,"Wilhelmshaven, Kreisfreie Stadt",4331,1031,1107,2192,NI
+3451,"Ammerland, Landkreis",5260,1177,1202,2881,NI
+3452,"Aurich, Landkreis",10868,2775,1597,6491,NI
+3453,"Cloppenburg, Landkreis",8067,1675,1541,4851,NI
+3454,"Emsland, Landkreis",16306,4850,2454,8992,NI
+3455,"Friesland, Landkreis",5068,1292,1133,2643,NI
+3456,"Grafschaft Bentheim, Landkreis",6605,2199,1332,3069,NI
+3457,"Leer, Landkreis",8910,2137,1541,5231,NI
+3458,"Oldenburg, Landkreis",5735,1102,1644,2989,NI
+3459,"Osnabrück, Landkreis",15575,4201,3663,7698,NI
+3460,"Vechta, Landkreis",5439,1289,1175,2972,NI
+3461,"Wesermarsch, Landkreis",4546,1119,1270,2156,NI
+3462,"Wittmund, Landkreis",3440,985,605,1849,NI
+4011,"Bremen, Kreisfreie Stadt",23264,6448,5207,11599,HB
+4012,"Bremerhaven, Kreisfreie Stadt",5734,1762,730,3241,HB
+5111,"Düsseldorf, Kreisfreie Stadt",23051,5824,4824,12402,NW
+5112,"Duisburg, Kreisfreie Stadt",25127,4709,5248,15170,NW
+5113,"Essen, Kreisfreie Stadt",23955,5437,6780,11734,NW
+5114,"Krefeld, Kreisfreie Stadt",11250,2225,2192,6832,NW
+5116,"Mönchengladbach, Kreisfreie Stadt",12658,2339,2431,7886,NW
+5117,"Mülheim an der Ruhr, Kreisfreie Stadt",7156,1864,1768,3516,NW
+5119,"Oberhausen, Kreisfreie Stadt",10434,2838,1896,5699,NW
+5120,"Remscheid, Kreisfreie Stadt",5233,1289,1019,2925,NW
+5122,"Solingen, Kreisfreie Stadt",7740,1735,1901,4104,NW
+5124,"Wuppertal, Kreisfreie Stadt",14319,3540,3668,7101,NW
+5154,"Kleve, Kreis",15862,4031,3060,8769,NW
+5158,"Mettmann, Kreis",20454,4577,4796,11078,NW
+5162,"Rhein-Kreis Neuss",19208,3203,3867,12138,NW
+5166,"Viersen, Kreis",14831,2931,2416,9483,NW
+5170,"Wesel, Kreis",25163,5711,4464,14983,NW
+5314,"Bonn, Kreisfreie Stadt",11425,2890,2912,5623,NW
+5315,"Köln, Kreisfreie Stadt",36556,7981,7551,21023,NW
+5316,"Leverkusen, Kreisfreie Stadt",6768,1327,1308,4132,NW
+5334,"Städteregion Aachen (einschl. Stadt Aachen)",26484,5514,5428,15537,NW
+5334002,"Aachen, krfr. Stadt",9977,2328,2252,5393,
+5358,"Düren, Kreis",13522,2376,2736,8406,NW
+5362,"Rhein-Erft-Kreis",18385,3993,3582,10810,NW
+5366,"Euskirchen, Kreis",10859,2460,2398,6001,NW
+5370,"Heinsberg, Kreis",13278,2886,2462,7924,NW
+5374,"Oberbergischer Kreis",14065,3393,3317,7354,NW
+5378,"Rheinisch-Bergischer Kreis",12567,3111,2621,6835,NW
+5382,"Rhein-Sieg-Kreis",24256,4761,5222,14271,NW
+5512,"Bottrop, Kreisfreie Stadt",5535,1234,1396,2904,NW
+5513,"Gelsenkirchen, Kreisfreie Stadt",11887,2557,2585,6745,NW
+5515,"Münster, Kreisfreie Stadt",8477,2399,2641,3426,NW
+5554,"Borken, Kreis",13972,4140,2974,6855,NW
+5558,"Coesfeld, Kreis",7962,2055,2250,3650,NW
+5562,"Recklinghausen, Kreis",31164,7499,6830,16832,NW
+5566,"Steinfurt, Kreis",17573,4903,3807,8858,NW
+5570,"Warendorf, Kreis",10212,2715,2480,5008,NW
+5711,"Bielefeld, Kreisfreie Stadt",13836,4274,2785,6772,NW
+5754,"Gütersloh, Kreis",13291,4168,2417,6703,NW
+5758,"Herford, Kreis",10188,2582,2403,5203,NW
+5762,"Höxter, Kreis",7038,2010,1464,3564,NW
+5766,"Lippe, Kreis",13500,3383,3785,6332,NW
+5770,"Minden-Lübbecke, Kreis",13791,3540,3353,6891,NW
+5774,"Paderborn, Kreis",10762,2618,2568,5574,NW
+5911,"Bochum, Kreisfreie Stadt",15418,3703,3444,8269,NW
+5913,"Dortmund, Kreisfreie Stadt",22960,6080,5492,11379,NW
+5914,"Hagen, Kreisfreie Stadt",9633,2231,2072,5330,NW
+5915,"Hamm, Kreisfreie Stadt",6736,1569,1875,3290,NW
+5916,"Herne, Kreisfreie Stadt",8019,1753,1740,4522,NW
+5954,"Ennepe-Ruhr-Kreis",14162,3726,3613,6821,NW
+5958,"Hochsauerlandkreis",11066,3158,2581,5322,NW
+5962,"Märkischer Kreis",18230,4139,4327,9764,NW
+5966,"Olpe, Kreis",5931,1123,1222,3583,NW
+5970,"Siegen-Wittgenstein, Kreis",12430,3495,2098,6836,NW
+5974,"Soest, Kreis",12084,2966,3532,5584,NW
+5978,"Unna, Kreis",18669,5078,4015,9575,NW
+6411,"Darmstadt, Kreisfreie Stadt",4619,1302,1102,2215,HE
+6412,"Frankfurt am Main, Kreisfreie Stadt",24693,6565,4451,13676,HE
+6413,"Offenbach am Main, Kreisfreie Stadt",4465,1177,882,2406,HE
+6414,"Wiesbaden, Landeshauptstadt, Kreisfreie Stadt",9917,2790,2218,4908,HE
+6431,"Bergstraße, Landkreis",11505,2861,2605,6038,HE
+6432,"Darmstadt-Dieburg, Landkreis",9618,1949,2043,5625,HE
+6433,"Groß-Gerau, Landkreis",10047,1983,1778,6286,HE
+6434,"Hochtaunuskreis",8635,1488,2412,4735,HE
+6435,"Main-Kinzig-Kreis",16766,3276,3354,10131,HE
+6436,"Main-Taunus-Kreis",8370,2224,1520,4624,HE
+6437,"Odenwaldkreis",4631,1007,1253,2371,HE
+6438,"Offenbach, Landkreis",11178,2153,2410,6613,HE
+6439,"Rheingau-Taunus-Kreis",7294,1791,1617,3886,HE
+6440,"Wetteraukreis",13994,2817,3320,7855,HE
+6531,"Gießen, Landkreis",11152,2217,2377,6556,HE
+6532,"Lahn-Dill-Kreis",13223,2820,2715,7684,HE
+6533,"Limburg-Weilburg, Landkreis",7745,1595,1599,4549,HE
+6534,"Marburg-Biedenkopf, Landkreis",12246,3090,2177,6978,HE
+6535,"Vogelsbergkreis",6395,1390,1280,3724,HE
+6611,"Kassel, Kreisfreie Stadt",9572,3361,1754,4454,HE
+6631,"Fulda, Landkreis",11062,2165,2498,6389,HE
+6632,"Hersfeld-Rotenburg, Landkreis",7124,1484,1438,4202,HE
+6633,"Kassel, Landkreis",12228,2730,3058,6433,HE
+6634,"Schwalm-Eder-Kreis",9571,2453,2069,5045,HE
+6635,"Waldeck-Frankenberg, Landkreis",8735,2037,2192,4501,HE
+6636,"Werra-Meißner-Kreis",6972,1776,1613,3583,HE
+7111,"Koblenz, Kreisfreie Stadt",4902,1170,1458,2273,RP
+7131,"Ahrweiler, Landkreis",6244,1340,1369,3533,RP
+7132,"Altenkirchen (Westerwald), Landkreis",6062,1285,1229,3547,RP
+7133,"Bad Kreuznach, Landkreis",6476,1576,1377,3522,RP
+7134,"Birkenfeld, Landkreis",3593,572,983,2038,RP
+7135,"Cochem-Zell, Landkreis",3716,1150,779,1785,RP
+7137,"Mayen-Koblenz, Landkreis",9595,1955,1876,5761,RP
+7138,"Neuwied, Landkreis",8515,1693,1966,4854,RP
+7140,"Rhein-Hunsrück-Kreis",4796,1192,1031,2573,RP
+7141,"Rhein-Lahn-Kreis",5192,1352,1065,2775,RP
+7143,"Westerwaldkreis",8097,1590,1925,4582,RP
+7211,"Trier, Kreisfreie Stadt",3018,691,896,1429,RP
+7231,"Bernkastel-Wittlich, Landkreis",4587,1282,1110,2192,RP
+7232,"Eifelkreis Bitburg-Prüm",4081,1039,835,2203,RP
+7233,"Vulkaneifel, Landkreis",3045,597,707,1741,RP
+7235,"Trier-Saarburg, Landkreis",5026,1042,1450,2530,RP
+7311,"Frankenthal (Pfalz), Kreisfreie Stadt",1780,262,533,985,RP
+7312,"Kaiserslautern, Kreisfreie Stadt",3437,742,1017,1677,RP
+7313,"Landau in der Pfalz, Kreisfreie Stadt",2112,842,432,836,RP
+7314,"Ludwigshafen am Rhein, Kreisfreie Stadt",5886,1215,1357,3314,RP
+7315,"Mainz, Kreisfreie Stadt",5781,1297,1549,2934,RP
+7316,"Neustadt an der Weinstraße, Kreisfreie Stadt",2051,478,453,1120,RP
+7317,"Pirmasens, Kreisfreie Stadt",2441,740,610,1091,RP
+7318,"Speyer, Kreisfreie Stadt",2095,337,795,963,RP
+7319,"Worms, Kreisfreie Stadt",2907,558,827,1521,RP
+7320,"Zweibrücken, Kreisfreie Stadt",1608,404,310,894,RP
+7331,"Alzey-Worms, Landkreis",4056,800,879,2376,RP
+7332,"Bad Dürkheim, Landkreis",4700,704,1351,2645,RP
+7333,"Donnersbergkreis",3149,717,827,1605,RP
+7334,"Germersheim, Landkreis",4484,783,826,2872,RP
+7335,"Kaiserslautern, Landkreis",4239,1179,774,2285,RP
+7336,"Kusel, Landkreis",3372,853,649,1870,RP
+7337,"Südliche Weinstraße, Landkreis",3931,733,658,2539,RP
+7338,"Rhein-Pfalz-Kreis",5802,1794,1032,2971,RP
+7339,"Mainz-Bingen, Landkreis",5936,1042,1476,3417,RP
+7340,"Südwestpfalz, Landkreis",4452,970,730,2751,RP
+8111,"Stuttgart, Landeshauptstadt, Stadtkreis",17340,2884,4959,9494,BW
+8115,"Böblingen, Landkreis",12424,2070,2842,7503,BW
+8116,"Esslingen, Landkreis",18024,3635,4243,10142,BW
+8117,"Göppingen, Landkreis",10163,2368,2281,5511,BW
+8118,"Ludwigsburg, Landkreis",17575,3718,4127,9718,BW
+8119,"Rems-Murr-Kreis, Landkreis",15718,3016,3786,8915,BW
+8121,"Heilbronn, Stadtkreis",5385,1129,1461,2794,BW
+8125,"Heilbronn, Landkreis",11801,2306,2895,6596,BW
+8126,"Hohenlohekreis, Landkreis",4389,669,1251,2468,BW
+8127,"Schwäbisch Hall, Landkreis",7699,1824,1839,4035,BW
+8128,"Main-Tauber-Kreis, Landkreis",6336,1271,1577,3486,BW
+8135,"Heidenheim, Landkreis",5157,921,1293,2943,BW
+8136,"Ostalbkreis, Landkreis",10831,1765,2850,6212,BW
+8211,"Baden-Baden, Stadtkreis",2377,446,768,1162,BW
+8212,"Karlsruhe, Stadtkreis",9970,1661,2964,5341,BW
+8215,"Karlsruhe, Landkreis",17498,3282,4067,10144,BW
+8216,"Rastatt, Landkreis",9097,1541,1782,5773,BW
+8221,"Heidelberg, Stadtkreis",4398,950,1194,2252,BW
+8222,"Mannheim, Stadtkreis",12244,2269,2941,7027,BW
+8225,"Neckar-Odenwald-Kreis, Landkreis",7693,1707,1675,4308,BW
+8226,"Rhein-Neckar-Kreis, Landkreis",21842,4180,4695,12966,BW
+8231,"Pforzheim, Stadtkreis",6395,1011,1583,3800,BW
+8235,"Calw, Landkreis",6595,1121,1633,3841,BW
+8236,"Enzkreis, Landkreis",8776,2231,1696,4846,BW
+8237,"Freudenstadt, Landkreis",4718,771,1385,2558,BW
+8311,"Freiburg im Breisgau, Stadtkreis",6376,1188,1868,3319,BW
+8315,"Breisgau-Hochschwarzwald, Landkreis",8491,1697,2024,4765,BW
+8316,"Emmendingen, Landkreis",5903,1175,1342,3385,BW
+8317,"Ortenaukreis, Landkreis",17061,3486,4302,9264,BW
+8325,"Rottweil, Landkreis",5430,892,1248,3289,BW
+8326,"Schwarzwald-Baar-Kreis, Landkreis",8604,1761,2290,4547,BW
+8327,"Tuttlingen, Landkreis",4878,679,1086,3113,BW
+8335,"Konstanz, Landkreis",9760,1911,2480,5368,BW
+8336,"Lörrach, Landkreis",7564,1407,1976,4180,BW
+8337,"Waldshut, Landkreis",5527,709,1614,3202,BW
+8415,"Reutlingen, Landkreis",10214,1675,2238,6287,BW
+8416,"Tübingen, Landkreis",6619,1020,1467,4128,BW
+8417,"Zollernalbkreis, Landkreis",7906,1405,1538,4961,BW
+8421,"Ulm, Stadtkreis",4408,775,1170,2456,BW
+8425,"Alb-Donau-Kreis, Landkreis",6660,1270,1438,3949,BW
+8426,"Biberach, Landkreis",6629,934,1514,4181,BW
+8435,"Bodenseekreis, Landkreis",7087,1516,1636,3934,BW
+8436,"Ravensburg, Landkreis",10025,2216,2155,5651,BW
+8437,"Sigmaringen, Landkreis",5025,841,1008,3173,BW
+9161,"Ingolstadt",3218,705,931,1579,BY
+9162,"München, Landeshauptstadt",31021,10036,7007,13973,BY
+9163,"Rosenheim",1580,409,423,748,BY
+9171,"Altötting, Landkreis",3736,726,1279,1725,BY
+9172,"Berchtesgadener Land, Landkreis",3258,815,1164,1275,BY
+9173,"Bad Tölz-Wolfratshausen, Landkreis",3657,739,950,1968,BY
+9174,"Dachau, Landkreis",4109,909,1428,1772,BY
+9175,"Ebersberg, Landkreis",2997,509,1069,1416,BY
+9176,"Eichstätt, Landkreis",3099,640,766,1690,BY
+9177,"Erding, Landkreis",2902,435,1006,1460,BY
+9178,"Freising, Landkreis",3318,570,1028,1717,BY
+9179,"Fürstenfeldbruck, Landkreis",5463,1193,1647,2614,BY
+9180,"Garmisch-Partenkirchen, Landkreis",2989,837,803,1347,BY
+9181,"Landsberg am Lech, Landkreis",3028,863,603,1559,BY
+9182,"Miesbach, Landkreis",2524,579,827,1118,BY
+9183,"Mühldorf a.Inn, Landkreis",3661,631,1361,1666,BY
+9184,"München, Landkreis",8257,1704,2972,3577,BY
+9185,"Neuburg-Schrobenhausen, Landkreis",2390,395,769,1225,BY
+9186,"Pfaffenhofen a.d.Ilm, Landkreis",3054,522,974,1558,BY
+9187,"Rosenheim, Landkreis",7532,1625,3168,2738,BY
+9188,"Starnberg, Landkreis",3728,1021,957,1748,BY
+9189,"Traunstein, Landkreis",5279,1225,1698,2356,BY
+9190,"Weilheim-Schongau, Landkreis",4191,1212,978,2000,BY
+9261,"Landshut",2311,479,1021,808,BY
+9262,"Passau",3148,1398,851,899,BY
+9263,"Straubing",2175,519,709,946,BY
+9271,"Deggendorf, Landkreis",5057,999,1321,2737,BY
+9272,"Freyung-Grafenau, Landkreis",4287,1004,728,2555,BY
+9273,"Kelheim, Landkreis",3377,660,946,1771,BY
+9274,"Landshut, Landkreis",3937,592,1153,2190,BY
+9275,"Passau, Landkreis",9098,2376,1915,4803,BY
+9276,"Regen, Landkreis",3296,659,724,1910,BY
+9277,"Rottal-Inn, Landkreis",4959,1443,1240,2273,BY
+9278,"Straubing-Bogen, Landkreis",3332,761,604,1967,BY
+9279,"Dingolfing-Landau, Landkreis",3312,933,756,1623,BY
+9361,"Amberg",1615,346,635,634,BY
+9362,"Regensburg",4752,1454,1589,1708,BY
+9363,"Weiden i.d.OPf.",2151,771,647,733,BY
+9371,"Amberg-Sulzbach, Landkreis",3234,598,1172,1464,BY
+9372,"Cham, Landkreis",5490,1551,1326,2612,BY
+9373,"Neumarkt i.d.OPf., Landkreis",4270,910,1317,2041,BY
+9374,"Neustadt a.d.Waldnaab, Landkreis",3826,1118,1052,1652,BY
+9375,"Regensburg, Landkreis",5217,700,1751,2761,BY
+9376,"Schwandorf, Landkreis",5366,1400,1612,2354,BY
+9377,"Tirschenreuth, Landkreis",3021,778,1015,1228,BY
+9461,"Bamberg",2335,467,889,977,BY
+9462,"Bayreuth",2658,545,1105,1006,BY
+9463,"Coburg",1770,487,606,677,BY
+9464,"Hof",2438,663,785,990,BY
+9471,"Bamberg, Landkreis",4577,984,1326,2266,BY
+9472,"Bayreuth, Landkreis",3855,1013,1116,1721,BY
+9473,"Coburg, Landkreis",3235,695,947,1591,BY
+9474,"Forchheim, Landkreis",3410,811,893,1700,BY
+9475,"Hof, Landkreis",4496,862,1494,2140,BY
+9476,"Kronach, Landkreis",3436,1106,714,1613,BY
+9477,"Kulmbach, Landkreis",3255,973,864,1418,BY
+9478,"Lichtenfels, Landkreis",2825,698,877,1250,BY
+9479,"Wunsiedel i.Fichtelgebirge, Landkreis",3643,1118,1042,1483,BY
+9561,"Ansbach",1566,376,639,551,BY
+9562,"Erlangen",2942,732,1072,1138,BY
+9563,"Fürth",3292,511,1268,1512,BY
+9564,"Nürnberg",14814,3426,5348,6030,BY
+9565,"Schwabach",1196,204,448,543,BY
+9571,"Ansbach, Landkreis",5984,1489,1621,2868,BY
+9572,"Erlangen-Höchstadt, Landkreis",3462,596,1080,1786,BY
+9573,"Fürth, Landkreis",3859,1107,1216,1532,BY
+9574,"Nürnberger Land, Landkreis",5141,1361,1568,2206,BY
+9575,"Neustadt a.d.Aisch-Bad Windsheim, Landkreis",3315,662,1007,1639,BY
+9576,"Roth, Landkreis",3707,903,970,1830,BY
+9577,"Weißenburg-Gunzenhausen, Landkreis",3220,872,945,1403,BY
+9661,"Aschaffenburg",2708,791,639,1277,BY
+9662,"Schweinfurt",2450,575,871,1004,BY
+9663,"Würzburg",4777,1279,1731,1761,BY
+9671,"Aschaffenburg, Landkreis",5962,1324,1203,3425,BY
+9672,"Bad Kissingen, Landkreis",4664,1214,1436,2012,BY
+9673,"Rhön-Grabfeld, Landkreis",3433,1107,887,1438,BY
+9674,"Haßberge, Landkreis",3085,759,617,1706,BY
+9675,"Kitzingen, Landkreis",3238,789,922,1523,BY
+9676,"Miltenberg, Landkreis",4986,1081,1017,2881,BY
+9677,"Main-Spessart, Landkreis",5453,1443,1288,2722,BY
+9678,"Schweinfurt, Landkreis",3529,639,1051,1834,BY
+9679,"Würzburg, Landkreis",4776,1333,904,2529,BY
+9761,"Augsburg",9699,2885,2841,3973,BY
+9762,"Kaufbeuren",1511,367,528,615,BY
+9763,"Kempten (Allgäu)",1912,415,629,867,BY
+9764,"Memmingen",1487,461,408,618,BY
+9771,"Aichach-Friedberg, Landkreis",3200,604,821,1772,BY
+9772,"Augsburg, Landkreis",7253,1745,1824,3677,BY
+9773,"Dillingen a.d.Donau, Landkreis",2994,454,974,1566,BY
+9774,"Günzburg, Landkreis",3512,663,1002,1846,BY
+9775,"Neu-Ulm, Landkreis",4524,860,1313,2350,BY
+9776,"Lindau (Bodensee), Landkreis",2592,823,873,892,BY
+9777,"Ostallgäu, Landkreis",3662,991,967,1702,BY
+9778,"Unterallgäu, Landkreis",4000,857,1278,1861,BY
+9779,"Donau-Ries, Landkreis",3544,805,929,1806,BY
+9780,"Oberallgäu, Landkreis",3753,917,1060,1774,BY
+10041,"Saarbrücken, Regionalverband",14149,3336,3844,6958,SL
+10041100,"Saarbrücken, Landeshauptstadt",7183,2037,1903,3241,SL
+10042,"Merzig-Wadern, Landkreis",4861,880,1532,2448,SL
+10043,"Neunkirchen, Landkreis",6441,1254,1782,3403,SL
+10044,"Saarlouis, Landkreis",9424,2133,1874,5414,SL
+10045,"Saarpfalz-Kreis",6235,1170,1536,3529,SL
+10046,"St. Wendel, Landkreis",4472,1098,975,2398,SL
+11000,"Berlin",135680,34550,29246,71860,BE
+11001001,"Berlin-Mitte",,3166,2267,,BE
+11002002,"Berlin-Friedrichshain-Kreuzberg",,2267,1586,,BE
+11003003,"Berlin-Pankow",,3398,3202,,BE
+11004004,"Berlin-Charlottenburg-Wilmersdorf",,5376,2434,,BE
+11005005,"Berlin-Spandau",,2436,2377,,BE
+11006006,"Berlin-Steglitz-Zehlendorf",,2221,4058,,BE
+11007007,"Berlin-Tempelhof-Schöneberg",,3352,2034,,BE
+11008008,"Berlin-Neukölln",,2331,1905,,BE
+11009009,"Berlin-Treptow-Köpenick",,2216,2604,,BE
+11010010,"Berlin-Marzahn-Hellersdorf",,2723,1953,,BE
+11011011,"Berlin-Lichtenberg",,2405,2616,,BE
+11012012,"Berlin-Reinickendorf",,2659,2210,,BE
+12051,"Brandenburg an der Havel, Kreisfreie Stadt",3406,1236,721,1448,BB
+12052,"Cottbus, Kreisfreie Stadt",4311,1530,1129,1648,BB
+12053,"Frankfurt (Oder), Kreisfreie Stadt",2944,708,818,1409,BB
+12054,"Potsdam, Kreisfreie Stadt",6565,1869,1568,3128,BB
+12060,"Barnim, Landkreis",11984,3037,2221,6724,BB
+12061,"Dahme-Spreewald, Landkreis",7623,2202,1365,4055,BB
+12062,"Elbe-Elster, Landkreis",6173,2548,921,2696,BB
+12063,"Havelland, Landkreis",6893,2136,1206,3551,BB
+12064,"Märkisch-Oderland, Landkreis",11025,2724,1870,6430,BB
+12065,"Oberhavel, Landkreis",10774,2700,1898,6176,BB
+12066,"Oberspreewald-Lausitz, Landkreis",5718,1566,1266,2883,BB
+12067,"Oder-Spree, Landkreis",10709,2653,1680,6375,BB
+12068,"Ostprignitz-Ruppin, Landkreis",7140,2254,1028,3856,BB
+12069,"Potsdam-Mittelmark, Landkreis",8135,2214,1793,4118,BB
+12070,"Prignitz, Landkreis",6257,2037,1027,3191,BB
+12071,"Spree-Neiße, Landkreis",5285,1625,1096,2560,BB
+12072,"Teltow-Fläming, Landkreis",7661,2129,1672,3857,BB
+12073,"Uckermark, Landkreis",9823,3254,1111,5458,BB
+13003,"Kreisfreie Stadt Rostock, Hansestadt",9333,,2364,4840,MV
+13004,"Kreisfreie Stadt Schwerin, Landeshauptstadt",5313,,1476,2466,MV
+13071,"Landkreis Mecklenburgische Seenplatte",15239,4569,2976,7684,MV
+13072,"Landkreis Rostock",12014,3413,2548,6039,MV
+13073,"Landkreis Vorpommern-Rügen",15699,4660,2655,8375,MV
+13074,"Landkreis Nordwestmecklenburg",8036,1961,1792,4277,MV
+13075,"Landkreis Vorpommern-Greifswald",14161,4969,2952,6236,MV
+13076,"Landkreis Ludwigslust-Parchim",11234,3269,2397,5550,MV
+14511,"Chemnitz, Stadt",12775,3687,3321,5766,SN
+14521,"Erzgebirgskreis",20208,6877,4475,8850,SN
+14522,"Mittelsachsen, Landkreis",15498,4560,3955,6978,SN
+14523,"Vogtlandkreis",10424,3432,3292,3691,SN
+14524,"Zwickau, Landkreis",16875,5306,4561,6997,SN
+14612,"Dresden, Stadt",22049,5141,5787,11121,SN
+14625,"Bautzen, Landkreis",17851,4812,3904,9133,SN
+14626,"Görlitz, Landkreis",17344,5549,3673,8117,SN
+14627,"Meißen, Landkreis",13517,4167,2629,6713,SN
+14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",13252,3675,3450,6127,SN
+14713,"Leipzig, Stadt",22750,6748,6342,9655,SN
+14729,"Leipzig, Landkreis",12139,3579,3080,5473,SN
+14730,"Nordsachsen, Landkreis",10115,2714,2528,4866,SN
+15001,"Dessau-Roßlau, Kreisfreie Stadt",4084,1184,1315,1582,ST
+15002,"Halle (Saale), Kreisfreie Stadt",11331,3708,2889,4727,ST
+15003,"Magdeburg, Kreisfreie Stadt",9164,2012,3217,3921,ST
+15081,"Altmarkkreis Salzwedel",3600,835,1010,1751,ST
+15082,"Anhalt-Bitterfeld, Landkreis",8634,2708,1891,4026,ST
+15083,"Börde, Landkreis",7594,1807,2100,3681,ST
+15084,"Burgenlandkreis",10585,2693,2659,5229,ST
+15085,"Harz, Landkreis",12766,3430,3535,5790,ST
+15086,"Jerichower Land, Landkreis",4441,940,1452,2044,ST
+15087,"Mansfeld-Südharz, Landkreis",8441,2322,1915,4200,ST
+15088,"Saalekreis",8434,2585,1541,4303,ST
+15089,"Salzlandkreis",9359,2600,2940,3807,ST
+15090,"Stendal, Landkreis",5366,1510,1479,2372,ST
+15091,"Wittenberg, Landkreis",6825,2105,1422,3290,ST
+16051,"Erfurt, krsfr. Stadt",9998,2488,2455,5054,TH
+16052,"Gera, krsfr. Stadt",5292,1748,1256,2288,TH
+16053,"Jena, krsfr. Stadt",4159,1227,1175,1756,TH
+16054,"Suhl, krsfr. Stadt",2129,515,448,1166,TH
+16055,"Weimar, krsfr. Stadt",3687,1414,908,1365,TH
+16056,"Eisenach, krsfr. Stadt",2542,745,643,1154,TH
+16061,"Eichsfeld, Kreis",5800,1202,1021,3576,TH
+16062,"Nordhausen, Kreis",5432,1153,1449,2827,TH
+16063,"Wartburgkreis",6391,1075,1233,4083,TH
+16064,"Unstrut-Hainich-Kreis",6793,1521,1458,3808,TH
+16065,"Kyffhäuserkreis",5138,999,1020,3116,TH
+16066,"Schmalkalden-Meiningen, Kreis",7475,1859,1390,4226,TH
+16067,"Gotha, Kreis",6993,1851,1454,3688,TH
+16068,"Sömmerda, Kreis",4347,1398,663,2286,TH
+16069,"Hildburghausen, Kreis",3595,589,890,2114,TH
+16070,"Ilm-Kreis",5222,1092,1172,2956,TH
+16071,"Weimarer Land, Kreis",3901,591,895,2414,TH
+16072,"Sonneberg, Kreis",3066,788,678,1598,TH
+16073,"Saalfeld-Rudolstadt, Kreis",6058,1677,1298,3081,TH
+16074,"Saale-Holzland-Kreis",3847,953,745,2146,TH
+16075,"Saale-Orla-Kreis",3749,1168,686,1892,TH
+16076,"Greiz, Kreis",5065,1589,1281,2194,TH
+16077,"Altenburger Land, Kreis",4941,1240,1180,2516,TH

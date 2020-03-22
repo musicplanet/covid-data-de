@@ -1,0 +1,412 @@
+"krs","name","krankenh","betten","augen","chirurgie","frauen","hno","haut","innere_medizin","geriatrie","kinder","neurologie","orthopaedie","urologie","sonstige","land"
+1001,"      Flensburg, Kreisfreie Stadt",3,860,,200,43,20,,256,102,33,50,,40,6,SH
+1002,"      Kiel, Landeshauptstadt, Kreisfreie Stadt",16,2498,57,496,116,80,57,687,109,121,161,221,57,117,SH
+1003,"      Lübeck, Hansestadt, Kreisfreie Stadt",13,1975,42,431,92,54,61,524,164,94,98,32,43,65,SH
+1004,"      Neumünster, Kreisfreie Stadt",5,693,,182,32,7,,185,82,32,46,,24,8,SH
+1051,"      Dithmarschen, Landkreis",3,656,,167,36,1,,245,78,31,40,,2,15,SH
+1053,"      Herzogtum Lauenburg, Landkreis",5,604,,134,64,,,166,142,,65,,2,,SH
+1054,"      Nordfriesland, Landkreis",7,653,,187,30,1,25,225,69,,,,2,,SH
+1055,"      Ostholstein, Landkreis",18,1687,,363,31,4,,359,175,21,213,35,13,13,SH
+1056,"      Pinneberg, Landkreis",3,875,1,194,39,3,,280,69,10,69,,23,,SH
+1057,"      Plön, Landkreis",6,280,,47,17,,,106,,12,,,1,,SH
+1058,"      Rendsburg-Eckernförde, Landkreis",7,946,24,236,50,10,,276,43,21,48,109,41,10,SH
+1059,"      Schleswig-Flensburg, Landkreis",4,707,,120,27,2,,161,,14,65,,7,3,SH
+1060,"      Segeberg, Landkreis",11,1671,,161,46,,,452,66,3,131,78,12,,SH
+1061,"      Steinburg, Landkreis",1,609,,162,46,2,,158,50,43,43,,39,4,SH
+1062,"      Stormarn, Landkreis",9,1098,51,205,27,,,394,36,,,161,4,,SH
+2000,"  Hamburg",58,12536,176,3237,575,262,105,2841,1123,492,683,220,363,678,HH
+3101,"      Braunschweig, Kreisfreie Stadt",6,1943,51,532,93,57,,553,98,76,93,159,56,55,NI
+3102,"      Salzgitter, Kreisfreie Stadt",2,444,,133,36,1,,201,,24,,,49,,NI
+3103,"      Wolfsburg, Kreisfreie Stadt",1,549,3,147,49,45,,183,,44,32,,33,13,NI
+3151,"      Gifhorn, Landkreis",2,424,,107,45,30,,170,30,42,,,,,NI
+3153,"      Goslar, Landkreis",6,1040,,201,17,8,,278,,,122,70,13,,NI
+3154,"      Helmstedt, Landkreis",2,845,,99,15,,,157,,,,,12,,NI
+3155,"      Northeim, Landkreis",3,466,1,156,20,2,,253,,,19,,15,,NI
+3157,"      Peine, Landkreis",1,297,,109,15,,,173,,,,,,,NI
+3158,"      Wolfenbüttel, Landkreis",1,296,,111,23,2,,160,,,,,,,NI
+3159,"      Göttingen, Landkreis",12,3396,54,747,126,53,63,978,98,128,104,85,101,29,NI
+3241,"      Region Hannover, Landkreis",22,7075,80,1889,348,185,61,2001,154,291,336,338,218,30,NI
+3241001,"      Hannover, Landeshauptstadt",12,4795,80,1493,268,175,61,1326,106,267,281,269,157,30,
+3251,"      Diepholz, Landkreis",3,504,1,138,13,1,,183,,,,20,20,,NI
+3252,"      Hameln-Pyrmont, Landkreis",8,1130,1,246,30,3,,318,39,39,246,28,29,,NI
+3254,"      Hildesheim, Landkreis",6,1756,2,423,87,18,33,578,20,82,70,24,45,4,NI
+3255,"      Holzminden, Landkreis",2,207,1,45,21,4,,99,,,,9,4,,NI
+3256,"      Nienburg (Weser), Landkreis",2,357,,84,31,3,,157,,,50,10,22,,NI
+3257,"      Schaumburg, Landkreis",3,543,8,145,20,2,,170,,,16,,,,NI
+3351,"      Celle, Landkreis",2,702,,143,50,,,261,,43,63,34,34,11,NI
+3352,"      Cuxhaven, Landkreis",4,651,,106,21,2,,159,20,8,,170,51,,NI
+3353,"      Harburg, Landkreis",4,741,,123,49,48,,213,,,99,50,13,6,NI
+3354,"      Lüchow-Dannenberg, Landkreis",1,118,,39,6,1,,48,24,,,,,,NI
+3355,"      Lüneburg, Landkreis",4,895,1,121,74,2,1,190,,49,46,40,47,16,NI
+3356,"      Osterholz, Landkreis",2,234,,99,12,,,112,,,,11,,,NI
+3357,"      Rotenburg (Wümme), Landkreis",4,1020,1,256,55,21,1,343,50,40,59,28,28,,NI
+3358,"      Heidekreis, Landkreis",4,482,,143,20,4,,181,,17,38,17,1,,NI
+3359,"      Stade, Landkreis",4,919,,266,67,28,45,205,30,50,66,8,25,36,NI
+3360,"      Uelzen, Landkreis",6,809,,187,21,1,,229,37,24,97,,,,NI
+3361,"      Verden, Landkreis",2,262,,89,13,2,,135,,,,12,11,,NI
+3401,"      Delmenhorst, Kreisfreie Stadt",1,320,,111,24,10,,131,,15,,6,23,,NI
+3402,"      Emden, Kreisfreie Stadt",1,421,,91,30,5,,88,,32,80,,,,NI
+3403,"      Oldenburg (Oldenburg), Kreisfreie Stadt",3,1713,29,563,163,87,33,438,25,101,85,76,61,20,NI
+3404,"      Osnabrück, Kreisfreie Stadt",6,2117,26,464,118,59,,469,64,128,176,73,70,43,NI
+3405,"      Wilhelmshaven, Kreisfreie Stadt",2,598,1,100,25,2,,227,20,29,,30,30,1,NI
+3451,"      Ammerland, Landkreis",4,857,1,110,35,1,,128,,,81,,38,,NI
+3452,"      Aurich, Landkreis",3,701,,170,51,11,45,249,,36,,,1,24,NI
+3453,"      Cloppenburg, Landkreis",3,477,1,157,34,7,,215,,,,31,32,,NI
+3454,"      Emsland, Landkreis",7,1775,4,509,121,21,,546,41,110,174,20,50,4,NI
+3455,"      Friesland, Landkreis",2,513,,144,20,1,,203,,,70,75,,,NI
+3456,"      Grafschaft Bentheim, Landkreis",4,599,,125,50,8,68,160,,28,26,45,12,2,NI
+3457,"      Leer, Landkreis",4,705,1,216,52,15,,303,,56,,,40,,NI
+3458,"      Oldenburg, Landkreis",3,231,,51,14,2,,58,,,,51,4,,NI
+3459,"      Osnabrück, Landkreis",11,1627,12,474,82,14,33,586,47,,50,119,,,NI
+3460,"      Vechta, Landkreis",4,868,1,119,88,29,6,236,,46,71,40,29,4,NI
+3461,"      Wesermarsch, Landkreis",2,218,1,67,13,2,,115,,,,11,9,,NI
+3462,"      Wittmund, Landkreis",1,164,,73,14,1,,76,,,,,,,NI
+4011,"      Bremen, Kreisfreie Stadt",10,4006,65,720,293,133,46,995,221,160,141,361,93,208,HB
+4012,"      Bremerhaven, Kreisfreie Stadt",4,1010,4,293,57,18,28,335,70,42,57,,,18,HB
+5111,"      Düsseldorf, Kreisfreie Stadt",13,5017,87,1422,416,136,69,1421,134,240,155,48,161,86,NW
+5112,"      Duisburg, Kreisfreie Stadt",8,4634,40,1545,252,121,50,1406,208,133,165,100,136,29,NW
+5113,"      Essen, Kreisfreie Stadt",12,5681,92,1375,279,151,63,2029,144,158,223,177,177,161,NW
+5114,"      Krefeld, Kreisfreie Stadt",4,2078,34,504,99,33,58,572,121,78,140,,122,26,NW
+5116,"      Mönchengladbach, Kreisfreie Stadt",5,2131,5,455,210,61,,695,83,128,98,70,115,41,NW
+5117,"      Mülheim an der Ruhr, Kreisfreie Stadt",2,932,63,295,50,6,,346,57,,,13,,19,NW
+5119,"      Oberhausen, Kreisfreie Stadt",3,1456,,337,130,15,30,470,131,85,48,59,24,,NW
+5120,"      Remscheid, Kreisfreie Stadt",3,1020,,133,59,13,,143,45,35,87,45,,,NW
+5122,"      Solingen, Kreisfreie Stadt",4,1046,,252,48,43,,489,46,36,78,,47,7,NW
+5124,"      Wuppertal, Kreisfreie Stadt",3,2070,35,501,124,94,50,674,195,96,93,91,80,37,NW
+5154,"      Kleve, Kreis",7,1689,,331,93,25,,540,109,70,88,61,50,,NW
+5158,"      Mettmann, Kreis",11,2240,,454,166,20,,754,,28,,110,50,,NW
+5162,"      Rhein-Kreis Neuss",7,1983,,383,160,45,,625,72,69,78,180,37,1,NW
+5166,"      Viersen, Kreis",7,1413,,294,76,19,,447,40,45,,98,44,25,NW
+5170,"      Wesel, Kreis",7,2540,3,630,226,38,15,858,151,145,106,95,63,12,NW
+5314,"      Bonn, Kreisfreie Stadt",9,4149,109,876,252,121,44,1032,116,161,209,234,120,115,NW
+5315,"      Köln, Kreisfreie Stadt",22,7083,123,1956,417,191,60,2190,257,309,256,216,229,50,NW
+5316,"      Leverkusen, Kreisfreie Stadt",2,1086,,256,101,1,,411,89,64,60,56,48,,NW
+5334,"      Städteregion Aachen (einschl. Stadt Aachen)",9,3842,51,1131,265,70,24,1221,86,164,148,160,134,38,NW
+5334002,"      Aachen, krfr. Stadt",5,2435,51,716,173,67,24,646,20,118,85,88,59,38,
+5358,"      Düren, Kreis",6,1783,,332,87,21,,597,60,80,60,82,50,8,NW
+5362,"      Rhein-Erft-Kreis",8,1433,,427,79,8,,646,127,,86,,26,,NW
+5366,"      Euskirchen, Kreis",3,1101,1,241,62,5,,319,49,30,54,44,35,,NW
+5370,"      Heinsberg, Kreis",4,952,1,248,70,8,,340,55,,44,,53,,NW
+5374,"      Oberbergischer Kreis",4,1559,1,345,72,49,,502,104,35,93,69,30,7,NW
+5378,"      Rheinisch-Bergischer Kreis",5,1151,1,278,113,3,,408,52,,57,60,40,,NW
+5382,"      Rhein-Sieg-Kreis",7,1455,4,433,98,26,,493,63,89,41,67,47,,NW
+5512,"      Bottrop, Kreisfreie Stadt",2,704,4,193,43,4,,274,,63,45,48,30,,NW
+5513,"      Gelsenkirchen, Kreisfreie Stadt",5,1775,9,457,143,51,,504,45,138,57,65,73,18,NW
+5515,"      Münster, Kreisfreie Stadt",9,3730,58,890,219,92,96,901,55,256,211,169,102,92,NW
+5554,"      Borken, Kreis",7,1876,17,494,166,20,,587,95,40,136,60,98,13,NW
+5558,"      Coesfeld, Kreis",3,856,2,191,54,15,,311,90,50,35,,,,NW
+5562,"      Recklinghausen, Kreis",12,4886,10,1096,323,113,45,1567,315,174,180,255,182,31,NW
+5566,"      Steinfurt, Kreis",8,2033,3,521,115,31,,648,68,40,90,5,68,5,NW
+5570,"      Warendorf, Kreis",6,1345,,277,78,20,,374,40,77,36,180,42,,NW
+5711,"      Bielefeld, Kreisfreie Stadt",7,3974,35,885,241,112,35,1103,124,120,265,48,95,47,NW
+5754,"      Gütersloh, Kreis",3,1421,5,329,127,20,,369,60,,71,73,48,16,NW
+5758,"      Herford, Kreis",3,1092,2,328,54,2,,324,88,68,61,,60,13,NW
+5762,"      Höxter, Kreis",2,1057,3,215,44,10,,390,60,51,49,80,42,5,NW
+5766,"      Lippe, Kreis",4,1403,10,297,64,4,65,382,75,50,60,,53,8,NW
+5770,"      Minden-Lübbecke, Kreis",8,2373,4,781,98,42,59,771,42,100,94,113,69,,NW
+5774,"      Paderborn, Kreis",5,1747,6,409,134,88,,577,45,76,74,50,58,22,NW
+5911,"      Bochum, Kreisfreie Stadt",7,3403,45,978,95,82,84,1029,207,80,196,112,55,98,NW
+5913,"      Dortmund, Kreisfreie Stadt",11,3921,72,778,214,95,42,1209,229,130,86,249,115,34,NW
+5914,"      Hagen, Kreisfreie Stadt",4,1589,20,331,96,47,20,567,36,65,67,50,60,32,NW
+5915,"      Hamm, Kreisfreie Stadt",5,1789,8,461,92,20,,705,40,105,42,64,39,7,NW
+5916,"      Herne, Kreisfreie Stadt",5,1656,3,368,108,6,,597,82,,53,174,90,22,NW
+5954,"      Ennepe-Ruhr-Kreis",7,1906,,464,190,40,,520,129,118,72,135,75,29,NW
+5958,"      Hochsauerlandkreis",10,2087,9,430,93,13,,775,48,40,223,130,57,11,NW
+5962,"      Märkischer Kreis",11,2848,20,582,178,55,35,878,53,111,41,260,76,65,NW
+5966,"      Olpe, Kreis",2,844,3,263,97,14,,264,62,,,42,20,,NW
+5970,"      Siegen-Wittgenstein, Kreis",5,1988,5,465,120,24,60,590,50,108,90,90,87,29,NW
+5974,"      Soest, Kreis",9,2027,4,521,131,13,,604,86,98,40,50,45,15,NW
+5978,"      Unna, Kreis",9,2652,,791,192,41,30,1077,75,40,147,136,70,53,NW
+6411,"      Darmstadt, Kreisfreie Stadt",6,1548,30,338,152,46,56,439,75,80,96,,61,16,HE
+6412,"      Frankfurt am Main, Kreisfreie Stadt",16,5906,105,1619,416,130,50,1614,233,318,294,295,205,157,HE
+6413,"      Offenbach am Main, Kreisfreie Stadt",5,1188,,336,81,7,,390,47,72,83,18,51,10,HE
+6414,"      Wiesbaden, Landeshauptstadt, Kreisfreie Stadt",9,1980,33,429,163,65,23,451,107,71,118,209,62,114,HE
+6431,"      Bergstraße, Landkreis",7,940,,247,58,3,,323,42,,,48,8,,HE
+6432,"      Darmstadt-Dieburg, Landkreis",1,428,,149,24,3,,130,46,,,,,,HE
+6433,"      Groß-Gerau, Landkreis",3,1039,,222,74,29,,312,40,45,,,43,,HE
+6434,"      Hochtaunuskreis",9,1224,,139,42,3,,288,109,,112,,25,,HE
+6435,"      Main-Kinzig-Kreis",4,1785,,405,150,50,28,540,154,110,75,,42,5,HE
+6436,"      Main-Taunus-Kreis",5,686,,141,45,,1,229,65,,,1,17,6,HE
+6437,"      Odenwaldkreis",4,477,,92,46,4,,98,31,,129,,8,,HE
+6438,"      Offenbach, Landkreis",3,686,,212,38,6,,237,85,,,,1,,HE
+6439,"      Rheingau-Taunus-Kreis",5,654,,112,30,,,138,120,,,20,,20,HE
+6440,"      Wetteraukreis",7,1369,,351,54,1,,617,57,,81,,,30,HE
+6531,"      Gießen, Landkreis",6,2390,26,572,126,66,26,604,59,160,66,34,60,22,HE
+6532,"      Lahn-Dill-Kreis",10,1775,3,296,71,6,,564,80,7,245,120,62,11,HE
+6533,"      Limburg-Weilburg, Landkreis",4,1039,,240,48,7,,269,38,18,229,,15,,HE
+6534,"      Marburg-Biedenkopf, Landkreis",5,1542,22,314,109,31,30,450,66,85,63,17,45,145,HE
+6535,"      Vogelsbergkreis",5,699,,288,21,8,,221,64,,,,22,,HE
+6611,"      Kassel, Kreisfreie Stadt",9,2694,25,724,153,81,79,828,61,131,195,137,72,25,HE
+6631,"      Fulda, Landkreis",7,1542,2,334,110,52,,433,103,61,68,111,74,21,HE
+6632,"      Hersfeld-Rotenburg, Landkreis",4,1039,22,221,42,28,,386,60,38,75,40,33,,HE
+6633,"      Kassel, Landkreis",5,853,,71,16,2,,232,105,,87,2,5,,HE
+6634,"      Schwalm-Eder-Kreis",6,645,,143,47,6,,191,44,,110,,,16,HE
+6635,"      Waldeck-Frankenberg, Landkreis",12,1716,,273,54,29,,341,32,,100,256,48,1,HE
+6636,"      Werra-Meißner-Kreis",2,588,,81,20,3,,133,94,,16,127,4,43,HE
+7111,"      Koblenz, Kreisfreie Stadt",2,1947,9,585,147,72,,693,40,92,60,114,82,13,RP
+7131,"      Ahrweiler, Landkreis",7,757,,239,51,13,,152,59,,,31,31,1,RP
+7132,"      Altenkirchen (Westerwald), Landkreis",2,385,,92,40,6,,119,,33,,,15,,RP
+7133,"      Bad Kreuznach, Landkreis",5,963,2,186,81,35,,365,,50,40,103,32,46,RP
+7134,"      Birkenfeld, Landkreis",2,671,1,150,47,3,,182,30,25,68,40,30,15,RP
+7135,"      Cochem-Zell, Landkreis",3,425,,189,12,,,115,30,,40,,13,26,RP
+7137,"      Mayen-Koblenz, Landkreis",4,751,,77,28,,,110,,,139,20,10,14,RP
+7138,"      Neuwied, Landkreis",6,1599,6,397,113,10,,559,,64,150,97,40,14,RP
+7140,"      Rhein-Hunsrück-Kreis",2,446,2,89,25,6,,124,,,,135,10,,RP
+7141,"      Rhein-Lahn-Kreis",6,1011,,117,29,17,,303,,,,139,17,50,RP
+7143,"      Westerwaldkreis",3,541,,199,60,3,,211,,,,1,7,40,RP
+7211,"      Trier, Kreisfreie Stadt",2,1573,39,379,112,70,,468,41,64,80,83,52,71,RP
+7231,"      Bernkastel-Wittlich, Landkreis",1,496,1,116,27,1,,184,,20,37,12,3,,RP
+7232,"      Eifelkreis Bitburg-Prüm",2,600,,202,54,5,,239,,,,,24,,RP
+7233,"      Vulkaneifel, Landkreis",1,232,,59,18,,,97,,,,41,17,,RP
+7235,"      Trier-Saarburg, Landkreis",2,340,5,122,17,8,,147,,,,,11,10,RP
+7311,"      Frankenthal (Pfalz), Kreisfreie Stadt",1,315,,60,30,3,,115,,,,,,12,RP
+7312,"      Kaiserslautern, Kreisfreie Stadt",2,1164,24,291,50,56,,343,,76,144,80,62,,RP
+7313,"      Landau in der Pfalz, Kreisfreie Stadt",2,844,,263,51,24,,355,,45,,55,42,9,RP
+7314,"      Ludwigshafen am Rhein, Kreisfreie Stadt",4,2047,36,612,86,63,51,438,120,65,81,97,58,240,RP
+7315,"      Mainz, Kreisfreie Stadt",4,2219,69,573,151,91,45,716,95,130,65,,79,54,RP
+7316,"      Neustadt an der Weinstraße, Kreisfreie Stadt",1,364,,120,35,4,,141,,,,,40,24,RP
+7317,"      Pirmasens, Kreisfreie Stadt",1,451,,119,28,,,161,,32,,,9,12,RP
+7318,"      Speyer, Kreisfreie Stadt",2,651,3,186,70,7,,255,,65,,,45,20,RP
+7319,"      Worms, Kreisfreie Stadt",2,696,,195,65,4,,245,30,62,,,60,35,RP
+7331,"      Alzey-Worms, Landkreis",2,594,,45,10,3,,70,,,100,,3,6,RP
+7332,"      Bad Dürkheim, Landkreis",4,504,,128,33,8,,179,,,,,,9,RP
+7333,"      Donnersbergkreis",1,203,,79,26,,,72,26,,,,,,RP
+7334,"      Germersheim, Landkreis",1,320,,93,61,10,,156,,,,,,,RP
+7335,"      Kaiserslautern, Landkreis",1,531,,135,38,14,,228,,,,78,15,23,RP
+7337,"      Südliche Weinstraße, Landkreis",3,704,,,,,,100,,,54,,,,RP
+7339,"      Mainz-Bingen, Landkreis",4,338,,158,16,5,,137,,,,,13,9,RP
+7340,"      Südwestpfalz, Landkreis",2,215,1,16,,,,70,,,,68,,,RP
+8111,"      Stuttgart, Landeshauptstadt, Stadtkreis",22,4961,95,1400,297,172,97,1455,10,169,154,283,115,83,BW
+8115,"      Böblingen, Landkreis",5,1099,,303,164,5,,383,,80,52,75,37,,BW
+8116,"      Esslingen, Landkreis",8,1899,13,529,173,13,,633,,79,93,26,30,17,BW
+8117,"      Göppingen, Landkreis",3,1246,,170,51,6,,379,15,39,87,116,25,13,BW
+8118,"      Ludwigsburg, Landkreis",7,1749,1,461,115,21,,494,,85,136,222,58,10,BW
+8119,"      Rems-Murr-Kreis, Landkreis",4,1326,,318,78,6,,315,,53,52,6,34,19,BW
+8121,"      Heilbronn, Stadtkreis",5,1020,28,215,94,65,39,303,,105,64,3,66,7,BW
+8125,"      Heilbronn, Landkreis",4,1214,,293,,,,355,,,,125,,,BW
+8126,"      Hohenlohekreis, Landkreis",1,283,3,86,39,3,,146,,,,,6,,BW
+8127,"      Schwäbisch Hall, Landkreis",3,741,1,208,66,10,,232,21,53,45,33,24,2,BW
+8128,"      Main-Tauber-Kreis, Landkreis",5,1033,,173,55,3,,459,,40,52,64,39,,BW
+8135,"      Heidenheim, Landkreis",1,535,,131,33,4,,176,,24,48,,22,18,BW
+8136,"      Ostalbkreis, Landkreis",4,1056,1,307,147,12,,338,,87,85,,35,5,BW
+8211,"      Baden-Baden, Stadtkreis",4,796,2,139,55,1,,311,28,38,,22,31,,BW
+8212,"      Karlsruhe, Stadtkreis",7,2685,113,732,189,141,30,734,4,99,78,160,65,87,BW
+8215,"      Karlsruhe, Landkreis",3,914,,160,49,1,,301,,,124,139,25,,BW
+8216,"      Rastatt, Landkreis",3,434,,92,21,,,180,20,,79,5,,,BW
+8221,"      Heidelberg, Stadtkreis",13,3018,37,631,196,82,60,864,105,160,205,311,82,68,BW
+8222,"      Mannheim, Stadtkreis",5,2373,14,546,175,96,59,642,97,109,101,93,148,22,BW
+8225,"      Neckar-Odenwald-Kreis, Landkreis",4,503,,176,46,5,,202,,,,,10,,BW
+8226,"      Rhein-Neckar-Kreis, Landkreis",5,1503,,309,104,19,,378,,,18,,24,,BW
+8231,"      Pforzheim, Stadtkreis",8,1201,16,318,113,41,,347,,53,89,135,66,3,BW
+8235,"      Calw, Landkreis",8,1243,,122,44,2,,312,,62,67,76,41,,BW
+8236,"      Enzkreis, Landkreis",4,324,,86,21,3,,173,,38,,,3,,BW
+8237,"      Freudenstadt, Landkreis",2,479,,94,42,8,,125,,27,115,,,,BW
+8311,"      Freiburg im Breisgau, Stadtkreis",8,2233,65,597,164,99,48,553,,155,92,93,88,83,BW
+8315,"      Breisgau-Hochschwarzwald, Landkreis",14,1339,,305,34,3,,582,,16,,68,7,,BW
+8316,"      Emmendingen, Landkreis",4,1015,,154,35,2,,165,,,118,,8,,BW
+8317,"      Ortenaukreis, Landkreis",13,2249,25,545,131,42,,681,,46,294,52,47,28,BW
+8325,"      Rottweil, Landkreis",4,830,1,122,40,2,6,127,37,,40,,,10,BW
+8326,"      Schwarzwald-Baar-Kreis, Landkreis",6,1279,,231,60,22,18,404,,70,42,75,58,58,BW
+8327,"      Tuttlingen, Landkreis",2,360,5,122,27,8,,198,,,,,,,BW
+8335,"      Konstanz, Landkreis",10,1655,2,370,95,18,,425,66,64,181,67,44,20,BW
+8336,"      Lörrach, Landkreis",3,837,,153,80,15,,344,,57,28,64,25,,BW
+8337,"      Waldshut, Landkreis",8,713,,154,34,7,,286,,,,,12,,BW
+8415,"      Reutlingen, Landkreis",5,1251,,276,74,5,,313,42,58,62,,37,,BW
+8416,"      Tübingen, Landkreis",6,1936,75,614,106,63,84,405,,137,78,76,47,40,BW
+8417,"      Zollernalbkreis, Landkreis",5,547,,187,38,1,1,218,,,,55,,,BW
+8421,"      Ulm, Stadtkreis",5,1518,55,280,90,49,32,322,85,113,109,155,53,29,BW
+8425,"      Alb-Donau-Kreis, Landkreis",4,418,,197,58,5,,143,,,,,14,1,BW
+8426,"      Biberach, Landkreis",6,798,,156,45,2,,251,,,80,36,24,3,BW
+8435,"      Bodenseekreis, Landkreis",5,742,7,235,64,16,,276,,38,33,,31,,BW
+8436,"      Ravensburg, Landkreis",11,1727,8,288,93,27,,441,,77,135,64,18,17,BW
+8437,"      Sigmaringen, Landkreis",4,660,,142,29,5,,166,,,39,,40,,BW
+9161,"      Ingolstadt",4,1284,2,277,84,2,,281,34,,90,36,55,28,BY
+9162,"      München, Landeshauptstadt",54,11200,176,2849,735,264,226,3255,301,535,579,930,350,215,BY
+9163,"      Rosenheim",2,762,2,206,62,4,,336,,56,49,11,36,,BY
+9171,"      Altötting, Landkreis",3,584,,185,58,12,,184,20,45,20,30,30,,BY
+9172,"      Berchtesgadener Land, Landkreis",7,669,1,148,13,1,40,266,31,,25,39,1,9,BY
+9173,"      Bad Tölz-Wolfratshausen, Landkreis",4,639,3,124,15,7,,189,15,,65,61,26,,BY
+9174,"      Dachau, Landkreis",1,455,,148,30,40,,140,28,4,55,,10,,BY
+9175,"      Ebersberg, Landkreis",1,328,,124,18,2,,132,,,,11,23,,BY
+9176,"      Eichstätt, Landkreis",2,455,1,128,24,2,,145,20,,122,8,5,,BY
+9177,"      Erding, Landkreis",3,420,1,124,38,1,,204,30,,,8,6,8,BY
+9178,"      Freising, Landkreis",1,353,1,107,25,2,,191,,,,,5,,BY
+9179,"      Fürstenfeldbruck, Landkreis",1,380,,119,25,4,,155,,,23,24,30,,BY
+9180,"      Garmisch-Partenkirchen, Landkreis",8,1391,3,712,26,2,,252,25,145,29,25,33,11,BY
+9181,"      Landsberg am Lech, Landkreis",3,472,1,75,31,2,,100,,12,,,,,BY
+9182,"      Miesbach, Landkreis",2,458,,122,27,1,,130,34,,36,,,,BY
+9183,"      Mühldorf a.Inn, Landkreis",1,351,,111,22,5,,188,,,,,25,,BY
+9184,"      München, Landkreis",4,1351,,34,17,,,,40,,37,66,61,,BY
+9185,"      Neuburg-Schrobenhausen, Landkreis",2,448,2,120,37,2,,144,20,70,,,17,,BY
+9186,"      Pfaffenhofen a.d.Ilm, Landkreis",1,323,,121,30,1,,146,20,,,5,,,BY
+9187,"      Rosenheim, Landkreis",17,2655,,220,66,16,,315,83,64,240,252,,13,BY
+9188,"      Starnberg, Landkreis",9,1197,4,255,59,6,,518,33,29,131,16,10,6,BY
+9189,"      Traunstein, Landkreis",4,928,,282,42,10,,352,29,47,30,33,29,24,BY
+9190,"      Weilheim-Schongau, Landkreis",3,430,,163,41,5,,172,32,,,10,7,,BY
+9261,"      Landshut",4,1274,7,252,104,10,,364,24,88,51,69,47,6,BY
+9262,"      Passau",3,726,1,188,58,17,,232,,78,42,51,17,42,BY
+9263,"      Straubing",1,450,1,125,27,39,,215,,,,15,28,,BY
+9271,"      Deggendorf, Landkreis",6,1309,1,239,48,3,,180,70,54,56,49,38,36,BY
+9272,"      Freyung-Grafenau, Landkreis",1,405,,130,15,15,,162,,,,,23,,BY
+9273,"      Kelheim, Landkreis",3,394,,41,14,1,1,186,,,12,135,4,,BY
+9274,"      Landshut, Landkreis",1,185,,84,17,,,84,,,,,,,BY
+9275,"      Passau, Landkreis",6,666,,149,31,5,,256,20,,20,104,,,BY
+9276,"      Regen, Landkreis",2,314,,137,28,10,,139,,,,,,,BY
+9277,"      Rottal-Inn, Landkreis",2,635,,110,36,3,,173,20,,,20,23,,BY
+9278,"      Straubing-Bogen, Landkreis",3,385,,127,6,1,,134,,,,105,12,,BY
+9279,"      Dingolfing-Landau, Landkreis",1,125,,40,16,4,,65,,,,,,,BY
+9361,"      Amberg",1,568,4,170,52,5,,180,24,44,49,14,26,,BY
+9362,"      Regensburg",5,2791,50,735,110,68,45,713,92,134,190,,71,47,BY
+9363,"      Weiden i.d.OPf.",1,704,6,216,45,10,,266,,64,55,,40,2,BY
+9371,"      Amberg-Sulzbach, Landkreis",2,195,,69,19,3,,84,20,,,,,,BY
+9372,"      Cham, Landkreis",4,692,2,85,30,15,140,182,,,,20,20,6,BY
+9373,"      Neumarkt i.d.OPf., Landkreis",2,529,,179,47,3,,212,20,,38,,27,3,BY
+9374,"      Neustadt a.d.Waldnaab, Landkreis",1,186,,,,,,,,,,,,,BY
+9375,"      Regensburg, Landkreis",2,240,,50,2,,,155,,,,8,,,BY
+9376,"      Schwandorf, Landkreis",5,534,,150,27,4,,236,,,12,95,10,,BY
+9377,"      Tirschenreuth, Landkreis",2,290,,114,18,2,,147,,,,9,,,BY
+9461,"      Bamberg",1,1013,6,245,71,8,,231,35,45,75,20,42,33,BY
+9462,"      Bayreuth",2,1365,1,235,53,1,34,299,54,65,207,43,34,22,BY
+9463,"      Coburg",1,510,,98,36,4,,222,34,52,20,,31,13,BY
+9464,"      Hof",1,455,,130,28,,,173,,39,36,,49,,BY
+9471,"      Bamberg, Landkreis",3,310,,144,,,,103,20,,,,,,BY
+9472,"      Bayreuth, Landkreis",1,117,,47,18,4,,48,,,,,,,BY
+9473,"      Coburg, Landkreis",2,93,,48,,,,25,,,20,,,,BY
+9474,"      Forchheim, Landkreis",2,310,1,77,40,1,,151,20,,,4,2,,BY
+9475,"      Hof, Landkreis",3,614,,101,7,1,,180,23,,,129,,,BY
+9476,"      Kronach, Landkreis",1,282,,101,26,5,,120,30,,,,,,BY
+9477,"      Kulmbach, Landkreis",2,574,1,156,40,12,,223,10,,42,18,23,,BY
+9478,"      Lichtenfels, Landkreis",3,765,,132,38,2,,223,,,61,50,,,BY
+9479,"      Wunsiedel i.Fichtelgebirge, Landkreis",1,408,,136,34,4,,182,,,,10,42,,BY
+9561,"      Ansbach",3,1223,4,259,60,1,,410,24,,35,30,26,1,BY
+9562,"      Erlangen",3,2188,96,456,102,115,48,369,34,121,183,40,60,77,BY
+9563,"      Fürth",3,850,26,174,71,4,,298,31,68,46,53,45,34,BY
+9564,"      Nürnberg",17,3542,58,965,218,123,65,1055,103,205,99,200,119,63,BY
+9565,"      Schwabach",1,170,,71,5,6,,88,,,,,,,BY
+9571,"      Ansbach, Landkreis",1,150,2,65,13,,,50,20,,,,,,BY
+9572,"      Erlangen-Höchstadt, Landkreis",2,131,,30,,3,,47,,,26,25,,,BY
+9574,"      Nürnberger Land, Landkreis",4,972,,101,16,5,153,206,20,,60,210,10,,BY
+9575,"      Neustadt a.d.Aisch-Bad Windsheim, Landkreis",3,478,,130,29,6,,134,37,,40,,22,,BY
+9576,"      Roth, Landkreis",1,270,3,105,30,4,,120,,,,,8,,BY
+9577,"      Weißenburg-Gunzenhausen, Landkreis",3,420,2,162,21,8,,200,20,,,,7,,BY
+9661,"      Aschaffenburg",3,940,2,267,109,22,,256,20,94,61,48,41,,BY
+9662,"      Schweinfurt",2,932,2,241,107,19,,324,20,75,70,,40,5,BY
+9663,"      Würzburg",9,2369,74,651,132,89,59,493,20,175,107,132,125,52,BY
+9671,"      Aschaffenburg, Landkreis",1,42,,,,,42,,,,,,,,BY
+9672,"      Bad Kissingen, Landkreis",7,813,,116,25,,,236,48,14,20,,8,8,BY
+9673,"      Rhön-Grabfeld, Landkreis",5,1105,,438,20,11,,233,,,163,,,,BY
+9674,"      Haßberge, Landkreis",1,240,,75,26,1,,118,20,,,,,,BY
+9675,"      Kitzingen, Landkreis",2,245,,110,24,4,,107,,,,,,,BY
+9676,"      Miltenberg, Landkreis",1,284,,104,43,,,112,20,,,,5,,BY
+9677,"      Main-Spessart, Landkreis",2,664,2,141,9,,,125,20,,40,,3,,BY
+9678,"      Schweinfurt, Landkreis",6,587,10,61,6,5,,71,,,,100,,44,BY
+9679,"      Würzburg, Landkreis",1,140,1,53,1,1,,66,,,,,18,,BY
+9761,"      Augsburg",10,2918,51,652,210,84,47,711,60,201,84,284,92,51,BY
+9762,"      Kaufbeuren",2,609,,132,28,3,,163,,20,47,,14,,BY
+9763,"      Kempten (Allgäu)",2,600,,138,55,7,,137,18,40,29,12,39,5,BY
+9764,"      Memmingen",2,544,,149,61,2,,142,20,64,16,,40,6,BY
+9771,"      Aichach-Friedberg, Landkreis",2,280,,98,31,3,,142,,,,6,,,BY
+9772,"      Augsburg, Landkreis",3,298,,111,26,2,,138,21,,,,,,BY
+9773,"      Dillingen a.d.Donau, Landkreis",2,317,10,114,22,10,,138,,,,17,6,,BY
+9774,"      Günzburg, Landkreis",6,1042,1,177,20,5,,233,61,,194,14,7,20,BY
+9775,"      Neu-Ulm, Landkreis",4,410,,136,45,5,,183,20,,,5,10,6,BY
+9776,"      Lindau (Bodensee), Landkreis",8,611,,129,11,35,,122,20,3,,,15,3,BY
+9777,"      Ostallgäu, Landkreis",5,527,,128,20,3,,224,20,,20,50,,,BY
+9778,"      Unterallgäu, Landkreis",4,419,3,127,20,6,,163,,,,,,,BY
+9779,"      Donau-Ries, Landkreis",2,529,5,153,58,6,,229,20,,,10,8,,BY
+9780,"      Oberallgäu, Landkreis",3,460,1,76,10,3,,114,20,,,47,,,BY
+10041,"      Saarbrücken, Regionalverband",8,2583,70,491,83,41,4,717,126,59,270,186,118,87,SL
+10041100,"      Saarbrücken, Landeshauptstadt",5,1591,22,296,68,41,4,345,126,59,142,107,37,83,SL
+10042,"      Merzig-Wadern, Landkreis",3,481,,81,17,,,153,24,,51,82,2,6,SL
+10043,"      Neunkirchen, Landkreis",4,700,,103,32,6,,258,,69,55,46,24,21,SL
+10044,"      Saarlouis, Landkreis",5,985,,192,64,3,,383,28,29,42,117,7,17,SL
+10045,"      Saarpfalz-Kreis",2,1498,35,307,87,62,42,407,25,88,86,91,53,71,SL
+10046,"      St. Wendel, Landkreis",1,248,,59,20,2,,80,25,,,,,7,SL
+11000,"  Berlin",83,20390,234,4831,1091,346,201,6211,1687,729,1000,660,530,261,BE
+11001001,"      Berlin-Mitte",14,4849,82,1318,173,76,75,1576,261,247,232,11,204,78,BE
+11002002,"      Berlin-Friedrichshain-Kreuzberg",3,27,12,3,,,,,,,,,,,BE
+11003003,"      Berlin-Pankow",6,2230,21,506,150,85,23,640,140,96,126,86,44,52,BE
+11004004,"      Berlin-Charlottenburg-Wilmersdorf",15,1924,41,491,161,60,,623,94,54,46,25,5,5,BE
+11005005,"      Berlin-Spandau",7,1066,,192,110,5,,288,221,47,35,132,1,,BE
+11006006,"      Berlin-Steglitz-Zehlendorf",15,2060,,471,63,10,,743,216,20,38,227,4,,BE
+11007007,"      Berlin-Tempelhof-Schöneberg",7,556,5,98,65,9,,179,36,67,,57,13,,BE
+11008008,"      Berlin-Neukölln",2,124,,4,,,,,120,,,,,,BE
+11009009,"      Berlin-Treptow-Köpenick",3,545,,188,46,,,218,45,,44,,,,BE
+11010010,"      Berlin-Marzahn-Hellersdorf",4,653,51,324,1,30,,84,,,72,2,23,66,BE
+11011011,"      Berlin-Lichtenberg",3,1100,,207,66,,,287,126,94,91,9,30,,BE
+11012012,"      Berlin-Reinickendorf",4,5256,22,1029,256,71,103,1573,428,104,316,111,206,60,BE
+12051,"      Brandenburg an der Havel, Kreisfreie Stadt",3,901,10,113,35,24,,172,90,,74,71,27,,BB
+12052,"      Cottbus, Kreisfreie Stadt",2,1187,14,333,55,32,24,316,41,68,73,73,32,26,BB
+12053,"      Frankfurt (Oder), Kreisfreie Stadt",2,946,20,205,40,28,30,248,80,32,59,,26,35,BB
+12054,"      Potsdam, Kreisfreie Stadt",7,1579,22,249,121,31,6,353,171,102,74,172,33,53,BB
+12060,"      Barnim, Landkreis",5,1175,14,249,59,25,,250,38,57,249,,27,15,BB
+12061,"      Dahme-Spreewald, Landkreis",4,1009,1,139,52,19,,220,40,44,85,48,30,,BB
+12062,"      Elbe-Elster, Landkreis",1,465,,145,20,,,210,,20,,,,,BB
+12063,"      Havelland, Landkreis",1,482,,83,27,,,181,65,30,,,26,,BB
+12064,"      Märkisch-Oderland, Landkreis",2,666,,206,46,,,247,,12,61,,,,BB
+12065,"      Oberhavel, Landkreis",4,1123,,154,42,20,,268,53,25,53,387,,,BB
+12066,"      Oberspreewald-Lausitz, Landkreis",1,513,,121,25,,,174,60,24,40,,15,,BB
+12067,"      Oder-Spree, Landkreis",7,1375,,271,54,25,,354,186,43,214,8,45,36,BB
+12068,"      Ostprignitz-Ruppin, Landkreis",2,1144,2,239,38,24,,373,104,22,52,45,32,20,BB
+12069,"      Potsdam-Mittelmark, Landkreis",5,702,,62,,,,313,70,,196,,1,,BB
+12070,"      Prignitz, Landkreis",1,362,,54,14,,,128,28,20,36,,16,,BB
+12071,"      Spree-Neiße, Landkreis",3,499,,108,32,3,,155,56,,,64,8,,BB
+12072,"      Teltow-Fläming, Landkreis",2,503,,149,49,,,172,62,36,,,35,,BB
+12073,"      Uckermark, Landkreis",5,731,,97,35,13,31,302,57,17,49,39,13,6,BB
+13003,"      Kreisfreie Stadt Rostock, Hansestadt",6,1514,24,392,126,30,20,435,,67,90,41,42,51,MV
+13004,"      Kreisfreie Stadt Schwerin, Landeshauptstadt",2,1420,15,198,71,47,35,361,,68,76,144,38,34,MV
+13071,"      Landkreis Mecklenburgische Seenplatte",5,1646,38,356,113,59,,585,,81,64,119,50,10,MV
+13072,"      Landkreis Rostock",5,785,,149,17,14,,294,26,22,99,62,37,,MV
+13073,"      Landkreis Vorpommern-Rügen",5,1135,2,209,47,34,,419,42,40,42,77,23,2,MV
+13074,"      Landkreis Nordwestmecklenburg",2,593,,148,39,3,,219,,30,41,,19,,MV
+13075,"      Landkreis Vorpommern-Greifswald",8,2233,28,432,98,41,30,647,,119,180,166,56,65,MV
+13076,"      Landkreis Ludwigslust-Parchim",6,960,,200,54,,,335,15,31,205,64,2,54,MV
+14511,"      Chemnitz, Stadt",3,2353,25,510,125,49,47,783,39,132,125,108,78,98,SN
+14521,"      Erzgebirgskreis",6,2061,14,397,127,58,25,775,40,84,28,137,58,12,SN
+14522,"      Mittelsachsen, Landkreis",7,1327,,329,71,2,,363,,34,61,52,36,198,SN
+14523,"      Vogtlandkreis",7,1718,15,397,116,34,23,463,84,63,79,20,59,55,SN
+14524,"      Zwickau, Landkreis",6,2008,33,461,109,30,23,599,36,107,93,53,37,111,SN
+14612,"      Dresden, Stadt",6,3862,70,928,240,79,91,1201,,207,169,152,153,67,SN
+14625,"      Bautzen, Landkreis",7,1702,13,352,97,20,12,539,34,54,225,66,60,,SN
+14626,"      Görlitz, Landkreis",6,1819,17,358,89,27,22,562,41,78,73,90,62,11,SN
+14627,"      Meißen, Landkreis",6,1203,21,324,62,41,,476,30,47,83,,34,,SN
+14628,"      Sächsische Schweiz-Osterzgebirge, Landkreis",6,1277,,257,78,14,,400,20,25,235,115,31,14,SN
+14713,"      Leipzig, Stadt",6,3975,30,1082,182,78,54,1224,77,163,99,99,180,227,SN
+14729,"      Leipzig, Landkreis",4,1137,1,259,65,23,,389,,69,131,,39,46,SN
+14730,"      Nordsachsen, Landkreis",7,1428,12,246,87,11,,372,,54,90,196,3,22,SN
+15001,"      Dessau-Roßlau, Kreisfreie Stadt",3,953,26,265,53,30,42,267,,42,37,,55,36,ST
+15002,"      Halle (Saale), Kreisfreie Stadt",6,2959,36,661,144,70,38,796,39,142,178,133,94,328,ST
+15003,"      Magdeburg, Kreisfreie Stadt",6,2362,39,577,165,60,57,501,45,106,197,195,81,84,ST
+15081,"      Altmarkkreis Salzwedel",1,419,,126,38,4,,205,,42,,,4,,ST
+15082,"      Anhalt-Bitterfeld, Landkreis",3,794,,195,66,29,,400,,41,,52,11,,ST
+15083,"      Börde, Landkreis",3,592,16,136,1,19,,148,32,,30,,40,,ST
+15084,"      Burgenlandkreis",2,1122,,256,92,20,21,369,,84,36,64,30,55,ST
+15085,"      Harz, Landkreis",5,1511,,286,81,73,26,538,60,85,45,33,23,15,ST
+15086,"      Jerichower Land, Landkreis",4,748,,122,27,1,,300,12,21,20,80,,,ST
+15087,"      Mansfeld-Südharz, Landkreis",1,774,13,180,25,34,,294,70,21,,35,27,,ST
+15088,"      Saalekreis",1,634,,79,34,,,231,66,26,,44,19,,ST
+15089,"      Salzlandkreis",6,1312,6,251,58,3,,382,114,56,119,,26,20,ST
+15090,"      Stendal, Landkreis",4,1001,,172,46,8,,294,30,27,48,36,25,7,ST
+15091,"      Wittenberg, Landkreis",3,575,,156,26,,,161,35,25,47,,28,17,ST
+16051,"      Erfurt, krsfr. Stadt",2,1690,30,334,85,65,59,445,133,76,66,84,66,35,TH
+16052,"      Gera, krsfr. Stadt",1,972,19,201,53,34,34,373,,35,52,,48,34,TH
+16053,"      Jena, krsfr. Stadt",1,1403,38,348,76,50,40,363,41,93,78,,50,46,TH
+16054,"      Suhl, krsfr. Stadt",1,511,23,100,31,39,7,170,,33,30,44,25,9,TH
+16055,"      Weimar, krsfr. Stadt",1,593,,100,59,26,,161,,52,78,,,,TH
+16056,"      Eisenach, krsfr. Stadt",1,397,,112,23,,,175,,19,34,,34,,TH
+16061,"      Eichsfeld, Kreis",1,424,,114,30,4,,168,20,27,,,61,,TH
+16062,"      Nordhausen, Kreis",3,984,16,200,41,36,29,299,,70,44,72,34,26,TH
+16063,"      Wartburgkreis",3,532,,98,27,23,,142,,20,116,,,2,TH
+16064,"      Unstrut-Hainich-Kreis",4,1284,,178,40,1,,248,109,24,123,43,23,,TH
+16065,"      Kyffhäuserkreis",1,462,,184,29,,,190,41,10,,,2,6,TH
+16066,"      Schmalkalden-Meiningen, Kreis",3,715,2,179,30,2,,247,124,18,46,28,37,2,TH
+16067,"      Gotha, Kreis",2,508,,126,42,4,,248,,17,12,33,26,,TH
+16069,"      Hildburghausen, Kreis",2,505,,49,24,,,111,,,38,,,,TH
+16070,"      Ilm-Kreis",2,567,,106,30,15,,260,,26,,115,15,,TH
+16071,"      Weimarer Land, Kreis",3,1053,,344,18,,,401,,8,44,188,28,22,TH
+16072,"      Sonneberg, Kreis",1,381,,137,22,,,182,,,,40,,,TH
+16073,"      Saalfeld-Rudolstadt, Kreis",3,994,,243,53,7,82,316,81,35,,,31,,TH
+16074,"      Saale-Holzland-Kreis",3,654,,20,,,,57,,,94,177,,,TH
+16075,"      Saale-Orla-Kreis",1,120,,33,26,,,61,,,,,,,TH
+16076,"      Greiz, Kreis",2,403,,40,20,2,,139,114,24,,34,30,,TH
+16077,"      Altenburger Land, Kreis",2,618,,133,29,,,247,,42,90,,,4,TH
