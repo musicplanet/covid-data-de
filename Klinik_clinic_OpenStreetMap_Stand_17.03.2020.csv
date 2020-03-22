@@ -1,0 +1,1019 @@
+﻿X,Y,OBJECTID,name,amenity,healthcare,healthcare_speciality,operator,operator_type,contact_phone,contact_website,contact_email,contact_fax,addr,address_full,address_street,address_housenumber,address_postcode,address_city,address_housename,address_suburb,address_subdistrict,address_district,address_province,address_state,denomination,religion,emergency,rooms,beds,capacity,wheelchair,wikidata,wikipedia,ORIG_FID,GlobalID
+8.23413110000007,48.764486800000043,1,Klinik Dr. Dengler,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,no,,,,limited,,,,5e19f295-9c45-4b64-8a7e-915315150f7f
+6.110359600000038,50.843040400000064,2,salvea Schwertbad Aachen - Betriebsteil Bardenberg,clinic,rehabilitation,psychosomatic,inoges Holding GmbH,,+49 241 60020,https://salvea.de/standorte/standort/salvea-schwertbad-aachen-betriebsteil-bardenberg,,,,,Dr.-Hans-Böckler-Platz,1,52146,Würselen,,Bardenberg,,,,,,,,,,,yes,,,,cc4e6d7e-2c93-4c37-9b3d-4cf3b1da023f
+6.361024,51.189372,3,Herzpark Mönchengladbach,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b3d043cc-3bb5-4e1d-aab0-760577ac93da
+8.244032,48.74862870000004,4,Gunzenbachhof,clinic,clinic,,Oberrheinische Kliniken,,,,,,,,Gunzenbachstraße,6,76530,Baden-Baden,,,,,,,,,no,,,,,,,,7d5a0c7c-f474-455c-a82e-9fabb2925f0b
+8.218902,48.748887400000058,5,Nexus-Klinik,clinic,,,,,,,,,,,Hermann-Sielcken-Straße,80,76530,Baden-Baden,,,,,,,,,no,,,,limited,,,,372425af-8bb1-4eb1-a0bb-809c139308af
+9.634869,47.953167400000041,6,Schussentalklinik,clinic,,,,,+49 7525 9320,http://www.schussental-klinik.de/,,,,,Safranmoosstraße,5,88326,Aulendorf,,,,,,,,,no,,,,yes,,,,6952daec-9024-4e06-bf04-73e0c4cb0a7f
+12.154608300000064,50.921660100000054,7,Landambulanz,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,eb46165e-d039-436f-8a9c-ad476e689682
+9.42943420000006,47.873613300000045,8,Fachklinik Ringgenhof,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1af8c290-c49c-425b-9cf0-bdd90d826768
+12.014615,51.325765200000035,9,Poliklinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0be5a1fa-a7c6-40de-9ee6-a112bd7b0c8c
+8.27431050000007,48.776253700000041,10,Klinikum Ebersteinburg,clinic,clinic,,,,,,,,,,Dr.-Rumpf-Weg,7,76530,Baden-Baden,,,,,,,,,,,,,limited,Q38087864,,,6082e741-5865-4e57-a311-e40e33a776a3
+13.055862900000022,52.406878,11,Klinik Sanssouci,clinic,clinic,"surgery;plastic_surgery",Klinik Sanssouci Potsdam GmbH & Co. KG,business,+49 331 280 870,https://www.kliniksanssouci.de/,info@kliniksanssouci.de,+49 331 280 4086,,,,,,,,,,,,,,,,,,,,,,,d24eb1f4-8409-49b8-8bcc-53defc9b58a5
+10.705675600000063,53.838612500000067,12,Blutspendedienst,clinic,,,Universitätsklinikum Schleswig-Holstein,,,,,,,,,,,,,,,,,,,,,,,,,,,,10cca9eb-e2ad-4460-90f8-8d5ba049c98c
+10.686183100000051,53.625871,13,Praxisklinik DRK Mölln,clinic,clinic,,,,,,,,,,Wasserkrüger Weg,7,23879,Mölln,,,,,,,,,,,,,,,,,7878f0ef-6920-49df-864f-4570bf252e71
+9.492145400000027,47.674217900000031,14,Psychiatrische Tagesklinik,clinic,clinic,,,,,,,,,,Merkurstraße,4,,,,,,,,,,,no,,,,,,,,548d8bce-3772-4a1e-8b43-e63b7556d9e4
+11.669309,48.054168,15,Medizinisches Versorgungszentrum Ottobrunn,clinic,,,,,+49 89 6087520,http://www.mvz-ottobrunn.de,info@mvz-ottobrunn.de,+49 89 60875252,,,Rosenheimer Landstraße,129a,85521,Hohenbrunn,,,,,,,,,no,,,,yes,,,,9f690742-f4f0-40ef-8365-dd2a5357a7f3
+7.457438500000023,50.360671300000035,16,Therapiezentrum für Suchtkrankheiten,clinic,clinic,,,,,,,,,,Hospitalstraße,16,56220,Bassenheim,,,,,,,,,,,,,,,,,27f0b58e-010d-49d9-b55f-e9d8761e74ce
+9.358447700000056,50.288714,17,Knappschaftsklinik,clinic,rehabilitation,,,,,,,,,,Knappschaftsweg,2,63628,Bad Soden-Salmünster,,,,,,,,,,,,,,,,,9da1ab85-2640-47a2-bbed-13c162a7fdbb
+12.574703600000078,51.290694200000075,18,Sachsen-Klinik Naunhof,clinic,clinic,orthopaedics,BfS Betreibergesellschaft für Sozialeinrichtungen mbH,,+49 3429340 0,http://www.sachsen-klinik.de/,,,,,Eichaer Straße,44,04683,Naunhof,,Erdmannshain,,,,,,,,,,,yes,,,,45c8f7af-8fee-4d19-897f-085eede2b8e9
+10.527184500000033,50.140622200000053,19,Haßberg-Kliniken Haus Hofheim,clinic,clinic,"internal,cardiology",,,,,,,,,,,,,,,,,,,,,,,,,limited,,,,bb7b99a3-7aee-4cf9-abdd-9c8dadcc4b51
+11.764694,49.496746,20,KfH-Nierenzentrum,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,77d12963-fcc4-4aa3-b951-278009395d27
+12.996166100000039,51.398568,21,MEDIAN Christiaan-Barnard-Klinik Schmannewitz,clinic,clinic,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,,,,,,,Waldstraße,4,04774,Dahlen,,,,,,,,,,,,,,,,,2173e281-4a41-47cf-b04e-02143ddc5b08
+12.994541200000072,51.399720800000068,22,MEDIAN Klinik Dahlener Heide Schmannewitz,clinic,clinic,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,,,,,,,Waldstraße,6,04774,Dahlen,,,,,,,,,,,,,,,,,e783ae19-7a71-4a13-8c8e-999b55a5865a
+11.589708100000053,48.158648400000061,23,Clinic Dr. Decker,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e3e2babf-1831-477d-9079-1b7fd138a7fc
+6.238548200000025,50.818321200000071,24,Röher Parkklinik,clinic,clinic,psychiatry,Röher Parkklinik GmbH,,+49 2403 789 10,http://relaunch.roeher-parkklinik.de/,info@roeher-parkklinik.de,+49 2403 789 156,,,,,,,,,,,,,,,,,,,yes,,,,f3ea1a9f-26ec-45b3-96ba-60a259fcbf7f
+13.76241170000003,51.064702300000079,25,Clinic im Centrum Dresden Praxisklinik Dresden,clinic,,,,,,,,,,,Forststraße,1,01099,Dresden,,,,,,,,,,,,,,,,,5c61fc08-f794-4040-9378-5df6630ad3a5
+11.977081600000076,51.475463300000058,26,Universitätsklinik und Poliklinik für Nuklearmedizin,clinic,clinic,nuclear,,,,,,,,,Prof.-Friedrich-Hoffmann-Straße,1,06110,Halle (Saale),,,,,,,,,,,,,yes,,,,8fa8d4aa-2542-47f2-b643-29b5f36433c6
+10.470058400000028,52.194414800000061,27,Tagesklinik Fontheim,clinic,clinic,psychiatry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0aa97c59-4294-4dbf-b69b-7db73409d098
+13.304165900000044,53.552549,28,Medizinisches Versorgungszentrum Mitte Aussenstelle Ost,clinic,centre,,,,,,,,,,Petrosawodsker Straße,71,17036,Neubrandenburg,,,,,,,,,,,,,no,,,,e317b677-4c94-4bd7-8507-48a67ef9c013
+13.780738600000063,51.053491700000052,29,Klinik für Neurologie - Multiple Sklerose Zentrum,clinic,,,,,,,,,,,Blasewitzer Straße,43,01307,Dresden,,,,,,,,,,,,,,,,,f244ac77-5fcc-46d6-8432-41a470925c1f
+9.997383500000069,48.399216,30,"Klinik Dr. Schwarz, Fachklinik für Psychiatrie und Psychotherapie",clinic,clinic,psychiatry,,,,,,,,,Steingasse,11,89073,Ulm,,,,,,,,,,,,,,,,,8afcda8a-39e8-4545-a940-afe4ac4a986a
+12.050729600000068,52.148319300000026,31,Gezeiten Haus Schloss Wendgräben,clinic,,,Gezeiten Haus Gruppe GmbH,,,,,,,,Wendgräbener Chaussee,1,39279,Wendgräben,,,,,,,,,,,,,,,,,149e8eb4-b6e2-4fec-a543-82cbb28eeea4
+9.37381780000004,48.503510300000073,32,Gesundheitszentrum Schwäbische Alb,clinic,clinic,,Reha-Klinik Schwäbische Alb GmbH & Co. KG,,+49 7125 157 0,http://www.gesundheitszentrum-schwaebische-alb.de/,,+49 7125 157 197,,,Bei den Thermen,10-12,72574,Bad Urach,,,,,,,,,,,,,yes,,,,70268ad7-3ba2-4186-9e83-154db8de9cf5
+13.033072400000037,51.142396,33,Fachkrankenhaus für Psychiatrie und Psychotherapie Hochweitzschen,clinic,clinic,physiatry,edia.con gemeinnützige GmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,2d32e63f-6f5f-4645-82c3-f8f7ac3c7053
+8.594937200000061,53.580597800000078,34,Tagesklinik LEHE Ambulantes OP-Zentrum,clinic,clinic,,,,,,,,,,Dr.-Franz-Mertens-Straße,8,27580,Bremerhaven,,,,,,,,,,,,,yes,,,,6804e125-35ad-4ae6-abee-654ab91f52db
+11.758245,48.38872020000008,35,Dr. Peller - Dr. Bardenheuer,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,limited,,,,5c8da593-5f76-4734-9e9a-efe237ad09bd
+13.298427100000026,51.057308400000068,36,Orthopädische Klinik,clinic,orthopaedics,,,,,,,,,,Markt,34,01683,Nossen,,,,,,,,,,,,,,,,,a5cf417c-0b17-47ac-84ab-2dda6226558d
+7.853971200000046,48.002458900000079,37,Druckkammerzentrum Freiburg GmbH und HBO2-Tagesklinik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67bcba78-a37c-4e1d-abbf-83e4ba66158c
+12.243502400000068,51.847478500000079,38,Salus Tagesklinik,clinic,clinic,,,,,,,,,,Schillerstraße,39a,06844,Dessau-Roßlau,,,,,,,,,,,,,,,,,2738b64e-f63d-4ba6-bc4b-68b696243495
+11.084225500000059,54.499284800000055,39,Life Challenge Fehmarn,clinic,,psychiatry,Diakonie Schleswig-Holstein,ngo,,https://life-challenge.de/,,,,,,,,,,,,,,,,,,,,,,,,,0c73de05-7cb2-4d47-86b8-79d8a7d3f82a
+7.102124300000071,50.739006400000051,40,MEDECO Zahnklinik Bonn,clinic,clinic,,,,,,,,,,Welschnonnenstraße,1-5,53111,Bonn,,,,,,,,,,,,,limited,,,,a7804232-2adc-4033-8e90-dda346b0d80d
+11.539818100000048,48.121820400000047,41,Mutabor,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6dac6370-22b0-4e63-8929-44573eeb429c
+7.201563900000053,51.612102400000026,42,Aurelios Augenklinik,clinic,clinic,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,a7c3deba-67d9-4e89-9040-f2928012b176
+11.001109,49.589421400000049,43,Polymed-Klinik,clinic,,,,,+49 9131 8264-0,http://www.polymed-klinik.de,info@polymed-klinik.de,+49 9131 8264-12,,,Michael-Vogel-Straße,1d,91052,Erlangen,,,,,,,,,,,,,yes,,,,b3e6a2aa-3359-401c-a9e5-010d3e0f7207
+9.928876900000034,49.793361800000071,44,Augen-Laser-Klinik Beratungszentrum,clinic,clinic,,,,,,,,,,Domstraße,1,97070,Würzburg,,,,,,,,,,,,,,,,,c63a2509-906c-48fd-be24-09629943e5ec
+10.147827300000074,53.529031100000054,45,Praxisklinik Mümmelmannsberg,clinic,clinic,,,,,,,,,,Oskar-Schlemmer-Straße,9-15,22115,Hamburg,,,,,,,,,,,,,yes,,,,00f59946-1214-4f57-97ee-ead6882bf621
+12.33390090000006,51.337044100000071,46,RPK Leipzig,clinic,clinic,,,,+49 341 4624694,http://www.rpk-leipzig.de/,,,,,Lindenauer Markt,13b,04177,Leipzig,,,,,,,,,,,,,,,,,065a4ac5-a64f-4df6-85a0-c2ca26697c3a
+12.559164200000055,50.649146500000029,47,Fachklinikum Wiesen,clinic,clinic,psychiatry,Asklepios Fachklinikum Wiesen,,+49 37603 540,https://www.asklepios.com/wiesen/,,+49 37603 54285,,,Kirchberger Straße,2,08134,Wildenfels,,Wiesen,,,,,,,,,,,yes,,,,24ff3abb-97fd-4336-80ce-a8bec6187ae3
+8.08736650000003,49.283044200000063,48,Privatklinik Villa Medica,clinic,clinic,,,,,,,,,,Klosterstraße,179,67480,Edenkoben,,,,,,,,,,,,,,,,,77a398b8-774c-4dbc-a670-d85c5e60cff5
+8.24385170000005,48.747368700000038,49,Klinik am Leisberg,clinic,clinic,,,,,,,,,,Gunzenbachstraße,8,76530,Baden-Baden,,,,,,,,,no,,,,,,,,9185abc7-fb3e-4825-872c-bc78a90ed2aa
+8.491068300000052,51.364013800000066,50,Fachklinik Olsberg für Suchtkranke,clinic,,,,,,,,,,,Niethaken,10,,,,,,,,,,,,,,,,,,,52680b51-86fc-4a25-8f4c-1c320171dd61
+7.550489,50.947739700000056,51,Medicenter am Wiehlpark,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,7d359826-a5a2-4f58-b520-8dfe80cd83be
+11.003671900000029,49.449445400000059,52,Metropol Medical Clinic,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e9736305-9216-4628-8acd-abdfb7d5f16b
+10.948652300000049,48.355595900000026,53,Moser Klinik Augsburg,clinic,clinic,plastic_surgery,,,,,,,,,Friedberger Straße,153,86163,Augsburg,,,,,,,,,,,,,,,,,ace43ee1-be49-4e09-9a35-1d09f9058a59
+7.343159100000037,51.443738900000028,54,Dialyse-Praxisklinik,clinic,clinic,,"Dimitri Zolotov;Thomas Schietzel",private,+49 2302 1522,http://www.dialyse-praxisklinik-witten.de/,info@dialyse-praxisklinik-witten.de,+49 2302 81714,,,Pferdebachstraße,16,58455,Witten,,Mitte,,,,,,,,,,36,yes,,,,493a9016-e4b4-4407-8ac1-d6f01ffe50bb
+10.206490500000029,53.494167,55,Praxisklinik Bergedorf,clinic,clinic,,,,,,,,,,Alte Holstenstraße,2-16,21031,Hamburg,,,,,,,,,,,,,yes,,,,494a20a2-8054-4948-891b-87fae0035d6f
+9.964505700000075,48.394679,56,Tagesklinik Söflingen,clinic,,,,,,,,,,,,,,,,,,,,,,,no,,,,yes,,,,4deb9bfe-447f-4152-945c-b9715dcd4958
+13.347380400000077,52.542277200000058,57,Deutsches Herzzentrum Berlin,clinic,clinic,,,,+49 30 45931000,,,,,,Augustenburger Platz,1,13353,Berlin,,Wedding,,,,,,,,,,,yes,Q1205694,de:Deutsches Herzzentrum Berlin,,57b3a35e-d9e0-4056-8c73-e9661a2433f8
+12.840072100000043,48.167801700000041,58,Medias Klinikum,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,845ebe77-f967-4b57-aac7-ecddb6439c70
+7.855274800000075,49.842441400000041,59,Augusta Klinik,clinic,clinic,orthopaedics,,,,,,,,,Kurhausstraße,18,55543,,,,,,,,,,no,,,,,,,,87db3ce4-f248-4c99-af37-d899db47955b
+12.109247,54.089022500000056,60,"Universitätsklinikum, Klinik für Innere Medizin, Abteilung für Transfusionsmedizin, Blutspende",clinic,blood_donation,,Universität Rostock,,,,,,,,Waldemarstraße,21d,18057,Rostock,,,,,,,,,,,,,limited,,,,6c39bb76-d668-4973-9b3c-425ce5271d89
+7.030138800000032,50.070495900000026,61,Median Klinik Haus Meduna,clinic,,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,,,,,,,Clara-Viebig-Straße,4,56864,Bad Bertrich,,,,,,,,,,,,,,,,,423a4a8d-eb07-4b2c-bd64-82b6ae2422df
+12.035263900000075,50.249408900000049,62,Ambulante Augenklinik Dr. Paschke / Dres. Gamringer und Kollegen,clinic,clinic,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,3b01598a-98bb-4026-9884-53d0e90eb12a
+10.261586200000067,47.41526170000003,63,Adula Klinik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47bedeb1-f7c9-4134-a6fd-dd512583b3a4
+9.985113300000023,53.548497700000041,64,Fleetinsel Klinik,clinic,clinic,,,,+49 40 376710,http://www.klinik-fleetinsel.de,,,,,Admiralitätstraße,3-4,20459,Hamburg,,,,,,,,,,,,,,,,,315d8237-c72b-4645-9276-d42ece769bee
+9.505405100000075,50.62456190000006,65,Dr. Wüsthofen Gesundheits Lounge,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c0306ea3-2b37-4a56-b94a-565b19a3c3c8
+11.074099700000033,49.448290400000076,66,Klinik am Gräslein,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cc81ef2e-2fa5-454c-9f6f-4793ce7c6e9e
+7.066844,51.557850400000063,67,medicos.Auf Schalke reha Zentrum,clinic,rehabilitation,physiatry,medicos.AufSchalke Reha GmbH & Co. KG,,,,,,,,Parkallee,1,45891,Gelsenkirchen,,,,,,,,,,,,,yes,,,,48cf23d6-a8f5-49df-b381-4fd1c096719b
+9.465273400000058,51.827789400000029,68,AMEOS Klinikum Holzminden,clinic,,psychiatry,AMEOS,,,,,,,,Sollingstraße,85,37603,Holzminden,,,,,,,,,,,,,,,,,dce5a7f5-52b4-4046-9d4a-ffc942e226a1
+11.586473900000044,48.202458800000045,69,Tagesklinik München-Nord,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,no,,,,,,,,2d7a1c4c-8688-4e49-bf8e-7e6189f86657
+12.938900400000023,51.275224700000081,70,Klinik für Kinder- und Jugendmedizin,clinic,clinic,,,,,,,,,,,,,,100,,,,,,,,yes,,,,,,,,7e2c9799-7264-4e0a-9a13-131ad40392b7
+12.940356400000042,51.275599300000067,71,Klinik für Neurologie,clinic,clinic,nephrology,,,,,,,,,Hubertusburg,88,,,,,,,,,,,,,,,,,,,b1f1e601-32bf-4992-a357-003891715515
+12.367598300000054,51.341410200000041,72,Median Ambulantes Rehazentrum,clinic,clinic,,,,,https://www.median-kliniken.de/de/median-ambulantes-gesundheitszentrum-leipzig/,,,,,,,,,,,,,,,,,,,,,yes,,,,2973ccdc-5844-4f0f-a765-1743fc10899d
+8.032518500000037,52.270271500000035,73,Medicos,clinic,clinic,,,,,,,,,,Weidenstraße,2,49080,Osnabrück,,,,,,,,,no,,,,yes,,,,1f657618-e794-489d-9919-bd1a7bfdf548
+8.902432100000055,48.451976400000035,74,Emil-Schlegel-Klinik,clinic,,,,,,,,,,,Badstraße,85,72108,Rottenburg am Neckar,,Bad Niedernau,,,,,,,,,,,,,,,6bc169ca-d181-4737-9e43-223b37598532
+9.078278,51.110415800000055,75,Mediclin Klinik für Akutpsychosomatik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0c759098-3b20-4d48-b8f2-20d44a1a97c6
+13.175220700000068,50.859032,76,Medizinisches Versorgungszentrum,clinic,clinic,,Medizinisches Versorgungszentrum Mittweida der Landkreis Mittweida Krankenhaus gGmbH,,+48 37292 60264,,,,,,Poststraße,9,09569,Oederan,,,,,,,,,,,,,no,,,,5c4780ba-285a-4e40-8cbf-4ce4c695e01d
+11.580798400000049,51.206402600000047,77,MVZ Bad Bibra,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0e4fc706-e28b-458f-a9a9-410fe20941c6
+6.753836500000034,49.313091900000074,78,Ianua G. P. S. mbH,clinic,,,,,,,,,,,,,,,,,,,,,,,no,,,,,,,,d7f19b80-6a9f-4bc7-88cb-6781ea56082e
+12.948460300000022,50.851044900000034,79,Tagesklinik KJPP Chemnitz,clinic,clinic,child_psychiatry,Klinikum Chemnitz gGmbH,,,,,,,,,,,,,,,,,,,,,,,,no,,,,6e3397ec-1bb0-4b9c-8162-0f855ed2b155
+11.977434800000026,51.476990300000068,80,Strahlentherapie,clinic,clinic,"radiology;radiotherapy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,9b8bb118-d882-48db-8f71-d26119c50411
+11.721370400000069,47.716826300000037,81,Fachklinik für Orthopädie am Kirschbaumhügel,clinic,,,,,,,,,,,Wallbergstraße,7,,Bad Wiessee,,,,,,,,,no,,,,,,,,c140906c-c458-4fd1-8654-1cc6a40607d1
+13.724039700000048,51.21066,82,Fachkliniken für Geriatrie Radeburg GmbH,clinic,,geriatrics,Fachkliniken für Geriatrie Radeburg GmbH,,,,,,,,Hospitalstraße,34,01471,,,,,,,,,,no,,,,,,,,d99adba5-56f7-42fc-99a0-7b7b044b3e38
+11.423074400000075,48.118433300000049,83,RZM Radiologisches Zentrum Gräfelfing,clinic,,,,,,,,,,,Waldstraße,3a,82166,Gräfelfing,,,,,,,,,,,,,,,,,08b95bde-f676-4aca-8378-f9dc8c2f8345
+12.762527200000022,52.194813,84,Ärztehaus,clinic,centre,,,,,,,,,,,,14822,,,,,,,,,,no,,,,,,,,6077204c-9616-469d-af20-29fcb6442075
+7.839290500000061,48.007528,85,Notaufnahme / UNZ,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ef44db39-0127-405d-861c-602c9fc37bba
+6.823648200000036,50.197993500000052,86,Nephrocare Daun,clinic,centre,"nephrology;general;endocrinology",Nephrocare Daun GmbH,,,,,,,,Freiherr-vom-Stein-Straße,5,54550,Daun,,,,,,,,,,,,,,,,,612bacd8-cb10-4261-9e99-42d175aea43b
+13.777345100000048,51.069117500000061,87,Klinik am Waldschlößchen,clinic,,,,,,,,,,,Sudhausweg,6,01099,Dresden,,,,,,,,,,,,,,,,,6cae2d72-f26c-468b-bfa8-7665f1686263
+12.98201320000004,51.561848400000031,88,Tagesklinik Torgau,clinic,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,1eeb0ea3-55c3-4214-ad9a-f17a450cea1f
+8.696169,50.116021600000067,89,Orthopädie am Zoo,clinic,clinic,orthopaedics,,,+49 69 21930670,https://orthopaedie-am-zoo-frankfurt.de/,info@orthopaedie-am-zoo-frankfurt.de,+49 69 219306720,,,,,,,,,,,,,,,,,,,yes,,,,5b9ac360-1d97-43f1-b3da-efd248c57593
+9.219570100000055,48.678860300000053,90,Arkadenklinik,clinic,clinic,"orthopaedics;surgery;trauma",,,+49 711 674516-0,https://www.arkadenklinik.de/,,+49 711 674516-50,,,,,70794,,,,,,,,,,no,,,,,,,,76276ebd-0135-4046-af39-c11745606c2d
+8.65472,49.87233,91,Blutspende,clinic,blood_donation,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,b24f26d6-5524-4946-9b1b-b235e567a3eb
+13.06289090000007,52.403825600000062,92,Tagesklinik am Holländischen Viertel,clinic,,,,,+49 331 280 660,https://tagesklinik-potsdam.de/,mail@tagesklinik-potsdam.de,,,,,,,,,,,,,,,,,,,,yes,,,,4fa62bc7-c020-46f4-8528-f615aec69830
+9.194010500000047,48.892001200000038,93,NC Klinik am Forum Neurozentrum für Diagnostik und Therapie,clinic,,,,,,,,,,,Stuttgarter Straße,30,71638,Ludwigsburg,,,,,,,,,,,,,yes,,,,11ac2df4-3f65-4947-a04d-76542ed220f6
+10.728679700000043,50.429747500000076,94,MVZ Hildburghausen,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c1cfe0f8-4f23-4ef0-97e8-091af4bc1368
+6.564701400000047,51.336364400000036,95,Manus Klinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8011c6ae-96f8-401f-b618-16a10dcc0000
+11.844322400000067,50.009105700000077,96,Sportmedizin Pecher,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50a7e3dc-d407-466a-9397-96c3652346c4
+8.806885200000067,53.078160400000058,97,SternKlinik,clinic,clinic,,,,,,,,,,Carl-Ronning-Straße,4-6,28195,Bremen,,,,,,,,,no,,,,,,,,06982e12-90ad-480a-9a13-be600c993b25
+11.378707600000041,48.768696400000067,98,Geriatrie-und Rehazentrum Ingolstadt,clinic,rehabilitation,geriatrics,,,,,,,,,Krumenauerstraße,21,85049,Ingolstadt,,,,,,,,,,,,,,,,,8fed70ba-33a2-429a-8fb2-c70f9c75e498
+8.520348800000022,50.077640600000052,99,"Deutscher Orden Fachklinik ""Villa unter den Linden",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d1695be4-0842-4cb1-9200-e4320a930536
+11.345020300000044,50.644138300000066,100,PIA Psychiatrische Institutsambulanz,clinic,,,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",,,,,,,,,,,,,,,,,,,,,,,,,,,,095d7ccc-890c-44e8-a37d-cf348e6caa64
+11.34471220000006,50.644021400000042,101,Tagesklinik Psychiatrie,clinic,,,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",,,,,,,,,,,,,,,,,,,,,,,,,,,,dd685182-0182-4b8e-8658-d9fa8c5427ff
+11.180208100000073,47.67592540000004,102,Klinik Hochried,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b4a8c79c-b8ac-4e6b-af06-90570554438c
+8.835451400000068,53.072431,103,Augenklinik,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,5a30c22c-fc62-4e27-88fc-2d90fcd3dce8
+8.836751500000048,53.07281480000006,104,Klinik für Dermatologie und Allergologie,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,f4792e79-9b74-4a0f-8a81-1afdefb00c65
+8.837190900000053,53.07300470000007,105,Klinik für Gynäkologie und Geburtshilfe,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,5cc58735-b3ca-42ae-aca5-31e3bb60764b
+8.837664700000062,53.075938400000041,106,Kliniken für Chirurgie und innere Medizin,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,5b497eee-77a1-4f58-bc96-87864a93a795
+8.843617300000062,53.075113400000077,107,Prof.-Hess-Kinderklinik,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,b1ae8524-b122-41b7-8a27-3b490f1a743d
+8.83523660000003,53.072124,108,Urologische Klinik,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,60c4ab04-202d-472c-a452-4dcc089afe42
+8.837618900000052,53.074433,109,Zentrum für Chirurgie und Stroke Unit,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,1bf0aef8-c385-4bf4-a354-e184eda511da
+11.416602600000033,53.633732200000054,110,MEDIAN Klinik Schelfstadt,clinic,clinic,psychiatry,,,,,,,,,Röntgenstraße,7-11,19055,Schwerin,,,,,,,,,,,,,,,,,9c78b488-a79d-4a95-8315-44f055a810c7
+8.399415100000056,49.009943300000032,111,Laserklinik Karlsruhe,clinic,clinic,plastic_surgery,,,,http://www.laserklinik.de/,,,,,Kaiserstraße,104,76133,Karlsruhe,,,,,,,,,,,,,yes,,,,3b3563a2-7338-4ebc-aafa-244f9f9c831c
+8.52917560000003,52.004802600000062,112,"Fachkrankenhaus Bethel Haus Hawila, Bethel.regional",clinic,clinic,,,,,,,,,,Ebenezerweg,6,33617,Bielefeld,Hawila,,,,,,,,,,,,yes,,,,edc3f3c5-5e88-4da7-b88c-8a6213298a91
+8.365744500000062,47.659908,113,Heilpraktikerin C. Würth,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a5d74651-1825-4bc9-bf77-036e01cf5e49
+7.866096,48.042078200000049,114,"Gelenkklinik , Dr. Peter Baum, Dr. Thomas Schneider",clinic,clinic,"orthopaedics;chiropractic;physiatry",,,,,,,,,,,,,,,,,,,,,,,,,,,,,c29812ce-06b5-4436-90f6-b41e819d1476
+13.73444,51.051154,115,EuroEyes AugenLasern,clinic,,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b425bd0e-3490-4f68-ae85-c8f8bce98cad
+8.435009600000058,49.315581800000075,116,Psychiatrische Tagesklinik Speyer - Pfalzklinikum für Psychiatrie und Neurologie,clinic,clinic,,,,,,,,,,Ludwigstraße,17a,67346,Speyer,,,,,,,,,,,,,yes,Q2082262,de:Pfalzklinikum für Psychiatrie und Neurologie,,ee785a4c-ea5f-40d6-be20-9ad66627439c
+13.419417400000043,52.494905900000049,117,"Kontaktladen ""Transit""",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8731e43d-dea5-4448-81b2-b0f26e5ace22
+14.242788700000062,52.170039700000075,118,Psychiatrische Einrichtung,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10e11f53-28b3-4e94-b58b-2979adb3aef8
+7.86720310000004,48.041697300000067,119,Gelenkklinik,clinic,clinic,"orthopaedics;chiropractic;physiatry",,,,,,,,,,,,,,,,,,,,,,,,,,,,,03e0245b-064e-4213-9937-8fdf9953b370
+9.426771100000053,53.789049100000057,120,Tagesklinik für Psychiatrie und Psychotherapie,clinic,clinic,psychiatry,Klinikum Itzehoe,,,,,,,,Am Wall,1a,25348,Glückstadt,,,,,,,,,no,,,,,,,,89940719-87ce-4c97-ada9-aa3226f84a60
+8.535593900000038,52.026590200000044,121,Tagesklinik Ost der Klinik für Psychiatrie und Psychotherapie im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,,,,,,,,,Herforder Straße,26,33602,Bielefeld,,,,,,,,,no,,,,,,,,58b7576b-2dce-43fb-8ea7-8249741335a1
+8.522575700000061,52.013347100000033,122,Tagesklinik West der Klinik für Psychiatrie und Psychotherapie im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,,,,,,,,,Gadderbaumer Straße,31,33602,Bielefeld,,,,,,,,,no,,,,,,,,f5e6f711-0111-47da-9bfb-fab8e7e6401c
+8.523755900000026,52.010392,123,Tagesklinik für Kinder- und Jugendpsychiatrie und Psychotherapie des Klinikums Lippe,clinic,clinic,,,,,,,,,,Königsweg,11,33617,Bielefeld,,,,,,,,,,,,,,,,,c09ee43d-da1a-41e2-9b66-ce4d71fc3002
+8.522618600000044,52.013172100000077,124,Psychiatrische Institutsambulanz (PIA) im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,,,,,,,,,,,,,,,,,,,,,yes,,,,,Q1381343,de:Evangelisches Klinikum Bethel,,f9f95178-f3b8-440a-bb78-9720fa7462a9
+8.583565600000043,51.945227700000032,125,Tagesklinik Süd der Klinik für Psychiatrie und Psychotherapie im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,psychiatry,,,,,,,,,Lindemann-Platz,3,33689,Bielefeld,,,,,,,,,no,,,,,,,,a520aa80-8803-42c2-adf9-65557e0f91fd
+6.806681600000047,51.839640100000054,126,Schloßklinik Pröbsting,clinic,clinic,psychiatry,,,,,,,,,Pröbstinger Allee,14,46325,Borken,,,,,,,,,,,,,,,,,23e1a75e-1569-4d0f-96e0-835797b9e1d1
+8.78309820000004,50.021066700000063,127,Vitos Kinder- und jugendpsychiatrische Tagesklinik Dietzenbach,clinic,centre,psychiatry,Vitos,,+49 6074 483422 0,,sek.tk.dietz@vitos-riedstadt.de,,,,,,,,,,,,,,,,,,,,yes,,,,5562809c-ac24-4ec7-911f-55a051fba3e7
+7.059192200000041,51.570191700000066,128,Medical - Center,clinic,,,,,,,,,,,Zum Ehrenmal,21,45894,Gelsenkirchen,,,,,,,,,,,,,,,,,7b9ca799-9885-4eb0-81ff-f76036313e04
+12.956826200000023,48.845595900000035,129,Klinik Angermühle,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15e4161a-1426-4498-b2fb-161cc40c1fe8
+11.544581200000039,47.75650360000003,130,Dialyse Bad Tölz,clinic,,,,,,,,,,,Kogelweg,3,83646,Bad Tölz,,,,,,,,,,,,,,,,,3bf307c4-4941-442b-b687-96181986beca
+8.483260800000039,49.484782600000074,131,Clinic im Centrum,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d2576257-2f6c-499b-ad49-0821c2be24f3
+8.483318700000041,49.484757,132,Mannheimer Klinik für Plastische Chirurgie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b23c291a-d0d8-4dfb-973c-80a74814fe62
+13.306001700000024,52.507686300000046,133,Nierenzentrum Charlottenburg,clinic,clinic,,,,+49 30 31007866,http://www.nierenzentrum-charlottenburg.de,,,,,Wilmersdorfer Straße,57,10627,Berlin,,Charlottenburg,,,,,,,,,,,yes,,,,03562bc0-2fac-4106-ac8e-8f30ffa98ab4
+6.305016600000044,50.609133300000053,134,Physioos Physiotherapie & Osteopathie,clinic,physiotherapist,,,,,,,,,,In den Bremen,4,52152,Simmerath,,,,,,,,,,,,,,,,,0d5e66b8-266f-4719-a6b8-df53fece9982
+8.659766500000046,49.869578200000035,135,Operations- und Implantatszentrum Darmstadt (O.P.I.),clinic,clinic,,,,,,,,,,Nieder-Ramstädter Straße,18-20,,Darmstadt,,,,,,,,,,,,,,,,,e7a792c8-4264-4fcc-816b-425e1feac2a9
+13.313342700000021,52.476649800000075,136,Zahnklinik/Zahnärztlicher Notfalldienst,clinic,dentist,,,,,,,,,,Aßmannshauser Straße,4-6,14197,Berlin,,Wilmersdorf,,,,,,,yes,,,,yes,,,,23c533b8-d7b2-4149-8489-3d56a0e6ff4e
+6.883913700000051,51.424302400000045,137,Augenklinik Mülheim,clinic,clinic,ophthalmology,,,,,,,,,Wertgasse,30,45468,Mülheim an der Ruhr,,,,,,,,,,,,,,,,,5558b9a7-97e1-4d86-8dc1-f6d61275b2a2
+8.218330300000048,48.748879900000077,138,AOK-Klinik Korbmattfelsenhof,clinic,,,AOK Baden-Württemberg,,,,,,,,Fremersbergstraße,115,76530,Baden-Baden,,,,,,,,,no,,,,no,,,,147744df-edd2-459a-b184-d93bbd96176d
+8.66351990000004,49.876553400000034,139,Dialyse Centrum Alice Park,clinic,clinic,,,,,,,,,,Stiftstraße,4,64287,Darmstadt,,,,,,,,,,,,,,,,,e0abd601-ed24-49b5-97fd-05387b070f06
+7.465688700000044,52.286127200000067,140,Augentagesklinik Rheine,clinic,clinic,,,,,,,,,,Osnabrücker Straße,233-235,48429,Rheine,,,,,,,,,,,,,,,,,ea9fbebd-7f6d-47e0-b180-93456e28faa4
+13.426149600000031,54.419045900000071,141,Helios Tagesklinik,clinic,clinic,psychiatry,,,,,,,,,Bahnhofstraße,15,18528,Bergen auf Rügen,,,,,,,,,,,,,limited,,,,c6a34a57-bb16-45f5-af97-ab72e2a943fc
+9.656497600000023,53.754064400000061,142,Gesundheitszentrum Königstraße,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86637d0c-a4a8-4246-ac5a-83f6cd333014
+10.368697,53.436519500000031,143,Hanse MKG,clinic,clinic,dental_oral_maxillo_facial_surgery,,,,,,,,,Bergedorfer Straße,58-62,21502,Geesthacht,,,,,,,,,yes,,,,,,,,60ea5e04-e0b8-4743-aefb-900383c425b3
+8.437980700000026,49.484894900000029,144,Gemeinschaftspraxis,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2a08033e-9184-4bf1-b81d-7c8e863a41ef
+11.285372600000073,47.665539500000079,145,Erste Hilfe,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,164f381f-cfbc-4306-ac81-55cfaea954da
+6.428463600000043,51.158134500000074,146,Physiotherapie Am Schmölderpark,clinic,physiotherapist,,,,,,,,,,Urftstraße,208,41239,Mönchengladbach,,,,,,,,,,,,,,,,,e1c0cdd5-d634-4715-83bb-988f0164f01e
+6.650105100000076,50.691191400000037,147,"Brabenderklinik, Fachklinik f. Geriatrische Rehabilitation",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9ea68fb4-5cc2-4470-bc64-0fbd491160e1
+6.649611600000071,50.691427600000054,148,Ambulantes OP-Zentrum Zülpich,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98d965bd-a6ba-4fff-aedb-67fa869262ce
+6.64938090000004,50.691497200000072,149,Geriatrisches Zentrum Zülpich,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4a0a7f95-f861-4d22-9a71-16ca3cb3d36d
+6.650872200000038,50.690696900000034,150,Geriatrisches Zentrum Zülpich (Vewaltung ),clinic,rehabilitation,geriatrics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7905c87c-e3f6-47ec-8ed8-b701ca803d95
+11.343342300000074,50.643959500000051,151,Klinik für Inneres,clinic,,,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",,,,,,,,,,,,,,,,,,,,,,,,,,,,21da8e16-e769-4f07-ada9-e01193225cff
+8.818370100000038,53.036307700000066,152,Chirurgische Sprechstunde,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2f6613f9-631b-4eb5-81f5-f47d48f5244c
+12.325934300000029,51.558466600000031,153,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83b09bd1-43fd-470a-85bd-01b41988726a
+6.836579500000028,51.25339230000003,154,Via Mentis - Fachklinik für Psychosomatik,clinic,,,Klinikträgergesellschaft Rolandsburg GmbH,,,,,,,,Rennbahnstraße,2,40629,Düsseldorf,,Grafenberg,,Stadtbezirk 7,,,,,,,,,,,,,3726869a-b15b-42f9-8a99-2b025ea38389
+8.640377900000033,49.869752600000027,155,"Fachklinik ""Am Birkenweg""",clinic,,,,,,,,,,,Birkenweg,17,64295,Darmstadt,,,,,,,,,,,,,,,,,fd5ff0be-d73e-4550-a1a8-64d2cf49b663
+8.698945500000036,50.139150500000028,156,Zentrum für Schlafmedizin Frankfurt / American Sleep Clinic,clinic,clinic,,American Sleep Clinic GbR,,,,,,,,,,,,,,,,,,,,,,,,,,,,3a2157cd-4892-48a7-8bbf-ff2304ba7524
+11.743674700000042,48.117077900000027,157,,clinic,,,,,+49 89 45 62 0,http://www.iak-kmo.de,kontakt@iak-kmo.de,+49 89 4562-2960,,,Vockestraße,72,85540,Haar,,,,,,,,,,,,,,,,,986f13bf-70c9-47c8-9dbf-bb0de205ce80
+8.273350300000061,50.000491700000055,158,Dialysezentrum am Brand,clinic,clinic,nephrology,Drs. Sajthy / Westphalen ( Dialyse / Nephrologe / Praxis ),,,,,,,,Am Brand,12,55116,Mainz,,,,,,,,,yes,,,,yes,,,,d7884b94-0e78-42ac-b6e5-148eeef904bf
+8.459906900000021,49.489295200000072,159,ZI Mannheim - Ambulanz Klinik für Psychosomatik und Psychotherapeutische Medizin,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,,72d3487a-8f91-45aa-b7be-326c934a2969
+8.46161630000006,49.489346,160,Psychoepidemiologisches Zentrum,clinic,clinic,,Zentralinstitut für Seelische Gesundheit,,+49 621 17036403,,,,,,,,,,,,,,,,,,,,,,no,,,,b41b4877-272c-4efa-891c-2edba0aba3f4
+8.461496100000033,49.489393200000052,161,ZI - Zentrum für Psychologische Psychotherapie Mannheim,clinic,clinic,,Zentralinstitut für Seelische Gesundheit,,,,,,,,,,,,,,,,,,,,,,,,no,,,,c25e5ac6-8eaa-445b-86fd-af782ec0c771
+8.476533900000049,49.485296600000027,162,Radiologiezentrum Mannheim,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,2b1d2d07-ebf2-4ea3-a711-c34c7b96bc05
+8.46422670000004,49.489022100000057,163,ZI Mannheim Psychosomatische Ambulanz,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e96f3c3f-2cd8-478d-8563-e5c131bfe145
+6.38208480000003,51.266945,164,Gerontopsychiatrische Ambulanz,clinic,,,LVR,,,,,,,,,,,,,,,,,,,,no,,,,,,,,396687b4-6e3e-48df-9d75-3c22dca3d8c9
+6.382383600000026,51.266997200000048,165,Gerontopsychiatrische Tagesklinik,clinic,,,LVR,,,,,,,,,,,,,,,,,,,,no,,,,,,,,f5ab3fdb-ba9d-41b2-9ea9-664edc473b4c
+12.132256400000074,54.088756200000034,166,Augen Praxisklinik Rostock Mitte,clinic,clinic,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,490a6c60-d3c3-4df1-b4ba-17c1dc9fdcf0
+11.566413700000055,49.932468300000039,167,Maximilians-Augenklinik,clinic,clinic,ophthalmology,,,,,,,,,Leuschnerstraße,53,95447,Bayreuth,,,,,,,,,,,,,yes,,,,455e1592-a001-4dd0-b02b-76c6cee032f2
+11.541635500000041,48.048880700000041,168,Medical One,clinic,,,,,,,,,,,Gabriel-von-Seidl-Straße,77,82031,Grünwald,,,,,,,,,,,,,,,,,d8e7967f-d978-4348-97ba-aa3dac4c3d35
+9.665957900000024,54.300591300000065,169,Augenklinik Rendsburg,clinic,clinic,ophthalmology,,,,,,,,,Jungfernstieg,25,24768,Rendsburg,,,,,,,,,,,,,,,,,fd4456fb-a27d-45b5-9fd7-e4662d6093f9
+13.343078,52.542516600000056,170,Frauenheilkunde und Geburtsmedizin,clinic,clinic,gynaecology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a2c50242-7a7d-40ca-b436-de1f375c5fea
+13.344124400000055,52.541475400000081,171,Klinik für Anästhesiologie und operative Intensivmedizin,clinic,clinic,anaesthetics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5abfa67c-2f70-4a8f-8337-07904afcd018
+13.342503700000066,52.541412600000058,172,Klinik für Augenheilkunde,clinic,,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01c4ae5c-471a-4831-a21f-f096b425454b
+13.345213900000033,52.541716300000076,173,Klinik für Neurologie,clinic,clinic,neurology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0c1a1bab-f463-42f2-a759-20aeaf1b599c
+13.341287700000066,52.541187600000058,174,"Klinik für Psychiatrie, Psychosomatik und Psychotherapie des Kindes- und Jugendalters",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e8b5ae2c-b15b-4cd0-a1b7-296f6a2790ea
+13.341870300000039,52.542424500000038,175,Kliniken für Kinderheilkunde und Kinderchirurgie,clinic,,paediatrics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,84dda232-615c-4c15-9b47-e0d6ffba4142
+13.345225200000073,52.539801600000033,176,Institut für Tropenmedizin und Internationale Gesundheit,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a42cc3b9-0d9a-439e-8885-7177270f7cca
+8.371419700000047,48.354805500000055,177,Kurhaus,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7e681b4b-f221-443a-a120-4e5380ccedec
+13.400862700000062,54.090159200000073,178,Institut für Humangenetik,clinic,clinic,,Universitätsmedizin Greifswald,,,,,,,,Fleischmannstraße,42-44,,,,,,,,,,,,,,,,,,,3c4f0b88-72d1-45d8-b926-f2cec9a9ce04
+10.149235300000043,54.345626500000037,179,nordBLICK Augenklinik Bellevue,clinic,clinic,ophthalmology,,,,,,,,,Lindenallee,21-23,24105,Kiel,,,,,,,,,no,,,,,,,,4c5b774f-76aa-4490-8325-d65d64acb96f
+10.241402400000027,53.672745300000031,180,Psychiatrische Tagesklinik Ahrensburg,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6a7ecba9-70b4-4253-9d5d-4a84139a9d8e
+8.509434,49.514663400000074,181,Praxisklinik Mannheim,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,74ad87dd-7523-4cd3-a8f8-dfaa7fb00964
+8.164181,47.734765,182,Fachkliniken Sonnenhof,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8ceb991e-7612-48ed-be03-05b3b83c3a08
+11.121359,49.481352900000047,183,MVZ Nürnberg,clinic,clinic,,,,,,,,,,Neumeyerstraße,48,90411,Nürnberg,,,,,,,,,,,,,,,,,bca6a8b9-7e5c-4ba2-9593-fd3f61ec3fe2
+9.113108600000032,51.116740800000059,184,Mutter-Kind-Klinik Talitha,clinic,,,,,,,,,,,Stöckerstraße,2,34537,Bad Wildungen,,,,,,,,,,,,,,,,,eb1494a6-4dd2-4e45-9884-bba0e83a2aab
+9.750451600000076,52.38901020000003,185,Augenzentrum Lister Platz,clinic,clinic,,,,,,,,,,Lister Platz,3,30163,Hannover,,,,,,,,,,,,,,,,,5943ff04-c926-498e-91d6-8d773cf45aa0
+11.421267600000022,48.79009590000004,186,Gesundheitszentrum Nord N50,clinic,,,AUDI AG,,,,,,,,,,,,,,,,,,,,,,,,,,,,60fc0831-483a-4371-9519-56f023a0133e
+11.412999300000024,48.784303700000066,187,Gesundheitszentrum Süd,clinic,,,AUDI AG,,,,,,,,,,,,,,,,,,,,,,,,,,,,7b4e9008-5a03-4d12-956f-5a5bde8fb20e
+11.418368900000075,48.781730400000072,188,Sanitätsstelle Süd-Ost,clinic,,,AUDI AG,,,,,,,,,,,,,,,,,,,,,,,,,,,,3e2ca457-85ec-4906-a6bb-f336e226d996
+11.409259100000043,48.793277600000067,189,Sanitätsstelle TE,clinic,,,AUDI AG,,,,,,,,,,,,,,,,,,,,,,,,,,,,945105bb-ebca-48e8-81a4-9d83ecf11374
+11.408583500000077,48.786721300000067,190,Sanitätszentrale A50,clinic,,,AUDI AG,,,,,,,,,,,,,,,,,,,,,,,,,,,,13538efa-39ee-41dd-84ad-6defb579cd1c
+11.421155600000077,48.789992900000072,191,Sanitätsstelle Nord N50,clinic,,,AUDI AG,,,,,,,,,,,,,,,,,,,,,,,,,,,,7989d718-6c96-4b9d-beb4-5f9f55a767f0
+7.158775800000058,50.680466200000069,192,Augenklinik Dardenne,clinic,clinic,ophthalmology,,,,,,,,,Friedrich-Ebert-Straße,23-25,53177,Bonn,,,,,,,,,,,,,yes,,,,020afbf4-8290-4b1e-8724-c5fc5dca454f
+8.765052,53.112637900000038,193,Behandlungszentrum West,clinic,clinic,,,,,,,,,,Gröpelinger Heerstraße,104,28237,Bremen,,,,,,,,,,,,,,,,,3837aee5-deca-4c11-a127-2fd098b85805
+8.341551,51.679679200000066,194,LWL-Tagesklinik und LWL-Institutsambulanz Lippstadt,clinic,,,,,,,,,,,Am Nordbahnhof,15,59555,Lippstadt,,,,,,,,,,,,,yes,,,,2ecc2819-9ea6-431a-8a16-81f2a013cfae
+9.988383100000021,53.557864400000028,195,Klinikum Stephansplatz,clinic,clinic,,,,,,info@klinikum-stephansplatz.de,+49 40 3208831 30,,,Stephansplatz,3,20354,Hamburg,,,,,,,,,,,,,yes,,,,ffa61628-8726-4c8f-a667-356d7e6e8020
+10.042345200000057,49.847608200000082,196,Physio Centrum Kürnach,clinic,physiotherapist,,,,,,,,,,Prosselsheimer Straße,23,97273,Kürnach,,,,,,,,,,,,,,,,,e317e0d3-d55b-4776-9027-b5346407d029
+11.547914200000037,48.102369100000033,197,Internistisches Klinikum München Süd,clinic,,,,,,,,,,,Am Isarkanal,36,81379,München,,,,,,,,,,,,,,,,,54a1e005-d8bf-4ed0-a73a-4c07a1c7ad26
+8.219937900000048,53.111725900000067,198,Hanse-Institut,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,899404c2-c19a-4c47-a866-45515736c799
+8.219878900000026,53.111618100000044,199,Praxis für Nuklearmedizin,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,751e7b10-7d2e-4f76-a4ed-122c51f00806
+8.803980200000069,50.814778700000033,200,Blutbank,clinic,,,,,,,,,,,Conradistraße,,35043,Marburg,,,,,,,,,no,,,,,,,,2a607714-6d9e-4776-adc9-0071ebdae736
+12.119069200000069,54.090132500000038,201,Institut für Rechtsmedizin,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d64d6798-343b-4991-96bb-e821d474f20b
+12.119814500000075,54.089900900000032,202,Klinik und Poliklinik für Anästhesiologie und Intensivtherapie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d2acb3b8-ebf6-4bb7-bc22-e89ec16d6a78
+11.447482500000035,49.108630800000071,203,Helios Klinik Berching,clinic,,,Helios,,,,,,,,,,,,,,,,,,,,,,,,,,,,7c16ccb6-d20e-4294-9afa-3d3e68a77c02
+9.998126200000058,48.391313400000058,204,Arthros Klinik,clinic,clinic,,,,,,,,,,Gartenstraße,36,89231,Neu-Ulm,,,,,,,,,,,,,,,,,9804f9f2-f7f1-446b-bd42-69463e7031f2
+9.964369900000065,48.391835300000025,205,Augenlaserzentrum Accuratis,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dc8544de-e042-4521-b08f-4e188e148248
+11.583387100000039,48.119404100000054,206,Deutsches Hyperhidrosezentrum DHHZ,clinic,clinic,,PD Dr. Christoph Schick,,,,,,,,Sankt-Bonifatius-Straße,5,81541,München,,,,,,,,,yes,,,,,,,,024a301f-3f73-4231-aeb5-2264100370aa
+11.958057600000075,51.482478700000058,207,reha FLEX Saline Rehabilitationsklinik Halle/ Saale,clinic,clinic,,,,,,,,,,Mansfelder Straße,52,06108,Halle (Saale),,,,,,,,,,,,,yes,,,,d718e48d-bf87-48da-a0f4-dc40e1805ba6
+8.263594800000021,52.072597200000075,208,Fachklinik für Suchtkranke,clinic,,,,,,,,,,,Casumer Straße,2,33829,Borgholzhausen,,,,,,,,,,,,,,,,,a511800b-4a78-452d-a60d-6a1db26e0f67
+6.978905800000064,50.965214600000081,209,Tagesklinik Pionierstraße,clinic,clinic,,,,,,,,,,Pionierstraße,,,Köln,,,,,,,,,,,,,,,,,760cca6e-1204-4b86-ba4e-21ae3c5dcd6b
+7.337975400000062,51.446236100000078,210,Zahnklinik am Marien-Hospital,clinic,clinic,,,,+49 2302 2824588,http://www.zahnklinik-marienhospital.de/,info@zahnklinik-marienhospital.de,+49 2302 2824589,,,Marienplatz,2,58452,Witten,,Mitte,,,,,,,,,,,,,,,432125d2-3510-4135-b010-68f2491fc768
+7.343194100000062,51.443781300000069,211,Madamed,clinic,doctor,"internal;gastroenterology","Corinna Traska;Guido Renvert;Tanja Szymanski-Lehde",private,+49 2302 52151,https://madamed-witten.de/,info@madamed-witten.de,+49 2302 275878,,,Pferdebachstraße,16,58455,Witten,,Mitte,,,,,,,,,,,yes,,,,4767cd69-3935-4ad8-a63b-40a54f82ffad
+9.971849200000065,53.588881,212,Klinik für Psychiatrie,clinic,clinic,psychiatry,,,,,,,,,Martinistraße,52,20251,Hamburg,,,,,,,,,,,,,yes,,,,e06ff281-71b2-4ddd-9988-72ae9c3ac67c
+13.345609800000034,52.541688400000055,213,"Hals-, Nasen-, Ohrenheilkunde",clinic,clinic,otolaryngology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e9f4c0d4-a169-4c34-9dfc-fcf45d499d68
+13.344310500000063,52.540150100000062,214,Strahlentherapie Ambulantes Gesundheitszentrum,clinic,clinic,radiotherapy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27e8875b-be07-47cf-8a39-cb286a69d54e
+13.344419900000048,52.540220800000043,215,Nuklearmedizin Funktionsdiagnostik,clinic,clinic,nuclear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12771cc7-37b0-4d18-aa35-171def5d2e5f
+13.345230400000048,52.53974420000003,216,Pharmakovigilanz- und Beratungszentrum für Embryonaltoxikologie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ec5b27d6-4fe4-4b7a-82cc-d3bb3ace1bc5
+13.344209300000045,52.540778900000078,217,Klinik für Nuklearmedizin,clinic,clinic,nuclear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d49ab1c7-a7f7-41c0-939d-d3c7b808bf01
+13.345227200000068,52.540273100000036,218,Medizinische Klinik m.S. Infektiologie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ea4ccda5-9a5b-4367-8d03-34dbe2bc206a
+13.345109500000035,52.542656900000054,219,Medizinische Kliniken,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,247eb1ed-aab0-462e-a6a5-62feac64bc96
+13.345293800000036,52.541522300000054,220,"Mund, Kiefer, Gesichtschirurgie",clinic,clinic,dental_oral_maxillo_facial_surgery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,704b03a6-b70f-4679-9b0b-56246ad27a8d
+13.34407230000005,52.541304,221,Unfall- und Wiederherstellungschirurgie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3f1f3e76-c106-4865-a3a1-78da1542d073
+13.344467500000064,52.54079310000003,222,Klinik für Strahlenheilkunde,clinic,clinic,radiotherapy,Charite Campus Virchow Klinik,,,,,,,,,,,,,,,,,,,,,,,,,,,,812164ac-ea02-453a-8ebe-fbcee36f9e73
+7.352989200000025,51.451943400000062,223,Zahnklinik der Universität Witten/Herdecke,clinic,clinic,,Universität Witten/Herdecke,private,+49 2302 926600,https://www.uni-wh.de/gesundheit/zahnklinik/,zahnklinik@uni-wh.de,+49 2302 926681,,,Alfred-Herrhausen-Straße,45,58455,Witten,,Annen,,,,,,,,,,,,,,,b5a2952f-9cf6-4f94-a344-1012c3365b45
+8.693547,49.406647300000031,224,SeegartenKlinik,clinic,,,SeegartenKlinik GmbH,,,,,,,,Adenauerplatz,4/1,69115,Heidelberg,,,,,,,,,,,,,,,,,b5f3e974-ba30-486c-9d37-4003bb27f72a
+12.552085900000066,48.826627100000053,225,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7269539f-9371-41bb-8bad-51a9ab4ec135
+13.56321,51.161526300000048,226,Elbland Polikliniken,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,83af1d8d-16ab-4c5a-b0bb-a2088f1511b1
+10.838059400000077,48.385332,227,KVB-Notfallpraxis,clinic,clinic,,Kassenärztliche Vereinigung Bayerns,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,a7bc53c9-7143-4742-bfc5-8d11e42ff3b9
+8.408832600000039,48.457949900000074,228,Ambulantes Operationszentrum,clinic,clinic,,,,,,,,,,Straßburger Straße,57,72250,Freudenstadt,,,,,,,,,,,,,,,,,585d1a92-d3be-4195-b0cf-b3849fae3015
+6.30106180000007,50.604572200000064,229,Notaufnahme,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2172074f-c378-4686-a80b-99321976fc5e
+5.994634500000075,50.992516300000034,230,Katharina Kasper ViaNobis GmbH,clinic,,,Dernbacher Gruppe,,,,,,,,Katharina-Kasper-Straße,6,52538,Gangelt,,,,,,,,,,,,,,,,,f0269c93-471e-4231-95fe-540aa8fe4271
+11.969077800000036,51.477446400000076,231,Medizinisches Versorgungszentrum Elisabeth Ambulant,clinic,clinic,,MVZ Elisabeth Ambulant GmbH,,,,,,,,Mauerstraße,5,06110,Halle (Saale),,,,,,,,,,,,,yes,,,,66273ca2-064a-45c5-919c-0dd0d2804ba9
+12.898222800000042,47.718968500000074,232,Klinik Hochstaufen,clinic,,,,,,,,,,,Herkommerstraße,2,83457,Bayerisch Gmain,,,,,,,,,,,,,,,,,9b56c8c0-03b2-427f-892b-fad194bf6426
+12.883625600000073,47.731375700000058,233,BG Klinik für Berufskrankheiten Bad Reichenhall,clinic,clinic,,,,,,,,,,Münchner Allee,10,,,,,,,,,,,,,,,,,,,37f47c7a-1bdd-41f6-8b31-8e3afb42bdf1
+12.375419,51.385297600000058,234,KfH-Nierenzentrum Leipzig,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fbb5b82c-45f6-4c47-8cf2-100fc8105307
+8.523868,52.020771,235,Gerontopsychiatrisches Zentrum (Tagesklinik | Tagespflege) im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,Evangelisches Klinikum Bethel gGmbH,,,,,,,,Moltkestraße,3,33615,Bielefeld,,,,,,,,,,,,,,,,,f0c4297b-78a8-4b61-8e07-21ab6dc2e87f
+7.681690100000026,51.551047900000071,236,Lebenszentrum Königsborn gem. GmbH (LZK),clinic,clinic,,,,,,,,,,Zimmerplatz,1,59425,Unna,,,,,,,,,,,,,,,,,e7d370fa-1359-4ea4-acc6-bc615301cba0
+9.188880600000061,48.890508100000034,237,Dialysezentrum Dr. Engels,clinic,clinic,dialysis,,,,,,,,,Leonberger Straße,12,71638,Ludwigsburg,,,,,,,,,,,,,limited,,,,086562ec-f456-44c4-84d4-81eda3059737
+8.759274100000027,50.102676100000053,238,Reha Med Offenbach,clinic,clinic,,,,,,,,,,,,63065,Offenbach am Main,,,,,,,,,,,,,,,,,260f0e9f-5cdb-4f4d-bdf7-ccd020a03e11
+7.67329570000004,47.802348300000062,239,Klinik Park-Therme,clinic,,,,,,,,,,,Ernst-Eisenlohr-Straße,6,79410,Badenweiler,,,,,,,,,,,,,,,,,730c2722-c294-4d22-93d8-9a50fb7bb1f9
+6.043739600000038,50.772679400000072,240,Institutsambulanz - Klinik für Kinder- und Jugendpsychiatrie,clinic,clinic,"psychiatry;child_psychiatry",Uniklinik RWTH Aachen,,,,,,,,Neuenhofer Weg,22,52074,Aachen,,,,,,,,,,,,,,,,,0aa0a861-b653-4e4b-83da-3d3d922ca50e
+8.417778100000021,49.321409300000028,241,Gemeindepsychiatrisches Zentrum Vorderpfalz (GPZ),clinic,clinic,,Pfalzklinikum für Psychiatrie und Neurologie AdöR,,,,,,,,Lessingstraße,11,67346,Speyer,,,,,,,,,,,,,,,,,37d5aef2-83c1-45d0-abc6-fe851f2c7d0f
+10.964108200000055,50.256951500000071,242,ortho sport zentrum Überregionale Gemeinschaftspraxis,clinic,clinic,,ortho sport zentrum GbR,,+49 9561 23340,http://www.orthopaeden-coburg.de,,+49 9561 233429,,,Ketschengasse,22-24,96450,Coburg,,,,,,,,,,,,,,,,,e10d009a-9583-46c8-b507-da47a788e7ce
+12.824901300000022,50.582075300000042,243,EUBIOS Reha-Fachklinik Standort Grünhain,clinic,,,,,,,,,,,Elterleiner Straße,25,,,,,,,,,,,,,,,,,,,f5c21605-0335-44bd-ac12-5b7bf2391df1
+12.790595900000028,50.581909,244,AWO Gesundheitszentrum am Spiegelwald Mutter- / Vater-Kind-Vorsorgeklinik,clinic,,,,,,,,,,,Auer Straße,84,,,,,,,,,,,,,,,,,,,64c9f888-8aff-4f62-bc35-31fa817c958b
+10.140274900000065,51.379598400000077,245,Kurparkklink Heiligenstadt,clinic,clinic,,,,,http://kurparkklinik-heiligenstadt.de/,,,,,,,,,,,,,,,,,,,,,,,,,3d79ce8e-9867-4fdc-beeb-4d33d88803fc
+7.20740870000003,53.179818400000045,246,Oosterlengte - TZ Bad Nieuweschans,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,634c45f0-8095-41d2-94c9-5f1c66773a1d
+7.847231900000054,48.121502400000054,247,Klinik am Tor,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ab3b0f8c-fc90-42f7-9e75-c72a79536e18
+12.582946800000059,51.598622500000033,248,Reha-Zentrum,clinic,clinic,,MediClin,,,,,,,,Gustav-Adolf-Straße,15,04849,Bad Düben,,,,,,,,,,,,,yes,,,,87ab1632-9375-4084-ae02-003406e16751
+8.564666300000056,52.13974550000006,249,Evangelisches Krankenhaus Enger,clinic,clinic,geriatrics,Evangelische Krankenhäuser Enger gGmbH,,+49 5224 694 0,http://www.krankenhaus-enger.de/,,,,,Hagenstraße,47,32130,Enger,,,,,,,,,,,,,,,,,7a8c9e12-e23e-4f7d-a1d1-e0875f9633b6
+8.446678900000052,49.484702900000059,250,Zentrum für Radiologische Diagnostik,clinic,clinic,radiology,,,+49 621 591990,http://www.zrd.de/,,+49 621 5919919,,,,,,,,,,,,,,,,,,,,,,,70360c36-e8fe-456f-b4b9-c6cd601ba21e
+9.834516300000075,52.338655300000028,251,Aesthetic Clinic Med,clinic,,,,,,,,,,,Thie,1,30539,Hannover,,Kronsberg,,,,,,,,,,,yes,,,,5afe790f-cb05-41e3-a12d-922c0c531cad
+9.071365300000025,48.490995300000066,252,bwlv Fachklinik Tübingen,clinic,,,,,,,,,,,,1,72072,Tübingen,,,,,,,,,,,,,,,,,cea8a09f-dd5f-4843-a58f-fe3654b235e2
+9.075094600000057,48.737957900000026,253,Medical,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a99e02e3-f32e-4766-ac70-99966a1d4ef1
+8.183635200000026,49.993923100000075,254,Fontana Klinik,clinic,,,Dr. med. Klaus G. Niermann,,,,,,,,,,55126,,,,,,,,,,,,,,,,,,f96ce128-0440-41de-b346-63243e4a7024
+14.040402300000039,51.649692900000048,255,,clinic,,,,,,,,,,,Jauersche Straße,9,03229,,,,,,,,,,,,,,,,,,d364d559-3559-4555-acba-3736d9841960
+6.988325900000063,51.36272480000008,256,Essen Heidhausen,clinic,,,,,,,,,,,,,45239,,,,,,,,,,,,,,,,,,8e324f12-ef28-400f-80fa-6ff69ed7cbb5
+8.003477400000065,52.276995600000078,257,Klinikum Osnabrück - Privatklinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4ce33c4f-b29e-420c-87bd-5e0cad4eb1a4
+9.953562100000056,48.420751,258,Universitätsklinik für Psychosomatische Medizin und Psychotherapie,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cae87e82-08b0-41cf-b1ef-51c800ef2294
+8.788311700000065,52.199579700000072,259,Johanniter Ordenshäuser gem. GmbH,clinic,,,,,,,info@ahb-klinik.de,+49 5731 151 1999,,,Johanniterstraße,7,32545,Bad Oeynhausen,,,,,,,,,,,,,,,,,2df4ea41-8e95-4928-878a-06a49aebf34e
+8.793254600000068,52.198537600000066,260,Ronald McDonald Haus,clinic,,,,,,,,+49 5731 84227 27,,,Westkorso,19,32545,Bad Oeynhausen,,,,,,,,,,,,,,,,,80cc13e8-f00e-4930-952b-ec8e77b8aed4
+10.020823500000063,53.58383230000004,261,Verhaltenstherapie Falkenried MVZ - Psychosomatische Tagesklinik,clinic,clinic,,,,,,,,,,Jarrestraße,6,22303,Hamburg,,,,,,,,,no,,,,,,,,bc0a9ed7-6e1b-4c3c-8e55-d1563d09cf08
+12.819760500000029,48.998966,262,KfH St. Englmar,clinic,,,,,,,,,,,Bayerweg,9,94379,,,,,,,,,,,,,,,,,,68ed52df-de03-4e56-a3ea-817502c92bb8
+12.972685700000056,48.839827700000058,263,KfH e.V.,clinic,,,,,,,,,,,Perlasberger Straße,45,94469,,,,,,,,,,,,,,,,,,bf5270ee-e7a2-43c7-ba15-813d66434949
+13.545451800000023,48.804836700000067,264,KfH Nierenzentrum,clinic,,,,,,,,,,,Geyersberger Straße,3,,,,,,,,,,,,,,,,,,,d75f1a47-5b04-42f9-bf0e-0fc12ec71406
+13.54547210000004,48.80479420000006,265,KfH Freyung,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2cf06328-a1da-4a1e-a097-4155d0cd3912
+8.529800100000045,50.060292300000071,266,Therapiezentrum Perlt,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c9e7e5fe-ddc5-4c10-8515-6d7d2b4336fd
+9.056352100000026,48.405221900000072,267,Orthopädisch Chirurgisches Centrum,clinic,clinic,,,,+49 7473 950570,http://www.occ-tuebingen.de,,,,,Bahnhofstraße,5,72116,Mössingen,,,,,,,,,,,,,,,,,39539364-e738-45b3-8a0e-382c73a4018b
+9.057025900000042,48.405225700000074,268,Steinlachklinik,clinic,clinic,,,,+49 7473 941519,http://www.steinlach-klinik.de,,,,,Bahnhofstraße,5,72116,Mössingen,,,,,,,,,,,,,,,,,19809166-37b7-4e01-b4c1-94c1ec7b7e18
+7.937020400000051,47.56092730000006,269,Suchtmedizinische Tagesklinik,clinic,,,Zentrum für Psychiatrie (ZfP) Reichenau,,,,,,,,,,,,,,,,,,,,,,,,,,,,ee7ed8cf-b6fb-4a82-a25c-f9f71330d0ca
+13.336587300000076,52.431273,270,copv.berlin,clinic,clinic,"orthopaedics;surgery",,,,,,,,,Kaiser-Wilhelm-Straße,24-26,12247,Berlin,,,,,,,,,,,,,yes,,,,e17f2a9c-b090-45a4-9831-98966d7262be
+8.171767600000067,49.460776800000076,271,Fronhofklinik,clinic,clinic,,,,,,,,,,Fronhofallee,1,67098,Bad Dürkheim,,,,,,,,,,,,,,,,,f4f8a9ad-7e61-4531-a531-0f5facf78194
+8.70041070000002,52.126596800000073,272,Klinikum Herford Haupteingang,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,732bf1d5-165a-4221-9448-27854cccd37c
+8.699456700000042,52.126333800000054,273,Klinikum Herford Eingang Kinderklinik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a7b6c783-11c9-4632-bcf9-e8b1131ce2f4
+12.354131900000027,51.339182400000027,274,Institut für Sportmedizin und Prävention,clinic,,,,,,,,,,,Marschnerstraße,29A,04109,Leipzig,,,,,,,,,,,,,,,,,c3392697-65fe-4fa1-9094-3c32b486c7a4
+13.136901500000022,52.367035500000043,275,Ärztehaus,clinic,centre,,,,,,,,,,Konrad-Wolf-Allee,57,14480,Potsdam,,Drewitz,,,,,,,,,,,,,,,db799c65-5951-456e-a351-5f167334f86c
+8.524518300000068,52.012717100000032,276,Medizinisches Versorgungszentrum Bielefeld (MVZ) für Neurochirurgie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,yes,Q1381343,de:Evangelisches Klinikum Bethel,,1cf6d31a-c975-4e9f-b67c-84ec43522ee9
+8.528253800000073,52.013028400000053,277,PHV-Dialysezentrum am Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,,,,,,,,,Kantensiek,25,33617,Bielefeld,,,,,,,,,,,,,,,,,a80d4ff7-299d-4f15-bee4-1ef0fae06702
+7.835792100000049,47.995332700000063,278,Praxisklinik im Stühlinger,clinic,,,,,,,,,,,Stühlingerstraße,24,79106,Freiburg im Breisgau,,,,,,,,,,,,,,,,,e7c6291f-cd75-43f0-ab39-d1e7bec721f4
+10.071932900000036,50.197176200000058,279,Luitpoldklinik Heiligenfeld,clinic,,,,,,,,,,,Bismarckstraße,24,97688,Bad Kissingen,,,,,,,,,,,,,,,,,74de1de9-2e49-4aba-b5f1-54a2fd3a8f7d
+10.650626800000055,51.109406800000045,280,Rehaklinik an der Salza,clinic,,,,,,,,,,,Kurpromenade,6-8,99947,,,,,,,,,,,,,,,,,,c2066b3a-079a-4e33-9f9e-c4e98e12af98
+7.181841400000053,51.399635100000069,281,Ortho-Mobile Rehaklinik,clinic,rehabilitation,,,,,,,,,,August-Bebel-Straße,8-10,45525,Hattingen,,,,,,,,,,,,,,,,,91560e7d-670f-4704-9c1d-1288ea8612e4
+14.561313100000064,52.350751400000036,282,Impladent Clinic,clinic,clinic,,,,,,,,,,,,69-100,,,,,,,,,,,,,,,,,,24e9172c-53ba-4713-95ba-025838f86169
+9.70862580000005,48.698031600000036,283,Alisa Ambulanter Pflegedienst GmbH,clinic,,,,,,,,,,,Salacher Straße,20,73054,Eislingen/Fils,,,,,,,,,,,,,,,,,60b85912-6b73-4996-a346-66adbf76d175
+9.813638,53.303706400000067,284,Sanatorium Osterberg,clinic,clinic,,,,,,,,,,Osterbergweg,3,21244,Buchholz in der Nordheide,,Sprötze,,,,,,,,,,,,,,,88ef7769-d9cc-41a1-816a-f368e2cac5c6
+13.386159500000076,54.094971,285,Helios Klinik für Kinder-und Jugendpsychatrie,clinic,clinic,psychiatry,,,,,,,,,Am Mühlentor,1,17489,Greifswald,,,,,,,,,,,,,no,,,,97f26508-4acb-429f-819c-059a46b17b3a
+13.382597600000054,54.078716,286,Psychiatrische Institutsambulanz,clinic,clinic,,,,,,,,,,Gützkower Landstraße,69,17489,Greifswald,,,,,,,,,,,,,,,,,25207dcd-ac89-4595-a62a-f24281da77b5
+11.732337700000073,47.69914,287,Klinik im Alpenpark,clinic,,,,,+49 8022 8460,http://www.klinik-alpenpark.de,info@klinik-alpenpark.de,+49 8022 846207,,,Defreggerweg,2-6,83707,Bad Wiessee,,,,,,,,,,,,,,,,,b1d15b9f-7b8e-4597-a4bb-b6f1535fed0a
+11.760990600000071,47.701434,288,Orthopädische Klinik Tegernsee,clinic,,,Deutsche Rentenversicherung,,+4980221850,https://www.ok-tegernsee.de/,,+498022185300,,,Seestraße,80,83684,Tegernsee,,,,,,,,,,,,,,,,,674cf7b2-7649-47fa-83ea-938714beb372
+11.737248800000032,47.70614820000003,289,Klinik St. Hubertus,clinic,,,Medical Park Bad Wiessee GmbH & Co. KG,,+49 8022 8430,https://www.medicalpark.de/de/Kliniken_und_Zentren/St__Hubertus__Bad_Wiessee.html,st.hubertus@medicalpark.de,+49 8022 83708,,,Sonnenfeldweg,29,83707,Bad Wiessee,,,,,,,,,,,,,,,,,d1c89e20-d0cf-49ac-8ed9-6de9b07d3154
+8.279729,49.995145800000046,290,Fort Malakoff Klinik Mainz,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5f70e695-aef2-4456-a27e-8c46e0f7c590
+8.522557200000051,52.013221200000032,291,Ambulante Suchthilfe im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5acbcaac-e812-4f11-9e09-90eeaa1dd806
+8.523001800000031,52.011274,292,Tagesklinik am Königsweg im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,psychiatry,Evangelisches Klinikum Bethel gGmbH,,,,,,,,Königsweg,5,33617,Bielefeld,,,,,,,,,,,,,,,,,f4c8079e-cd4e-4961-97f2-d80e8ef076d1
+8.529222100000027,52.012790700000039,293,Sozialpädiatrisches Zentrum im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,,,,,,,,,Grenzweg,3,33617,Bielefeld,,,,,,,,,,,,,,,,,e41f95c9-b9c0-47ea-be4e-d78760feccad
+12.089730600000053,49.009765,294,Zahnärztliche Tagesklinik,clinic,dentist,,Zahnärztliche Tagesklinik Dr. Eichenseer MVZ II GmbH,,,,,,,,Bischof-von-Henle-Straße,2 a,93051,Regensburg,,,,,,,,,,,,,,,,,2035fd5e-43fa-41bc-9839-cb8033b91fa0
+7.33256810000006,51.439968300000032,295,Orfea,clinic,clinic,,,private,+49 2302 275880,https://www.orfea.de/,kontakt@orfea.de,+49 2302 275695,,,Uthmannstraße,8,58452,Witten,,Mitte,,,,,,,,,,,no,,,,eba9789f-5f4f-4850-b8c4-fc02ac56b8d4
+6.964291800000069,50.907931500000075,296,Zentrum für funktionelle Schmerztherapie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80fb23a6-49ac-4366-84c3-255fba112c1a
+7.729250600000057,50.330431900000065,297,Maharishi Ayurveda Privatklinik Bad Ems,clinic,clinic,"ayurveda;ayurveda_kur;ayurveda_klinik;panchakarma;panchakarma_kur",Lothar Pirc,business,,,,,,,Am Robert Kampe Sprudel,,56130,Bad Ems,,,,,,,,,no,,,,yes,,,,e7624f1b-caee-4b2f-b1b3-337885ef5398
+12.819493800000032,51.137370900000064,298,Diakonie Kliniken Zschadraß,clinic,clinic,"psychiatry;neurology",Diakoniewerk Zschadraß gemeinnützige GmbH,,+49 3438187 0,http://www.diakoniezschadrass.de/startseite/,,,,,Im Park,15a,04680,Colditz,,Zschadraß,,,,,,,,,,,,,,,d622cbbd-c221-461c-bca5-9d40a1242163
+9.070955300000037,51.112793300000078,299,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6f7d1de4-0435-46ea-a4ea-473b7da9cf61
+6.863920900000039,51.164395500000069,300,Johanniter-Tagesklinik Düsseldorf-Benrath,clinic,clinic,,,,,,,,,,Marbacher Straße,79,40597,Düsseldorf,,,,,,,,,,,,,,,,,fe2cfc9b-a0fc-4f2a-b083-e492f93d9b9b
+10.622177100000044,47.882675300000074,301,Ausbildung MKG,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71ab71fd-6630-4029-a438-80598747315d
+9.229873700000041,48.093726600000082,302,Pflegeheim Fideliswiesen ProCurand / Bau -A,clinic,,,Gemeinnützige ProCurand,,,,,,,,Bussenstraße,1-3,72488,Sigmaringen,,,,,,,,,,,,,,,,,171c84c7-625a-488c-b49a-675cc0f19fc5
+9.229860100000053,48.094071600000063,303,Service Wohnen ProCurand / Bau - B,clinic,,,Gemeinnützige ProCurand,,,,,,,,Bussenstraße,1-3,72488,Sigmaringen,,,,,,,,,,,,,,,,,9ff86595-2079-4816-a3f4-32f39d95fae8
+9.228832200000056,48.093858400000045,304,Wohnanlage Fideliswiesen ProCurand / Bau - C,clinic,,,Gemeinnützige ProCurand,,,,,,,,Adolph-Kolping-Straße,3,72488,Sigmaringen,,,,,,,,,,,,,,,,,f2ee225f-94b9-4043-8830-6b4b7f02a0f0
+9.214927100000068,48.086689300000046,305,Ambulanter Pflegedienst ProCurand,clinic,,,Gemeinnützige ProCurand,,,,,,,,,,,,,,,,,,,,,,,,,,,,837960df-b0e1-42ba-9fb9-4157d42b14e5
+10.162438500000064,53.65054,306,Radiologie Walddörfer,clinic,clinic,,Dr. med. Lars Emde,,+49 40 54755080,,info@radiologie-walddoerfer.de,,,,Farmsener Landstraße,193,,,,,,,,,,,,,,,,,,,34e587b5-1867-4d79-8818-14562c5fd0f1
+11.344137100000069,48.000705900000071,307,Augenklinik Starnberg AKS,clinic,,,,,,,,,,,Josef-Jägerhuber-Straße,7,82319,Starnberg,,,,,,,,,,,,,,,,,b9368cfd-c853-4163-b785-5ad78aed545a
+14.081126100000063,52.568729100000041,308,Therapiezentrum Buckow,clinic,,,,,,,,,,,Lindenstraße,9,15377,Buckow,,,,,,,,,,,,,,,,,781133fb-369a-4ec6-8bfe-a1cbb2d8e761
+10.281953600000065,47.403001500000073,309,Hohes Licht,clinic,,,FrauenWerk Stein e.V.,,,,,,,,Kratzerstraße,20,87561,Oberstdorf,,,,,,,,,no,,,,,,,,bae47ec0-849c-4858-b594-7c8cc62f40e1
+11.560072300000058,48.130743300000063,310,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f6598090-2b48-4569-bae1-61c718d2e560
+9.279552,48.684706500000061,311,Atlas Klinik,clinic,clinic,,,,,,,,,,,,73765,,,,,,,,,,,,,,,,,,1cad2b70-a0ad-4bcc-bdf8-12280db4d14e
+10.22500720000005,50.318232800000033,312,Psychsomatik Tagesklinik,clinic,psychotherapist,psychosomatic_medicine,,,,http://campus-nes.de/psychosomatische-klinik/behandlungsangebot/tagesklinik.html,,,,,,,,,,,,,,,,,,,,,,,,,a8547f07-4789-4d4b-a063-f734af9bf277
+11.601136800000063,50.93062,313,Tagesklinik für Gerontopsychiatrie,clinic,clinic,,Uniklinikum Jena,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,8eedad7c-da1c-4e19-aa68-438421e45c90
+8.671742800000061,50.588802300000054,314,Simulationskrankenhaus THM,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91dc92db-2da5-4d4d-9591-e62d1480fca0
+8.961761900000056,50.03901,315,Dialysezentrum Heusenstamm - Seligenstadt,clinic,,,,,,http://www.dialyse-heusenstamm.de,,,,,,,,,,,,,,,,,,,,,,,,,310b365d-d574-4cd2-8621-d60db79bb364
+11.511721600000044,48.095817500000067,316,Tagesklinik Süd für Psychiatrie und Psychotherapie,clinic,,,Bayerisches Rotes Kreuz,,+49 89 2373580,,tagesklinik@brk-muenchen.de,+49 89 2373581,,,,,,,,,,,,,,,,,,,,,,,412c78d4-c15b-4327-8689-1b1dbde0d955
+12.767951400000072,50.712426400000027,317,Praxisklinik Prägler+Tinius,clinic,,orthopaedics,,,,,,,,,Hohensteiner Straße,56,09366,Stollberg/Erzgebirge,,,,,,,,,,,,,,,,,dfd083bf-a32d-4089-82d8-bbe87a54c031
+8.619459600000027,49.682953700000041,318,Hautarztpraxis Stefan Schmitt,clinic,clinic,"allergology;dermatology",,,,,,,,,Fehlheimer Straße,8,64625,Bensheim,,,,,,,,,,,,,,,,,c4e6ad37-7460-4479-b6d8-c35045178b66
+13.319740600000046,52.456540200000063,319,Privatklinik Schlossstraße - Fachklinik für Brustvergrößerung und Brustformung,clinic,clinic,plastic_surgery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0ab85281-7772-4617-8276-7db43badfbea
+8.595517100000052,52.210355600000071,320,Sozial-Psychiatrische Rehabilitationseinrichtung,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a852bb19-0d1f-4776-990c-b5e691e28b36
+12.375907600000062,51.330207,321,chirurgika - Klinik für Plastische und Ästhetische Chirurgie,clinic,clinic,,Dr. Katja Hohmann-Bauch,,,,,,,,Schletterstraße,10,04107,Leipzig,,,,,,,,,,,,,,,,,c8263cfd-95f7-4ece-8033-3df944d21650
+12.053539800000067,50.867853600000046,322,Haus Simmel,clinic,,,SRH Kliniken GmbH Heidelberg,,,,,,,,,,,,,,,,,,,,,,,,,,,,f9c2acd6-0013-4db9-8e9c-542b710ae4c4
+8.696233300000074,49.409051900000065,323,Klinik in der Plöck,clinic,,,,,,,,,,,Plöck,31,,,,,,,,,,,,,,,,,,,e4c804bb-5868-4db3-94c2-ecf6d6cabb26
+11.484248700000023,49.50641070000006,324,Pegnitztaler Venenklinik,clinic,clinic,,Hohenstadt Versorgungszentrum Markgrafenresidenz,,,,,,,,Happurger Straße,15,91224,Pommelsbrunn,,Hohenstadt,,,,,,,,,,,,,,,10d1ccdb-ce9d-4d20-a478-ef5f33ef58ad
+7.011383800000033,51.453176800000051,325,Augenzentrum Essen,clinic,clinic,,,,,,,,,,Lindenallee,6,45127,,,,,,,,,,,,,,,,,,8ece4938-0bb5-49e4-898a-fcaa426f0e71
+11.484329800000069,49.50636650000007,326,Lympho Opt Klinik,clinic,clinic,,,,,,,,,,Happurger Straße,15,91224,Pommelsbrunn,,Hohenstadt,,,,,,,,,,,,,,,bb7a070f-2f28-40b6-b2ea-1fe31012f2a1
+11.516574800000058,48.113033700000074,327,Praxis Dr. Mehringer,clinic,,,,,+49 89 7142532,http://www.praxis-dr-mehringer.de,info@praxis-dr-mehringer.de,,,,Luise-Kiesselbach-Platz,35,,,,,,,,,,,,,,,,,,,5a697c06-2b44-430e-99f9-22d00cdf0b18
+10.639661300000057,48.060159200000044,328,Defibrillator,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72bb0df5-53a3-4db3-9d79-c7bae034109a
+8.42036870000004,49.003811100000064,329,Parkklinik,clinic,clinic,plastic_surgery,,,,https://www.parkklinik.info,,,,,Ludwig-Erhard-Allee,20,76131,Karlsruhe,,,,,,,,,,,,,,,,,9f07d2c8-fd8e-42fb-8c62-c2862be083ed
+11.212894300000073,54.41215770000008,330,Südstrand-Klinik Fehmarn / Kinder-Rehabilitation,clinic,rehabilitation,,,,,,,,,,Südstrandpromenade,3,23769,Fehmarn,,Burgtiefe,,,,,,,,,,,,,,,eb08b450-3231-4e75-8096-52e25a7a5e31
+9.091878500000064,54.374874,331,Vincemus-Klinik,clinic,clinic,plastic_surgery,,,,,,,,,Brückenstraße,1a,25840,Friedrichstadt,,,,,,,,,,,,,,,,,5fb2f115-e006-44e0-8505-465119785720
+10.708812500000022,53.841520800000069,332,Universitäres Kinderwunschzentrum,clinic,clinic,family_planning,,,+49 451 50577810,http://www.uksh.de/kinderwunsch-luebeck,kinderwunsch@uksh.de,,,,,,,,,,,,,,,,,,,,limited,,,,44025bd9-4eea-4297-aa5c-12f1fb25208b
+12.38540880000005,51.331373500000041,333,KfH-Nierenzentrum,clinic,clinic,,KfH Kuratorium für Dialyse und Nierentransplantation e.V.,,,,,,,,,,,,,,,,,,,,,,,,,,,,b7d49a97-f1af-4585-8c95-1e730894ff1e
+7.036432500000046,49.212331400000039,334,MVZ SHG Halberg,clinic,,,,,,,,,,,Spitalstraße,2,66130,Saarbrücken,Haus im Park,,,,,,,,,,,,limited,,,,a8fddeb2-afd8-4a1b-9034-7241a6811613
+7.097831700000029,50.72902890000006,335,diabetes im zentrum,clinic,clinic,,Gemeinschaftskrankenhaus Bonn gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,c59869bf-b087-4e09-a02b-4c008a20eada
+6.737534900000071,51.242143700000042,336,Praxisklinik Dr. Henscheid,clinic,clinic,plastic_surgery,,,+49 211 699090,https://dr-henscheid.de/,info@dr-henscheid.de,+49 211 6990990,,,,,,,,,,,,,,,,,,,,,,,2f2d294c-32fb-4acc-b381-543274ae9ba7
+9.988666400000056,53.564719800000034,337,Alster-Klinik,clinic,clinic,plastic_surgery,,,,,,,,,Rothenbaumchaussee,7,20148,Hamburg,,,,,,,,,,,,,,,,,e06e317b-9ee3-44fb-8699-e870e06e4596
+8.685696500000063,50.116658700000073,338,Heilpraktikerin Osteopathiepraxis,clinic,physiotherapist,"ostepathie;physiotherapie",Ulrike Mang,,,,,,,,Schäfergasse,50,60313,Frankfurt am Main,,,,,,,,,,,,,no,,,,c0f45283-aae2-4aec-93cf-d9a458ffc6be
+12.392098400000066,51.319448800000032,339,Klinik für Vögel und Reptilien,clinic,clinic,,,,,,,,,,An den Tierkliniken,17,04103,Leipzig,,,,,,,,,,,,,,,,,14d3c378-eaa4-4b2c-86ab-9cb7f4695a15
+10.2585,53.66197470000003,340,Kinderwunschzentrum,clinic,,,Universitäre Kinderwunschzentrum GmbH,,+49 4102 777 686 0,,,,,,Hansdorfer Landstraße,9,,,,,,,,,,,,,,,,,,,6d09f6cb-59d0-4ecc-bbad-e41f93d715ba
+8.356709200000068,49.010444200000052,341,Ambulantes Zentrum für Rehabilitation und Prävention am Entenfang,clinic,rehabilitation,,,,+49 721 95206-0,http://www.azr.de/,info@azr.de,,,,Am Entenfang,12-14,76185,Karlsruhe,,Mühlburg,,,,,,,,,,,,,,,874848bd-8477-4469-886f-4b5a512b4325
+13.480057800000054,52.52382190000003,342,Nierenzentrum Lichtenberg,clinic,clinic,"internal;nephrology;dialysis",Dr. med. Franz Otto,,,,,,,,Möllendorffstraße,45,10367,Berlin,,,,,,,,,,,,,yes,,,,07bd4a3c-dd0d-43d1-90e3-9926cb36c810
+9.108891100000051,48.945886700000074,343,Rehazentrum Hess,clinic,rehabilitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1693257d-d6a5-4779-a3b0-296957e5b8ca
+8.528936300000055,50.910936100000072,344,Augenärzte Biedenkopf,clinic,clinic,ophthalmology,,,,,,,,,Schulstraße,5,35216,Biedenkopf,,,,,,,,,,,,,yes,,,,12a20c91-8963-4111-8452-49abd842c54f
+9.602992800000038,47.776802400000065,345,Dreiländerklinik,clinic,clinic,,,,+49 751 366500,http://www.dreilaenderklinik.de/,,,,,Wilhelm-Hauff-Straße,41,88214,Ravensburg,,,,,,,,,,,,,,,,,97c9053c-7026-4cab-944c-5e319104b4ea
+9.191778400000032,48.68985280000004,346,Airport Medical Center,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e2eafca1-7f48-491a-8599-94c54153d918
+8.68646810000007,50.114050200000065,347,Chirurgie Zeil,clinic,clinic,orthopaedics,,,,https://www.chirurgie-zeil.de,,,,,,,,,,,,,,,,,,,,,,,,,70ee1eda-0a83-4b78-b7b8-acc59dc182bd
+7.68149040000003,51.551158500000042,348,LZK - Fachklinik für Kinderneurologie und Sozialpädiatrie,clinic,clinic,,,,,,,,,,Zimmerplatz,1,,Unna,,,,,,,,,,,,,,,,,20399cb7-a0a7-4a36-873c-06bd8008504b
+7.080566800000042,52.44170390000005,349,EUREGIO-KLINIK Psychiatrische Tagesklinik,clinic,clinic,psychiatry,EUREGIO-KLINIK,,,,,,,,,,,,,,,,,,,,,,,,,,,,173aa464-11ae-496b-ac26-70a720563e99
+13.27208,53.574517,350,MEDICLIN - Tagesklinik für Kinder und Jugendliche,clinic,clinic,,Müritz-Klinikum GmbH,,,,,,,,Atelierstraße,5-7,17034,Neubrandenburg,,,,,,,,,,,,,,,,,922e9d11-0d4f-4b97-89b2-dd140121aef3
+10.900587200000075,48.339799600000049,351,medaktiv,clinic,"physiotherapist;occupational_therapist;speech_therapist;rehabilitation",,,,,,,,,,Alter Postweg,97b,86159,Augsburg,,,,,,,,,,,,,,,,,5fbd4c30-1014-48a6-9181-f5b154ce48b7
+7.610648900000058,51.976134400000035,352,Zentrum für ambulante Operationen,clinic,clinic,,Fachärzte für Anästhesiologie Ingo Amelung und Jörg Staudach,,+49 251 201003,http://www.op-zentrum-ms.de,,+49 251 25272,,,Dorpatweg,7,48159,Münster,,,,,,,,,,,,,,,,,72a7617e-9915-4d03-af27-4564e20d8e68
+7.000524200000029,51.458646200000032,353,esthetic,clinic,clinic,plastic_surgery,Dr. med. Daniel Talanow,,,,,,,,Altendorfer Straße,7,,,,,,,,,,,,,,,yes,,,,8cb8c9da-e824-4d48-8adb-3430c61c6a3f
+7.612247900000057,47.593913800000053,354,Tagesklinik Chirurgie Dr. Herold,clinic,clinic,"surgery;proctology;plastic_surgery;paediatric_surgery;vascular_surgery",Dr.med. Volker Herold,,,,,,,,Am Rathaus,6,79576,Weil am Rhein,,,,,,,,,,,,,,,,,25c57475-2d3d-44f4-81ce-868428b27f42
+9.982196900000076,53.462751400000059,355,Asklepios Gesundheitszentrum Harburg - Schloßmühlendamm,clinic,,surgery,Asklepios,,,,,,,,,,,,,,,,,,,,,,,,,,,,e5e478f5-cb46-4f88-bb7c-d6cb53b100a6
+13.180660900000078,52.49789990000005,356,Biberburg Med-Service GmbH,clinic,,,,,,,,,,,Gatower Straße,241,,,,,,,,,,,,,,,,,,,5e07d28f-99ae-411d-b332-c7d56ffa7a5f
+7.146662800000058,50.692916300000036,357,Nierenzentrum Bonn,clinic,clinic,nephrology,Nierenzentrum Bonn,,,,,,,,Godesberger Allee,26,53175,Bonn,,,,,,,,,,,,,,,,,3e968193-b084-45bd-8e4f-3a1c36849fe1
+7.146669800000041,50.692860800000062,358,Dialysezentrum Bonn,clinic,clinic,nephrology,Nierenzentrum Bonn,,,,,,,,Godesberger Allee,26,53175,Bonn,,,,,,,,,,,,,,,,,e56709c8-578c-4969-b630-97960050c89c
+8.651614700000039,49.792245800000046,359,Sommerclinics,clinic,,,,,,,,,,,Steige,2,64342,Seeheim-Jugenheim,,Malchen,,,,,,,,,,,,,,,c4ca3065-0da3-42c0-bcca-70d0f622be9c
+6.469118,51.223687900000073,360,Bäuchlings,clinic,midwife,,,,,http://www.baeuchlings.de/,,,,,Liebfrauenstraße,42,41066,,,,,,,,,,,,,,limited,,,,d77efc3e-ce26-468e-9ce9-799a0543b31c
+8.763178,50.106120700000076,361,Urologicum,clinic,clinic,"dermatology;urology",,,,,,,,,Berliner Straße,75,63065,Offenbach am Main,,,,,,,,,,,,,yes,,,,fa83da20-76df-45fd-b07d-f760cfe0ae39
+8.663870400000064,49.87694730000004,362,Prinzessin-Margaret-Kinderklinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a678aa01-8f6c-4de1-85fe-f24f042ec2d6
+6.672428400000058,51.19206790000004,363,medicoreha Neuss,clinic,clinic,,medicoreha Welsink Rehabilitation GmbH,,+49 2131 890-0,https://medicoreha.de/medicoreha/patienten-und-kunden/standorte/neuss,post-neuss@medicoreha.de,+49 2131 890-501,,,Preußenstraße,84a,41464,Neuss,,,,,,,,,,,,,,,,,7c987b5c-4b45-4036-b3e8-6023824de923
+11.071857600000044,49.446666700000037,364,CARE Vision,clinic,clinic,"laser_coagulation;Laserkoagulation",,,,,,,,,Zeltnerstraße,3,90443,Nürnberg,,,,,,,,,,,,,,,,,2c04de9a-7973-4109-908d-3ea340d73107
+9.232905100000039,52.91322260000004,365,,clinic,dialysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f9b3be34-2386-48e9-83be-32a9822db319
+9.232919800000047,52.913222400000052,366,,clinic,dialysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1e3b3b58-bc43-4abe-8e37-b07441040bbb
+11.121317200000021,49.481399500000066,367,310Klinik,clinic,clinic,,,,,,,,,,Neumeyerstraße,48,90411,Nürnberg,,,,,,,,,,,,,,Q56127157,,,dc35f59d-e658-4453-a63a-dc73bf63007b
+7.034321100000057,50.070558500000061,368,Capio MVZ Venenzentrum,clinic,clinic,,,,,,,,,,Bäderstraße,1,56864,Bad Bertrich,,,,,,,,,,,,,,,,,315c7d77-c76c-492e-8377-e0221cad7e6e
+7.034550500000023,50.070294700000034,369,Capio Mosel-Eifel-Klinik,clinic,,,,,,,,,,,Kurfürstenstraße,40,56864,Bad Bertrich,,,,,,,,,,,,,,,,,74626bd4-4916-4840-b1d0-4048654ce255
+7.036627800000076,50.072144900000069,370,Median Klinik am Park,clinic,,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,,,,,,,,,,,,,,,,,,,,,,,,,,,2052e374-7033-4391-b130-9189ae4f2664
+7.034997,50.07238760000007,371,Capio Mosel-Eifel-Klinik Haus Sonnenberg,clinic,,,,,,,,,,,Sonnenstraße,6,56864,Bad Bertrich,,,,,,,,,,,,,,,,,a7f16bfa-0d13-43dd-97b3-0b2bb08f7231
+7.028105100000062,50.071069800000032,372,Median Klinik Haus Fortuna,clinic,,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,,,,,,,Kurfürstenstraße,11,56864,Bad Bertrich,,,,,,,,,,,,,,,,,da46a5ae-7fb1-49f3-8a18-7a95891e5932
+7.239708600000029,50.799561,373,Dr. Ehmann Kinderhaus,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f026da13-5cd7-49d5-acdf-7df3509f13fc
+9.210264100000074,48.495815700000037,374,Klinik im Kronprinzenbau,clinic,clinic,surgery,,,,,,,,,Listplatz,1,72764,Reutlingen,,,,,,,,,,,,,,,,,92ddeb5c-6f92-4b8d-9f34-4284ca14cf3a
+12.62227,50.758512600000074,375,Dr. med. Reinhard Lößer,clinic,clinic,surgery,,,,,,,,,Rudolf-Breitscheid-Straße,15,09350,Lichtenstein/Sa.,,,,,,,,,,,,,,,,,2595c372-517c-44bc-a5f1-0b37e26767bf
+10.905000900000061,48.365500900000029,376,Klinik am Forsterpark,clinic,clinic,plastic_surgery,Klinik am Forsterpark GmbH & Co. KG,,,,,,,,Willy-Brandt-Platz,3,86153,Augsburg,,,,,,,,,,,,,,,,,b60faac1-d34e-4265-8129-af68a435ef71
+11.061369600000035,49.457036800000026,377,KfH-Gesundheitszentrum,clinic,,,,,,,,,,,Großweidenmühlstraße,29,90419,Nürnberg,,,,,,,,,,,,,,,,,14b621ae-10f4-48c8-85d3-1837dd6ba95f
+6.439945100000045,51.200035400000047,378,LVR Tagesklinik,clinic,psychotherapist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2164f682-96bb-48f8-b1dd-3bf64c82e02c
+7.457200900000032,53.230754800000057,379,Tagesklinik Leer,clinic,clinic,ophthalmology,ZG Zentrum Gesundheit GmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,,efe0dc7a-c2ae-4ed3-9639-5ac038cda4f3
+8.695853100000022,50.116019200000039,380,Main Aesthetics,clinic,clinic,plastic_surgery,,,+49 69 94410033,https://www.main-aesthetics.de/,info@main-aesthetics.de,,,,,,,,,,,,,,,,,,,,,,,,9d67e73d-1759-4af3-a715-76dee5b8c71a
+9.949455900000032,53.559274,381,Substitutionsambulanz Altona,clinic,clinic,,Asklepios Klinik Nord Ochsenzoll Klinik für Abhängigkeitserkrankungen,,,,,,,,,,,,,,,,,,,,,,,,,,,,a2ec4d71-37e4-4655-9b4a-cd288d104f36
+11.291897600000027,47.863929800000051,382,Centrum für Prävention,clinic,,,,,+49 8158 90780,https://cep-hoehenried.de,info@cep-hoehenried.de,,,,,,,,,,,,,,,,,,,,,,,,f691465e-7d86-4b7b-a4d8-a44e0e346fb4
+13.47873,52.527044400000079,383,CPC,clinic,clinic,,Evangelisches Krankenhaus Königin Elisabeth Herzberge gemeinnützige GmbH (KEH gGmbH),,,,,,,,Weißenseer Weg,111,10369,Berlin,,,,,,,,,,,,,,,,,248cb609-927a-4424-a56c-3e8e99575aab
+13.401521600000024,54.089817200000027,384,"Zentrum für Zahn-, Mund- und Kieferheilkunde",clinic,,,Universitätsmedizin Greifswald,,,,,,,,Fleischmannstraße,42,17489,Greifswald,,,,,,,,,,,,,,,,,43414737-7493-4ca2-b14f-9647548b8e37
+7.214948400000026,51.476297700000032,385,Viktoria Klinik Bochum,clinic,clinic,orthopaedics,,,,,,,,,Viktoriastraße,66-70,44787,Bochum,,,,,,,,,,,,,,,,,530911b7-aab1-4f59-8749-8e119bf071fb
+9.763448900000071,49.491207600000052,386,Mutterhaus und Kreißsaal,clinic,clinic,gynaecology,Caritas Krankenhaus Bad Mergentheim,,,,,,,,,,,,,,,,,,,,,,,,,,,,458e7901-247e-401d-a9fe-6f9ee02657b2
+9.479033700000059,47.652652500000045,387,Bodensee-Sportklinik,clinic,,,"Dr. med. R. Diesch, Dr. med. M. Neusser, Henry Saad, Dr. med. J. Stehle, B. Miller",,,,,,,,,,,,,,,,,,,,,,,,,,,,05a6ec62-9ce2-4d76-8ec6-e37ccb77e3cb
+6.270993800000042,51.309908900000039,388,Tagesklinik Nettetal,clinic,clinic,,LVR,,,,,,,,,,,,,,,,,,,,no,,,,,,,,8756e1ad-791b-4b2a-a7be-fe4020428805
+9.812059900000065,53.563686100000041,389,Park-Klinik Blankenese,clinic,clinic,plastic_surgery,,,,,,,,,Sülldorfer Kirchenweg,1a,22587,Hamburg,,,,,,,,,,,,,,,,,423872b6-0e20-4eff-9311-f1837ce71851
+13.376148100000023,52.527058300000078,390,Station 152a,clinic,clinic,Psychiatrie,Charité,,,,,,,,Virchowweg,19,10117,Berlin,,,,,,,,,,,,,limited,,,,fb00ea9a-fc25-433c-b1b2-4d316bc779c1
+13.375799900000061,52.526328300000046,391,PIA,clinic,clinic,psychiatry,Charité Mitte,,,,,,,,Bonhoefferweg,3,,,,,,,,,,,,,,,,,,,2d840193-7fb0-4923-a6e2-a6077d89ac00
+9.858291800000075,47.579038,392,Paracelsus-Klinik,clinic,,,,,,,,,,,Kurstraße,5,88175,,,,,,,,,,,,,,,,,,a82132d3-8ef3-410b-826c-f0bc140b1973
+12.392179,51.320336300000065,393,"Klinik für Pferde, Abteilung Innere Medizin und Reproduktionsmedizin",clinic,clinic,,"Universität Leipzig, Veterinärmedizinische Fakultät",,,,,,,,An den Tierkliniken,11a,04103,Leipzig,,,,,,,,,,,,,,,,,153363ee-9f6b-4703-8988-e9ee00b46589
+12.39202240000003,51.320485400000052,394,Klinik für Klauentiere,clinic,clinic,,"Universität Leipzig, Veterinärmedizinische Fakultät",,,,,,,,An den Tierkliniken,11a,04103,Leipzig,,,,,,,,,,,,,,,,,35d2b85a-c4ed-404b-a54f-5e5a2cc2b6e3
+10.20854920000005,50.326295200000061,395,NESSA Klinik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4bf015a4-c539-4924-b940-73aa37e88dd5
+12.269239600000049,54.262842500000033,396,ASB Mutter-Kind-Theraphieklinik Meeresbrise,clinic,,,,,,,,,,,Strandstraße,22,,,,,,,,,,,,,,,,,,,24be7cbe-5fec-48ad-ac74-493f10dc44e9
+12.230870100000061,54.250205300000061,397,ASB Mutter-Kind-Klinik Heidesanatorium,clinic,,,,,,,,,,,Kurstraße,28,,,,,,,,,,,,,,,,,,,5827ff26-fbb2-4385-ba79-f86b307d5af0
+12.171289800000068,49.682210100000077,398,KfH-Gesundheitszentrum,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b551f142-b7f7-4a47-a3ae-15694aa66b95
+12.389105,51.335481600000037,399,CARE Vision,clinic,,,,,,https://www.care-vision.de/augenlasern-leipzig/,,,,,,,,,,,,,,,,,,,,,,,,,014cd461-fd5c-47d4-8ae8-a2de73e36478
+12.090498700000069,48.999464400000079,400,Fachklinik für Neurologische Rehabilitation,clinic,clinic,neurology,medbo KU,,,,,,,,Universitätsstraße,84,93053,Regensburg,,,,,,,,,,,,,yes,,,,11d86c40-3dd8-437b-ba51-5ef60aa1c872
+12.943127900000036,51.277121900000054,401,Fachklinik für Drogenrehabilitation,clinic,clinic,,,,,,,,,,Hubertusburg,39,04779,Wermsdorf,,,,,,,,,,,,,,,,,b39411c0-5560-4274-873f-5bf6926fb302
+13.466242200000067,52.552013500000044,402,Medizinisches Versorgungszentrum am Alexianer St. Joseph-​Krankenhaus Berlin-​Weißensee,clinic,centre,"general;neurology;psychiatry",,,,https://www.alexianer-berlin-weissensee.de/leistungen/ambulante-behandlung/medizinisches-versorgungszentrum-mvz/,,,,,Berliner Allee,158,13088,Berlin,,,,,,,,,,,,,,,,,e52c9eae-6bc1-4441-a4c8-3f7fc7a2ec67
+10.554050500000073,51.595616300000074,403,NikoMedicum,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1736dd72-d422-4b7f-a83d-121970c83e6c
+7.803149500000075,49.457864900000061,404,ZAR Kaiserslautern,clinic,rehabilitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56ea6a2f-4096-4c48-aa39-d73d80113012
+9.151640800000052,49.979649900000027,405,Frauenärzte Gesundheitszentrum,clinic,centre,gynaecology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ba78b24d-e517-4e17-a76d-0dc9928816bb
+12.197755900000061,51.817847700000073,406,Augenklinik,clinic,,,Städtisches Klinikum Dessau,,,,,,,,,,,,,,,,,,,,,,,,,,,,cedeea50-79cf-4d36-962e-058c0550b4d9
+8.54618320000003,52.015255600000046,407,Komfortklinik,clinic,clinic,,Klinikum Bielefeld Mitte,,,,,,,,Oelmühlenstraße,30,33604,Bielefeld,,,,,,,,,,,,,,,,,0ae7524e-4d7c-4c1f-84fa-6a2224da5e84
+7.121421300000065,51.664200200000039,408,Augenklinik Marl-Dorsten,clinic,clinic,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2d8919dc-ff3b-4628-872a-44c7eeaae255
+10.372506700000031,53.432920700000068,409,Haus D,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0caef012-1e93-4122-a680-d342182509ac
+8.398028600000032,49.01019610000003,410,Augen-OP-Zentrum Karlsruhe | Augenzentrum Eckert,clinic,clinic,"eye_specialist_and_surgeon;eye;ophthalmology",Augenzentrum Eckert,private,,,,,,,Waldstraße,37-39,76133,Karlsruhe,,,,,,,,,,,,,,,,,5a92972c-1eaa-4194-b716-4283eef51f20
+8.861144200000069,48.59275690000004,411,Augenlasern OP-Zentrum Herrenberg | Augenzentrum Eckert,clinic,clinic,"eye_specialist_and_surgeon;eye;ophthalmology",Augenzentrum Eckert,private,,,,,,,Bahnhofstraße,29,71083,Herrenberg,,,,,,,,,,,,,,,,,b71bab18-d16c-4d7c-b281-681f8bfdfe62
+9.996525900000051,48.395628400000078,412,Augenlasern Neu Ulm | Augenzentrum Eckert,clinic,clinic,"eye_specialist_and_surgeon;eye;ophthalmology",Augenzentrum Eckert,private,,,,,,,Insel,2,89231,Neu-Ulm,,,,,,,,,,,,,,,,,05b26ef9-810a-4a05-9567-a4c08af6eb0d
+9.175083,48.830005400000061,413,Augenlasern OP-Zentrum Stuttgart | Augenzentrum Eckert,clinic,clinic,"eye_specialist_and_surgeon;eye;ophthalmology",Augenzentrum Eckert,private,,,,,,,Ludwigsburger Straße,100,70435,Stuttgart,,,,,,,,,,,,,,,,,b878934d-6ece-443f-80c4-f4e3b5870e48
+14.021642300000053,54.038784900000053,414,Fachklinik Klaus Störtebeker Ostseestrand,clinic,clinic,,,,,,,,,,Jägerstraße,11,17459,Loddin,,Kölpinsee,,,,,,,,,,,,,,,09091fd5-0981-4152-bf0b-631e6e06c15e
+9.743586300000061,52.38691840000007,415,Tagesklinik am Welfenplatz,clinic,clinic,,Klinikum Wahrendorff,,,,,,,,,,,,,,,,,,,,,,,,,,,,d64a0300-9f4d-42b7-8890-02259a966c48
+9.391376200000025,51.253776200000061,416,Orthopädische Praxisklinik Baunatal,clinic,clinic,orthopaedics,,,,,,,,,Stettiner Straße,4,34225,Baunatal,,,,,,,,,,,,,,,,,6d475f78-170d-4b46-b705-7b087b442e07
+10.853705800000057,48.35615880000006,417,Arthroklinik,clinic,clinic,orthopaedics,,,,,,,,,Max-Josef-Metzger-Straße,3,86157,Augsburg,,,,,,,,,,,,,,,,,3f1e5829-13fc-4f27-ad71-4393500ef505
+12.165659,49.539253100000053,418,Vincera Klinik Burg Wernberg,clinic,psychotherapist,,Vincera Klinik Burg Wernberg GmbH,private,,,,,,,Schloßberg,10,92533,Wernberg-Köblitz,,,,,,,,,,,,,,,,,19a891b6-fe91-4143-b609-f5c326f89ec7
+8.601423400000044,51.994089200000076,419,Medi Esthetic GmbH,clinic,clinic,"dentist;plastic_surgery",,,+49 521 962 9000,https://www.medi-esthetic.de/,,,,,,,,,,,,,,,,,,,,,,,,,870beab6-8198-4d92-97ed-1d92fe155bc1
+10.012765300000069,53.649495800000068,420,Alster Lasik,clinic,clinic,ophthalmology,Dr. med. Wolfgang Rauhut - Praxisklinik am Langenhorner Markt,,,,,,,,,,,,,,,,,,,,,,,,,,,,1deadfc9-eff3-470d-b6ba-0752b5e18b24
+10.139420800000039,51.375453900000082,421,,clinic,clinic,psychology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,073671af-e3b2-4c83-9c45-e757a96334b5
+7.291238,51.828193800000065,422,Augen-Zentrum-Nordwest Augenpraxis Dülmen,clinic,clinic,ophthalmology,Augen-Zentrum-Nordwest,,,,,,,,Bahnhofstraße,32-34,48249,Dülmen,,,,,,,,,,,,,,,,,a19e43c2-5fa1-4aae-8d71-4a2e5148a536
+11.140170900000044,48.462783900000034,423,Psychiatrische Ambulanz,clinic,clinic,psychiatry,Bezirkskliniken Schwaben,,,,,,,,,,,,,,,,,,,,no,,,,,,,,13f9a661-cc28-4cf6-8317-8c168f68c4a8
+10.985705200000041,48.356446400000038,424,KVB Bereitschaftspraxis Friedberg,clinic,clinic,,Kassenärztliche Vereinigung Bayerns,,,,,,,,,,,,,,,,,,,,,,,,,,,,b9b8167d-1cea-45e7-83cd-db2b71d8b2c8
+11.139886500000046,48.462769500000036,425,KVB Bereitschaftspraxis Aichach,clinic,clinic,,Kassenärztliche Vereinigung Bayerns,,,,,,,,,,,,,,,,,,,,,,,,,,,,fccc26ae-bb28-48dd-9f1e-fb1004487458
+12.402166800000032,51.324478700000043,426,Thonbergklinik - Notfallzentrum Leipzig,clinic,clinic,,,,,,,,,,Riebeckstraße,65,04317,Leipzig,,,,,,,,,yes,,,,,,,,8bcd7aa2-f6e7-4147-86c1-267a93d0e595
+12.36954970000005,51.28894,427,Breidscheidstraße 12,clinic,,,,,,,,,,,Breitscheidstraße,12,04416,,,,,,,,,,,,,,,,,,be6c537d-2789-4a5e-ba57-211b6dc14327
+8.359867200000053,48.820836800000052,428,Fachklinik Fischerhaus,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a0d1f2b8-a83a-46b9-8f04-2880b84e2b31
+7.819635700000049,49.868783800000074,429,SpoMed Institut,clinic,,,SpoMed Institut für Sportmedizinische Trainingstherapie Bad Kreuznach GmbH,,,,,,,,Arthur-Rauner-Straße,2,,,,,,,,,,,,,,,,,,,d747be8a-4508-4019-83f3-345f2db2c46c
+8.960600500000055,48.937473200000056,430,Geriatrische Tagesklinik,clinic,,,Regionale Kliniken Holding RKH GmbH,,,,,,,,Andreaestraße,16,71665,Vaihingen an der Enz,,,,,,,,,,,,,yes,,,,a32f004b-2c38-4ed9-b808-c0640c0cde99
+10.696245,53.861533500000064,431,Die Brücke,clinic,clinic,psychiatry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e87d18d3-e45d-4629-ab83-6ed1ebf609fb
+11.323739300000057,50.982516400000065,432,Schwansee Klinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,497e9af7-787d-4ec9-9388-7dabf5646f8f
+13.507128600000044,52.626951100000042,433,Hochschulambulanz Charité Buch,clinic,clinic,,Charité,,,,,,,,,,,,,,,,,,,,,,,,,,,,fadb232a-75b1-4cd1-8fcc-802ebde76b60
+10.337100200000066,50.975907900000038,434,Praxis Cordula Schilder (Internist),clinic,clinic,,,,,,,,,,Langensalzaer Straße,8,99817,Eisenach,,,,,,,,,,,,,,,,,99cfda02-1d51-48af-b94f-e517ea7b5666
+12.298778,47.909444300000075,435,Chiemsee Augen Tagesklinik,clinic,clinic,ophthalmology,,,,,,,,,Traunsteiner Straße,9,83093,Bad Endorf,,,,,,,,,,,,,,,,,ae462c68-9821-4728-bdb4-23ab2864c59f
+12.346537500000068,47.853085400000055,436,Chiemsee Augen Tagesklinik,clinic,clinic,ophthalmology,,,,,,,,,Geigelsteinstraße,26,83209,Prien am Chiemsee,,,,,,,,,,,,,,,,,40125a10-213d-4bb8-9742-8602de3c26c4
+10.347714500000052,50.971260600000051,437,Praxis Anna Tubietskaja,clinic,clinic,general,,,,,,,,,Schützenstraße,1,99817,Eisenach,,,,,,,,,,,,,,,,,54ba2ecb-61bd-4762-946a-1fa032f72194
+10.340531200000044,50.978058,438,Praxis : K. Bachmann,clinic,clinic,general,,,,,,,,,Langensalzaer Straße,31,99817,Eisenach,,,,,,,,,,,,,,,,,289830b3-8eb3-48de-b33a-d05758866328
+10.337465900000041,50.979820400000051,439,Praxis Ines Härtel,clinic,clinic,internal,,,,,,,,,Hermannstraße,24,99817,Eisenach,,,,,,,,,,,,,,,,,853920a7-6ef8-4bea-925e-9d109b1abc4c
+12.015931600000044,47.857534300000054,440,Fachklinik Alpenland,clinic,clinic,detoxification,Deutscher Orden,,,,,,,,Rosenheimer Straße,61,83043,Bad Aibling,,,,,,,,,,,,,,,,,48a752b4-8c68-46b5-a7f2-b2654c95eaf2
+10.017951400000072,47.825839100000053,441,Dialysezentrum,clinic,dialysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,275c3b99-389f-41f1-82cd-2e7416712724
+6.738935400000059,51.450485400000048,442,Augenklinik Tausendfensterhaus,clinic,clinic,optometry,ARTEMIS Augenkliniken,,,,,,,,Ruhrorter Straße,187,47119,Duisburg,,,,,,,,,no,,,,,,,,40947a51-eacb-4a26-ba9a-51db4ec8b00e
+7.099758300000076,50.740943497000046,443,Ambulantes Gesundheitszentrum Haus St. Johannes,clinic,clinic,,Gemeinschaftskrankenhaus Bonn gGmbH,,,,,,,,Kölnstraße,54,53111,Bonn,,,,,,,,,,,,,yes,,,45,45c1907f-24f1-46f9-9232-47c0a8fa3607
+10.753803100000027,48.72421160500005,444,Donau-Ries-Klinik,clinic,,,Donau-Ries Kliniken und Seniorenheime gKU,,,,,,,,Neudegger Allee,6,86609,Donauwörth,,,,,,,,,yes,,,,yes,,,48,2ee22af1-515c-42cb-a09d-35abf86bbe65
+11.390530775000059,53.629295261000038,445,Ärztehaus West,clinic,centre,,,,,,,,,,Johannes-Brahms-Straße,59 a,19059,Schwerin,,,,,,,,,,,,,,,,54,7a28af82-ffd4-462e-a7be-8286bf6baaf5
+13.407700050000074,54.078362106000043,446,Ärztehaus,clinic,centre,,Verwaltungsgesellschaft für Heilberufe mbH Vorpommern,,,,,,,,Ernst-Thälmann-Ring,66,17491,Greifswald,,,,,,,,,,,,,,,,66,75e5fef4-fe51-4f60-b845-437b914d37fb
+13.71141592500004,51.624377538000033,447,Ärztehaus Süd,clinic,clinic,"dentistry;general",,,,,,,,,Westfalenstraße,2,03238,Finsterwalde,,,,,,,,,,,,,yes,,,135,01fcadef-e435-429d-bb01-6b0b5c703949
+10.436491800000056,51.805719291000059,448,Kurklinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,6e99b89b-b7aa-4969-a4dc-575200c1e0d0
+11.993632500000047,51.365089614000055,449,Säulenkrankenhaus,clinic,centre,,Carl-von-Basedow-Klinikum Saalekreis gGmbH,,,https://klinikum-saalekreis.de/gesundheitszentrum,,,,,Weiße Mauer,52,06217,Merseburg,,,,,,,,,,,,,yes,,,143,a8162f1a-1e60-49e1-9109-fe68d97558d8
+12.392629275000047,51.31884929000006,450,Kleintierklinik,clinic,clinic,,,,,,,,,,An den Tierkliniken,23,04103,Leipzig,,,,,,,,,,,,,,,,163,71dedcfc-71a2-410b-a66b-3724799627f8
+11.293118125000035,47.792289503000063,451,Kardiologische Privatklinik Lauterbacher Mühle am Ostersee,clinic,,,,,,,,,,,Unterlauterbach,1,82393,Iffeldorf,,,,,,,,,,,,,,,,186,eb2105ef-2f07-4e06-b092-f8c3ad8e8f50
+8.702031978000036,52.128266384000028,452,Klinik für Psychiatrie,clinic,,,Klinikum Herford,,,,,,,,Schwarzenmoorstraße,100,32049,Herford,,,,,,,,,,,,,,,,193,25c3ee2f-6c4f-4968-adf1-6133a05b524a
+7.822722025000076,51.84151367000004,453,Reha-Zentrum am St. Josef-Stift,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,264,9f7a9c29-14be-44d2-ab42-f5bd954a1726
+11.883347350000065,51.971650672000067,454,Rehabilitationsklinik Barby,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,315,de444270-7cab-4fc2-ac35-91caa6fc2fb9
+10.081434050000041,50.197424769000065,455,Frankenklinik,clinic,clinic,"rehabilitation;cardiology;orthopaedics",,,,,,,,,Menzelstraße,5-7,97688,Bad Kissingen,,,,,,,,,,,,,,,,325,7080d854-df31-46aa-9935-b8fc59e872c5
+11.693903950000049,47.750860107000051,456,Lanserhof Tegernsee,clinic,,,Lanserhof GmbH,,,http://www.lanserhof.com/lanserhof-tegernsee.html,,,,,,,,,,,,,,,,,,,,,,,,374,9deae346-66cb-4132-b58e-d4156fad0e7c
+11.555005250000022,48.130325306000032,457,Artemed,clinic,clinic,phlebology,Artemed-Fachklinik München GmbH & Co. KG,,+49 89 514090,http://www.artemedmuenchen.de/,info-muc@artemed.de,+49 89 51409167,,,Mozartstraße,"14 a;16",80336,München,,,,,,,,,,,,,,,,403,caab2d98-115a-4cde-9fbd-60b9c4dc018a
+7.411991463000049,51.347487543000057,458,Ev. Krankenhaus Hagen-Haspe,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,404,0d5c6dbb-8427-475d-b0f0-bfd748ee3b5f
+10.404269300000067,51.208969763000027,459,NPZ,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,471,e323fa00-3fdf-4d84-b402-db3e98f3880e
+12.237046550000059,50.285113550000062,460,Vogtland-Klinik,clinic,rehabilitation,,Vogtland-Klinik Bad Elster GmbH & Co. KG,,,http://www.dr-nebel.de/index.php?menid=5,,,,,Forststraße,3,08645,Bad Elster,Vogtland-Klinik,,,,,,,,,,,,no,,,489,f51b556c-feab-4e70-9a39-1a57e6e09a83
+13.943861275000074,50.875969398000052,461,MEDIAN Klinik Berggießhübel,clinic,clinic,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,,,,,,,Gersdorfer Straße,5,01816,Bad Gottleuba-Berggießhübel,,Berggießhübel,,,,,,,,,,,,,,492,8cdc628f-1ce7-48e6-8c6b-9ac8462304c6
+13.94349660000006,50.856078343000036,462,Median Gesundheitspark Bad Gottleuba,clinic,clinic,,EKA Erzgebirgsklinikum Annaberg gemeinnützige GmbH,,,,,,,,Königstraße,39,01816,Bad Gottleuba-Berggießhübel,,,,,,,,,no,,,,,,,501,40224c70-8028-4051-95b2-740ece3dc289
+12.399872688000073,50.533191462000048,463,Sächsisches Krankenhaus für Psychiatrie und Neurologie Rodewisch,clinic,clinic,"psychiatry;neurology",,,,,,,,,,,,,,,,,,,,,,,,,,,,508,f23bdbed-70eb-4647-add4-e341d4d0ffbe
+12.199645189000023,51.814382313000067,464,DRK-Blutspendedienst NSTOB Institut Dessau,clinic,blood_donation,,,,,http://www.blutspende-nstob.de/Indoor/Blutspendedienst/Institute/Dessau/,,,,,Altener Damm,50,06847,Dessau-Roßlau,,,,,,,,,,,,,,,,509,c252fa77-62ca-4a3c-bd1a-7572017099d3
+12.442675990000055,51.306195419000062,465,Park-Klinikum Leipzig,clinic,clinic,"physiatry;orthopaedics",Helios Kliniken GmbH,,+49 341 8640,https://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum/,,,,,Strümpellstraße,41,04289,Leipzig,,,,,,,,,yes,,,,yes,,,510,1c06e164-667c-4cb0-8f96-1f6610052945
+9.125961050000058,47.694533435000039,466,Haus 30,clinic,,,,,,,,,,,Feursteinstraße,55,78479,Reichenau,,Lindenbühl,,,,,,,,,,,,,,512,7c668e97-bf3f-417c-ae73-a9a2a720ed90
+11.423868559000027,53.910017064000044,467,Median Klinik Wismar,clinic,rehabilitation,,,,,,,,,,Ernst-Scheel-Straße,28,23968,Wismar,,,,,,,,,,,,,yes,,,521,75bc6ef2-7126-4d9b-83b7-ec63d4120ec3
+7.553630781000038,47.73386666600004,468,Markgräferland-Klinik,clinic,Rehaklinik für Orthopädie und rheumatische Erkrankungen,,,,,,,,,,Im Grün,1-3,79415,Bad Bellingen,,,,,,,,,,,,,,,,551,0893e464-f842-417a-aaa2-db28258cca43
+9.732323850000057,49.10834950800006,469,Zentrum für Psychische Gesundheit Schwäbisch Hall,clinic,clinic,,Klinikum am Weißenhof,,,,,,,,Ringstraße,1,74523,Schwäbisch Hall,,,,,,,,,,,,,,,,558,1c7e8a59-a531-49a1-b2c9-55526cf182d9
+12.810408050000035,48.916890283000043,470,Orthopädische Fachklinik Schwarzach,clinic,,orthopaedics,,,,,,,,,Dekan-Graf-Straße,2-6,94374,Schwarzach,,,,,,,,,,,,,,,,560,0b9213c8-7e6f-48a2-9f80-6d37bd90e3f9
+10.402671250000026,51.211407439000027,471,Klinik für Forensische Psychiatrie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,572,66e39199-9271-41c9-8f4d-526486ff9025
+7.39983624100006,50.429027203000032,472,Rhein-Mosel-Fachklinik Andernach,clinic,clinic,,Landeskrankenhaus Rheinland-Pfalz AöR,,,,,,,,,,,,,,,,,,,,,,,,,Q1608058,de:Rhein-Mosel-Fachklinik Andernach,576,6e38d924-f8ad-43b8-a625-8db968e0c9c6
+6.419043,51.157148423000081,473,Frauenklinik,clinic,clinic,gynaecology,,,,,,,,,,,,,,,,,,,,,,,,,,,,578,543b0ec0-a06f-4bba-9ee6-e622f8d72a03
+6.419061100000022,51.158695711000064,474,Geriatrie,clinic,clinic,geriatrics,,,,,,,,,,,,,,,,,,,,,,,,,,,,579,f69199e1-9e71-4e99-b9db-ad676dcd6e46
+7.658442875000048,47.613881642000081,475,MVZ (Medizinisches Versorgungszentrum),clinic,clinic,,,,,,,,,,Röntgenstraße,10,,,,,,,,,,,,,,,,,,580,4cc8a985-4971-4356-acd5-5198ce9630e8
+6.919390950000036,50.924742087000027,476,Centrum für Integrierte Onkologie,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,583,f08ef229-fd2f-401a-a8c2-2a313208b319
+9.376856707000059,48.504440938000073,477,m&i-Fachkliniken Hohenurach,clinic,clinic,,m&i-Fachkliniken Hohenurach GmbH,,+49 7125 151 01,http://www.fachkliniken-hohenurach.de,info@fachkliniken-hohenurach.de,+49 7125 151 1106,,,Immanuel-Kant-Straße,33,72574,Bad Urach,,,,,,,,,,,,,yes,,,608,2fd191d4-3d94-49fe-90e2-81a4ece92f60
+12.023030610000035,47.854370243000062,478,Rheumaklinik Bad Aibling,clinic,rehabilitation,rheumatology,Deutsche Rentenversicherung Nordbayern,,,,,,,,Ghersburgstraße,20,83043,Bad Aibling,,,,,,,,,,,,,yes,,,620,b311583d-480f-476c-b1cd-93e818cdac35
+9.165074375000074,48.765202007000028,479,Herzog Karl Klinik,clinic,,,Herzog Karl Klinik GmbH,,,,,,,,Hohenzollernstraße,7-9,70178,Stuttgart,,,,,,,,,,,,,,,,648,9efd9e7f-5eef-490e-8901-4d360a1d862d
+11.556589950000046,48.086901991000047,480,KfH-Nierenzentrum,clinic,,,KfH Kuratorium für Dialyse und Nierentransplantation e.V.,,,,,,,,Seybothstraße,75,81545,München,,,,,,,,,,,,,,,,712,80dd82bf-70fb-4a8d-96c2-26d8166467f8
+13.783391216000041,51.12080399000007,481,St.-Marien-Krankenhaus Dresden,clinic,clinic,"psychiatry;neurology",Caritasverband für das Bistum Dresden-Meißen e.V.,,,http://www.stmarienkh-dd.de/,,,,,Selliner Straße,29,01109,Dresden,,,,,,,,,,,,,limited,,,725,5df90f93-ea7a-4ace-927a-8606b4f5e158
+12.955128426000044,50.850486901000068,482,Klinikum Dresdner Straße,clinic,clinic,"neurology;psychiatry;geriatrics",Klinikum Chemnitz gGmbH,,,https://www.klinikumchemnitz.de/das-klinikum/standorte/dresdner-strasse-178/,,,,,Dresdner Straße,178,09131,Chemnitz,,,,,,,,,,,,,yes,,,744,846a3e32-fded-4c3e-964f-5efbfd64257c
+11.557111526000028,49.951117748000058,483,Klinik Herzoghöhe,clinic,clinic,"rehabilitation;orthopaedics;oncology;rheumatology",,,,,,,,,Kulmbacher Straße,103,95445,Bayreuth,,,,,,,,,,,,,yes,,,766,cec9b01e-80a7-46e9-8aae-53048625809e
+12.330464871000061,51.220288551000067,484,Klinik für Innere Medizin Zwenkau,clinic,clinic,internal,Sana Kliniken Leipziger Land GmbH,,+49 342034 2001,https://www.kliniken-leipziger-land.de/innere-medizin-zwenkau/,,,,,Pestalozzistraße,9,04442,Zwenkau,,,,,,,,,,,,,yes,,,773,7838d8b0-df80-4a46-af73-8dadfa074a5a
+9.05265004000006,48.52585623300007,485,Hautklinik,clinic,clinic,dermatology,,,,,,,,,Liebermeisterstraße,25,72076,Tübingen,,,,,,,,,,,,,,,,830,02943f8b-6511-4d5f-ac62-5950caa8a652
+9.955047125000021,53.550839525000072,486,Helios ENDO-Klinik Hamburg,clinic,clinic,orthopaedics,,,,,,,,,Holstenstraße,2,22767,Hamburg,,,,,,,,,,,,,yes,Q19963931,,831,25e7673a-7e1b-4610-8bf7-3b55d8191427
+13.805893483000034,51.054003398000077,487,Medical Well Clinic Dresden,clinic,,plastic_surgery,,,,,,,,,Gautschweg,1a,01309,Dresden,,,,,,,,,,,,,limited,,,835,27e8a247-fdb9-4338-a526-875a936e0e34
+9.035761500000035,48.531379705000063,488,Hals-Nasen-Ohren-Klinik,clinic,clinic,otolaryngology,Universitätsklinikum Tübingen,,,,,,,,Elfriede-Aulhorn-Straße,5,72076,Tübingen,,,,,,,,,,,,,yes,Q1373617,,841,3178d751-de89-45f4-8864-cc3ce280a00d
+9.039386550000074,48.530749834000062,489,Kinderklinik,clinic,clinic,paediatrics,Universitätsklinikum Tübingen,public,,,,,,,Hoppe-Seyler-Straße,1,72076,Tübingen,,,,,,,,,,,,,yes,,,842,7833f7d9-57a9-487e-9317-4ae6c5a82f3c
+8.693604975000028,53.269697769000061,490,Sanitätszentrum OHZ,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,849,de3e27a7-c99b-4640-b6ad-b86a0d94dce3
+13.572269731000063,52.567811391000077,491,VitaHaus Marzahn,clinic,clinic,,,,,,,,,,Havemannstraße,24,12689,Berlin,,Marzahn,,,,,,,,,,,,,,865,b71da599-e224-40ab-83b9-704e5a3d9a6b
+11.528694759000075,49.942025634000061,492,Reha-Zentrum Roter Hügel,clinic,,"rehabilitation;neurology;orthopaedics;geriatrics",,,,,,,,,Jakob-Herz-Straße,1,95445,Bayreuth,,,,,,,,,,,,,yes,,,869,ae117c01-399b-46ec-8fd8-1ebf4674e486
+9.184141604000047,48.767922959000032,493,Galenus Klinik,clinic,clinic,spine_surgery,,,,,,,,,Hohenheimer Straße,91,70184,Stuttgart,,,,,,,,,,,,,,,,910,a4b33f22-7455-4522-8465-de3a6eea34d1
+13.485395223000069,52.514958298000067,494,Ärztehaus Ruschestraße,clinic,centre,,,,,,,,,,,,,,Haus 17,,,,,,,,,,,,yes,,,965,66faa45e-34d0-4990-8884-2b145bef2ccc
+8.837980295000023,53.074995855000054,495,Notfallambulanz,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,997,04f7dc49-171c-4188-89ba-0ce5e244032a
+6.988307735000035,50.80135021600006,496,Gezeiten Haus Schloss Eichholz,clinic,,,Gezeiten Haus GmbH,,,,,,,,Urfelder Straße,221,50389,Wesseling,,,,,,,,,,,,,limited,,de:Schloss Eichholz,1045,22bea762-7b6e-43af-8790-abc9302bc6a6
+13.091701200000045,52.557751769000049,497,Gesundheitszentrum Falkensee,clinic,,,,,,,,,,,Dallgower Straße,9,14612,Falkensee,,,,,,,,,,,,,,,,1051,49851c65-938a-487f-b772-f1e0294f7a20
+13.471977274000039,54.572399246000032,498,Ostseeklinik Königshörn,clinic,rehabilitation,,,,,https://www.ostseeklinik.de/,,,,,Am Königshörn,14,18551,Glowe,,,,,,,,,,,,,yes,,,1068,a4a3e7c7-7ad2-46d6-9024-31ae65e8c10b
+8.09846077100002,50.093430904000058,499,Parkklinik Schlangenbad,clinic,clinic,,Parkklinik Wiesbaden Schlangenbad GmbH,,+49 6124 4883488,https://parkklinik-schlangenbad.de/,,+49 6124 4883 444,,,Rheingauer Straße,47,65388,Schlangenbad,,,,,,,,,no,,,,yes,Q2052715,de:Parkhotel Schlangenbad,1082,b0f6b58b-1b58-4844-9c94-471892e4bc8a
+12.136715378000076,48.345243872000026,500,"Schlosspark, Isar-Amper-Klinikum",clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,69279ed0-a214-48b2-ac94-60b4098f4069
+13.42199882500006,52.518843040000036,501,Ambulatorium Schillingstraße 12,clinic,clinic,,,,,,,,,,Schillingstraße,12,,Berlin,,,,,,,,,,,,,,,,1192,830d383c-9949-469a-9cbe-f92bb06f9e45
+11.526096469000038,49.941840461000027,502,Therapiezentrum Maximilianshöhe,clinic,clinic,"rehabilitation;psychiatry",,,,,,,,,Jakob-Herz-Straße,3,95445,Bayreuth,,,,,,,,,,,,,,,,1237,a2d5b2a4-84e6-4563-b4fd-dda8052663af
+13.713140378000048,51.048881883000035,503,Geriatrische Rehabilitationsklinik Dresden-Löbtau,clinic,rehabilitation,geriatrics,Städtisches Klinikum Dresden,,,https://www.klinikum-dresden.de/Kliniken_Br%C3%BCckenseiten/Geriatrische+Rehabilitation+(L%C3%B6btau).html,,,,,Altonaer Straße,2a,01159,Dresden,,,,,,,,,,,,,,,,1262,0184e5ed-9b8b-4ae1-b2d0-f4d64cc6ce8d
+12.351285257000029,51.348458148000077,504,Städtisches Klinikum St. Georg - Tagesklinik,clinic,,,Klinikum St. Georg gGmbH,,,,,,,,Eitingonstraße,5,04105,Leipzig,,,,,,,,,,,,,yes,,,1285,5edb8440-d362-45f3-ab8f-a7a65492eed0
+11.59545380000003,48.11115267200006,505,Gesundheitszentrum Giesing,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1296,bc59587d-e220-45b5-a367-57233a4f3dcc
+13.63231341200003,51.184301798000035,506,Fachklinik Weinböhla,clinic,,,Ev.-Luth. Diakonenhaus Moritzburg e.V.,,,,,,,,Heidehof,1,01689,,,,,,,,,,,,,,,,,1331,8a8dd778-c338-497f-9a9e-2ef5a6a19a34
+7.171083769000063,51.273337550000065,507,Ev. Stiftung Tannenhof Psychiatrische Klinik Wuppertal,clinic,clinic,psychiatry,Evangelische Stiftung Tannenhof,,,,,,,,Sanderstraße,161,42283,Wuppertal,,,,,,,,,,,,,,,,1332,e346f66f-eac4-4586-8cf5-c5fdf41cb05e
+10.904755130000069,49.909562697000069,508,AlphaMed Orthopädisch-unfallchirurgische Praxisklinik,clinic,clinic,orthopaedics,,,+40 951 9179730,http://www.alphamed-bamberg.de/,,,,,Kärntenstraße,2,96052,Bamberg,,,,,,,,,,,,,yes,,,1333,97282c6b-547d-4512-9270-9c925cc30ec4
+10.704939375000038,53.837384538000038,509,"Hautklinik Haus ""B9""",clinic,clinic,dermatology,Universität zu Lübeck,,,,,,,,Heinrich-Meibom-Straße,B9,23562,Lübeck,,,,,,,,,,,,,,,,1384,ad9369bb-3cce-4d3b-92b3-cb57edc18619
+12.477049825000051,51.878150290000065,510,Herzzentrum Coswig,clinic,clinic,"cardiology;cardiac_surgery",MediClin GmbH & Co. KG,,,,,,,,Lerchenfeld,1,06869,Coswig (Anhalt),MediClin Herzzentrum Coswig,,,,,,,,,,,,,Q23787874,,1391,7780c994-5b9d-4ab3-acea-a8ae7e43015d
+6.993969450000066,50.765136077000079,511,Die Torburg,clinic,clinic,Soziotherapeutische Suchthilfe,Deutscher Orden Ordenswerke,,+49 2222 923570,http://www.die-torburg.de/,isabelle.stammen@deutscher-orden.de,+49 2222 9235725,,,Burgstraße,53,53332,Bornheim,,,,,,,,,,,,,yes,,,1403,37f8cce0-bb36-4fbe-86da-d09c7f73678a
+9.440812896000068,53.594988856000043,512,Tagesklinik für Psychiatrie/Psychotherapie,clinic,clinic,,,,,,,,,,Am Schwarzen Berg,116a,21682,Stade,,,,,,,,,,,,,,,,1407,3dd8d4d8-451d-4738-bb9b-376fc90e364f
+12.393050070000072,51.319456998000078,513,"Klinik für Pferde, Abteilung Chirurgie und Orthopädie",clinic,clinic,,"Universität Leipzig, Veterinärmedizinische Fakultät",,,,,,,,An den Tierkliniken,21a,04103,Leipzig,,,,,,,,,,,,,,,,1450,7697407e-75a7-4900-8263-115651c6cc5a
+12.42784985000003,51.287089350000031,514,Haftkrankenhaus,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,no,,,,,,,1456,b45b8659-021f-41ca-a1f4-bf80da3c9269
+13.901401261000046,51.141245082000069,515,Kleinwachau - Sächsisches Epilepsiezentrum Radeberg,clinic,clinic,,Kleinwachau - Sächsisches Epilepsiezentrum Radeberg gemeinnützige GmbH,,,,,,,,Wachauer Straße,30,01454,Radeberg,,Liegau-Augustusbad,,,,,,,,,,,yes,Q1773940,,1458,3c509183-8a06-4ed7-9162-d6dea4019c71
+12.08043574800007,54.100900748000072,516,Tagesklinik für Psychiatrie,clinic,clinic,psychiatry,,,,,,,,,Clara-Zetkin-Straße,16,18069,Rostock,,,,,,,,,,,,,,,,1491,6e539ddc-d0f5-49e8-afe5-ffdd8af568fe
+12.139439300000049,54.083221127000058,517,Ärztehaus Paulstraße,clinic,centre,,,,,,,,,,Paulstraße,48,18055,Rostock,,,,,,,,,,,,,limited,,,1513,7d638ab8-00dc-43f4-8686-37b817a41b98
+7.831419550000021,48.003880858000059,518,Zentrum für Geriatrie und Gerontologie (ZGGF),clinic,clinic,,Universitätsklinik Freiburg,,,,,,,,Lehener Straße,88,79106,Freiburg im Breisgau,,,,,,,,,,,,,,,,1515,99fff2d5-2881-46d8-a7ed-93f2370935e7
+10.925901132000035,49.892313492000028,519,KfH Kuratorium für Dialyse und Nierentransplantation,clinic,dialysis,,,,,,,,,,Hertzstraße,26,96050,Bamberg,,,,,,,,,,,,,,,,1552,04ebc750-e928-41ef-8cd8-5f92ce6d37c4
+12.156624492000049,54.100853718000053,520,Tagesklinik für Kinder- und Jugendpsychiatrie und Psychotherapie,clinic,clinic,,Gesellschaft für Gesundheit und Pädagogik mbH (GGP),,,http://www.ggp-rostock.de/kjp/tk-dh/u/kontakt/,,,,,,,,,,,,,,,,,,,,,limited,,,1597,45b002ae-f783-43ff-9b45-ac6dc93c7000
+8.808476084000063,52.241163327000038,521,Klinik Bad Oexen,clinic,rehabilitation,,Brinkmeier GmbH & Co KG,,,,,,,,Oexen,27,32549,Bad Oeynhausen,,,,,,,,,,,,,limited,,,1604,2936139a-e8ba-4ec8-8848-3113f75beaff
+8.265496255000073,50.091211276000081,522,Helios Aukamm-Klinik,clinic,clinic,orthopaedics,Helios Kliniken GmbH,,,,,,,,Leibnizstraße,21,65191,Wiesbaden,,,,,,,,,no,,,,limited,Q66023980,,1609,d8decf35-dc2e-412e-9141-6ae83331080c
+8.265063361000045,50.090879285000028,523,Klinik am Sonnenberg,clinic,clinic,plastic_surgery,Klinik am Sonnenberg GmbH,,,,,,,,Leibnizstraße,19,65191,Wiesbaden,,,,,,,,,no,,,,,,,1610,c01f124d-be89-4de1-a2b4-255b3f03a68d
+9.993016987000033,53.566967279000039,524,Praxisklinik am Rothenbaum,clinic,clinic,"ophthalmology;surgery;gynaecology;otolaryngology;internal;orthopaedics;plastic_surgery;urology",,,,,,,,,Heimhuder Straße,38,20148,Hamburg,,,,,,,,,no,,,,,,,1637,76aee0bf-6924-4f24-bc80-6c70225cd19d
+12.369247628000039,51.354269370000054,525,Schönheitsklinik am Rosenthal,clinic,clinic,plastic_surgery,,,,http://www.klinik-am-rosental.de/,,,,,Trufanowstraße,10,04105,Leipzig,,,,,,,,,no,,,,,,,1641,bcc55877-33df-4593-8f36-6d80c8d64775
+8.004098393000049,52.280176674000074,526,KfH-Nierenzentrum,clinic,clinic,,,,,,,,,,Am Finkenhügel,7,49076,Osnabrück,,,,,,,,,,,,,,,,1696,562c1525-4af2-45cc-b75a-7eaf97810b7b
+12.826805164000064,48.169973144000039,527,Ambulante Beatmungs- und Intensivpflege,clinic,,,,,,,,,,,Mehringer Straße,45,84489,Burghausen,,,,,,,,,,,,,,,,1705,eb62423d-1f34-4c0f-8608-0e9fd591bf58
+13.355586100000039,52.60418695900006,528,Klinik für Geriatrie,clinic,clinic,geriatrics,Vitanas,,,,,,,,Senftenberger Ring,51,13435,Berlin,,Märkisches Viertel,,,,,,,,,,,,,,1707,65eb7018-cda4-45d5-afa8-ac1cad8d6aa9
+14.139981822000038,51.832962131000045,529,MediClin Reha-Zentrum Spreewald,clinic,rehabilitation,,MediClin GmbH & Co. KG,,,,,,,,Zur Spreewaldklinik,14,03096,Burg (Spreewald),,,,,,,,,no,,,,,,,1739,a5ffb447-fc29-40cb-b4a6-aec59ceda845
+9.162641391000022,48.760037643000032,530,Ärztehaus Marienpark,clinic,centre,,,,,,,,,,Eierstraße,46,70199,Stuttgart,,,,,,,,,,,,,yes,,,1741,798aa8cc-2056-427f-bb0d-f8c2f5197ce4
+13.045693934000042,52.403704362000042,531,Evangelisches Zentrum für Altersmedizin,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1915,27f68658-4c72-4701-b3ff-3f689e2489e1
+8.918024256000024,52.296491065000055,532,Chirurgische Innenstadtklinik Minden,clinic,clinic,surgery,Chirurgische Innenstadt Klinik Minden GmbH & Co KG,,+49 571 8700-0,http://www.innenstadtklinik.de,info@innenstadtklink.de,+49 571 8700-48,,,Brühlstraße,33,32423,Minden,,,,,,,,,,,,,limited,,,1940,9ab59faf-1fc5-49bb-b420-3ceb38e913cb
+13.485886650000054,52.514881022000054,533,,clinic,,,,,,,,,,,Ruschestraße,109,10365,Berlin,Haus 19,Lichtenberg,,,,,,,,,,,,,,1956,1ac5e0eb-fb92-4388-b3bb-47a53f12bbd4
+12.330836200000022,51.341202644000077,534,Städtisches Klinikum St. Georg - Tagesklinik,clinic,clinic,,Klinikum St. Georg gGmbH,,,,,,,,Friesenstraße,8,04177,Leipzig,,,,,,,,,,,,,,,,1974,94ccf311-7169-415f-adf7-25dcf583261e
+12.35506298100006,51.335358860000042,535,ACQUA Klinik,clinic,,,ACQUA Klinik Leipzig GmbH,,,http://www.acquaklinik.de,,,,,Käthe-Kollwitz-Straße,64,04109,Leipzig,,,,,,,,,,,,,,,,2027,3bd62fe9-45eb-496e-bc35-302445b04b5e
+7.121636581000075,50.71679591700007,536,Jungbrunnenklinik,clinic,clinic,plastic_surgery,Dr. Fratila GmbH,private,+49 228 433050,https://www.jungbrunnenklinik.de/,info@jungbrunnenklinik.de,+49 228 4330529,,,Schlegelstraße,12,53113,Bonn,,,,,,,,,,,,,,,,2114,f88e7b87-e99d-4fcf-9f01-88368f0a95bf
+7.15516585000006,50.683341277000068,537,GOC Park-Klinik,clinic,,,,,,,,,,,Am Kurpark,2,53177,Bonn,,,,,,,,,,,,,,,,2128,fdb075cf-b84b-4125-b6b6-ca7feed86f36
+7.154287768000074,53.711285667000027,538,Seeklinik Norderney,clinic,rehabilitation,,,,,,,,,,Benekestraße,27,26548,Norderney,,,,,,,,,,,,,,,,2136,8a764f52-ce76-4be8-8753-d7e94f74c5d4
+7.147205404000033,53.711088120000056,539,Klinik Norderney,clinic,rehabilitation,,,,,,,,,,Kaiserstraße,26,26548,Norderney,,,,,,,,,,,,,yes,,,2137,58fce49e-8f9e-451f-afa0-534528d51267
+6.363218350000068,50.927624200000082,540,Augenzentrum Jülich,clinic,clinic,ophthalmology,,,+49-2461-34175-0,http://www.augen-online.de/,,+49-2461-34175-17,,,Kurfürstenstraße,15,52428,Jülich,,,,,,,,,,,,,,,,2199,105cd4e7-deda-4b91-bad5-a45870ed9730
+11.594623882000064,52.110616028000038,541,Praxisklinik Sudenburg,clinic,centre,,,,,,,,,,,,,,,,,,,,,,no,,,,limited,,,2287,77f08e75-fcbe-485c-a927-b3eb97e6f431
+7.792622951000055,48.571517217000064,542,Clinique Rhéna,clinic,hospital,,,private,,,,,,,Rue Catherine Kany,10,67000,Strasbourg,,,,,,,,,yes,,,,,,,2311,e261866d-d707-47d2-b5f7-2eb96f69d2c5
+7.142138844000044,50.696831751000047,543,Hochkreuz Augenklinik und Laserzentrum,clinic,clinic,,,,,,,,,,Godesberger Allee,90,,Bonn,,,,,,,,,,,,,,,,2339,4f6275fe-8ff6-4cfb-8f6c-b17e8f25da49
+13.749255550000044,52.426196404000052,544,,clinic,,,,,,,,,,,Hessenwinkler Straße,1,15537,Erkner,,,,,,,,,,,,,,,,2343,6ed7b0cf-1e73-48ae-bb23-67cc987832e4
+8.064298450000024,50.141709485000035,545,Medizinisches Versorgungszentrum Bad Schwalbach,clinic,clinic,,Helios Kliniken,,,,,,,,Emser Straße,29,65307,Bad Schwalbach,,Bad Schwalbach,,,,,,,,,,,yes,,,2372,03246fae-4a54-4af9-a649-cb355351c171
+8.394493600000033,50.514564201000042,546,Neurologische Klinik,clinic,clinic,neurology,,,,,,,,,Hubertusstraße,3-7,35619,Braunfels,,,,,,,,,,,,,yes,,,2399,643885da-53e2-435b-a54e-fe5315a98c80
+12.237559950000048,50.282277321000038,547,Fachklinikum Sachsenhof,clinic,rehabilitation,,Fachklinikum Sachsenhof GmbH,,,http://www.fachklinikum-sachsenhof.de/klinik/,,,,,Badstraße,21,08645,Bad Elster,,,,,,,,,,,,,yes,,,2409,3b11b4db-a8b8-4c62-890f-5423845e1aba
+14.643501475000051,51.074801704000038,548,Sächsisches Krankenhaus Großschweidnitz,clinic,clinic,"psychiatry;child_psychiatry;neurology","Sächsisches Krankenhaus für Psychiatrie, Psychotherapie, Psychosomatik und Neurologie Großschweidnitz",,+49 3585 4530,https://www.skh-grossschweidnitz.sachsen.de/startseite/,,,,,Dr.-Max-Krell-Park,41,02708,Großschweidnitz,,,,,,,,,,,,,,,,2412,742c9cb9-d652-4a58-8bab-0e1a2b42a67f
+8.745009775000028,50.365114622000078,549,Reha-Zentrum-Bad Nauheim-Taunus-Klinik,clinic,,,,,,,,,,,Lindenstraße,6,61231,Bad Nauheim,Taunus-Klinik,,,,,,,,,,,,,,,2423,3d26ad07-a7a3-40a6-ad86-3e9e1b4901d5
+8.595352375000061,52.210489694000046,550,Psychiatrische Tagesklinik des Kreises Herford,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2444,c68820b9-a058-455d-8883-06cc1b973dae
+12.235041703000036,50.283819106000067,551,Dekimed,clinic,rehabilitation,,Deutschen Klinik für Integrative Medizin und Naturheilverfahren GmbH,,,http://www.dekimed.de/klinik/,,,,,Prof.-Paul-Köhler-Straße,3,08645,Bad Elster,Deutsche Klinik für Integrative Medizin und Naturheilverfahren,,,,,,,,,,,,,,,2446,76b4ead9-474c-4320-b143-d0875c490ddb
+9.348289600000044,49.939910900000029,552,Hephata Fachklinik Weibersbrunn,clinic,clinic,,,,,,,,,,Hauptstraße,280,63879,Weibersbrunn,,,,,,,,,,,,,,,,2466,a852e45a-4c7f-4761-a59e-72a89f9f81e2
+12.240614092000044,50.278833120000058,553,"Klinik ""Am Schillergarten""",clinic,rehabilitation,,Paracelsus-Kliniken Deutschland GmbH & Co. KGaA,,,https://www.paracelsus-kliniken.de/klinik-am-schillergarten.html,,,,,Martin-Andersen-Nexö-Straße,10,08645,Bad Elster,,,,,,,,,,,,,limited,,,2503,bf341459-e8bc-4e6c-b5c6-0302fe28dd2c
+13.779488300000025,50.952651800000069,554,Facheinrichtung für Intensivpflege Klinik Bavaria,clinic,,,,,,,,,,,Teichweg,3,,Kreischa,,,,,,,,,,,,,,,,2513,b8ee66bf-122a-4e20-a82d-64ca4e1d15d3
+14.10358829300003,51.283608894000054,555,Tagesklinik Kinder-und Jugendpsychiatrie,clinic,,,Sächsisches Krankenhaus Arnsdorf,,,,,,,,Garnisonsplatz,7,01917,Kamenz,,,,,,,,,,,,,,,,2557,855ba8ed-838b-4c73-9957-10233b1bc694
+11.564572050000038,50.934631165000042,556,Klinik für Hautkrankheiten,clinic,clinic,dermatology,Universitätsklinikum Jena,,,,,,,,Erfurter Straße,35,07743,Jena,,,,,,,,,,,,,,,,2560,9acb8a34-430d-4ba4-b4ea-b8e11ae6190e
+8.499451069000031,50.408227326000031,557,Vitos Klinik Hasselborn,clinic,clinic,,Vitos Hochtaunus gemeinnützige GmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,2561,53c2633c-628e-4e61-962b-40d5d1f470b0
+14.646293224000033,51.742601596000043,558,Ärztehaus Amtstraße,clinic,,,,,,,,,,,Amtstraße,13,03149,Forst (Lausitz),,,,,,,,,,,,,,,,2619,3846058c-1534-4b65-ab12-26dae37f07bd
+9.359074469000063,50.212718539000036,559,Reha-Kliniken Küppelsmühle,clinic,,,,,,,,,,,Am Orbtal,1,63619,Bad Orb,,,,,,,,,,,,,yes,,,2684,537e34b7-7a44-428b-83b6-4257326ee115
+9.354117510000037,50.216265503000045,560,MediClin Reha-Zentrum Bad Orb,clinic,rehabilitation,"neurology;neuropsychology;orthopaedics",,,,,,,,,Spessartstraße,20,63619,Bad Orb,,,,,,,,,,,,,yes,,,2688,f17c9f28-9295-4847-befa-cff8426dfe9f
+8.254371461000062,50.075470038000049,561,Medicum,clinic,clinic,,,,,,,,,,Langenbeckplatz,2,65189,Wiesbaden,,,,,,,,,,,,,,,,2694,6d8c9082-509d-4ee8-a8e4-8604e2a1bf6a
+13.960865682000076,51.856858148000072,562,Medizinisches Zentrum Lübbenau,clinic,clinic,,,,+49 3542 8710,http://www.mzl-gmbh.de/,,,,,Robert-Koch-Straße,42,03222,Lübbenau/Spreewald,,,,,,,,,,,,,yes,,,2705,8d93bb73-926d-4fee-b95f-924dff76e68b
+14.026523350000048,51.188826879000032,563,Helios Klinik Schwedenstein,clinic,clinic,,Helios Kliniken GmbH,,,https://www.helios-gesundheit.de/reha/schwedenstein/,,,,,Obersteinaer Weg,1,01896,Pulsnitz,,,,,,,,,,,,,yes,,,2764,4d8ec130-15f2-4a5e-900b-9cb846b10e48
+13.410571264000055,52.557406172000071,564,Tagesklinik Esplanade,clinic,clinic,,,,,,,,,,Esplanade,15,13187,Berlin,,Prenzlauer Berg,,,,,,,,,,,,,,2778,086cb2a8-cc51-477d-9433-179bcbd26231
+7.132110468000064,50.679688147000036,565,Gezeitenhaus Klinikum AG,clinic,,,,,,,,,,,Venner Straße,55,53177,Bonn,,,,,,,,,,,,,,,,2797,d41b32d5-6d62-491c-923b-89cf0caf612d
+6.675292161000073,51.248295994000046,566,Alexianer-Klinik Meerbusch,clinic,,,Alexianer,,,http://www.alexianer-krefeld.de/,,,,,Am Eisenbrand,20b,40667,Meerbusch,,,,,,,,,,,,,,,,2843,d5256573-93c6-4fe9-a60e-16d07cfd6345
+8.288597175000064,47.591274010000063,567,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2906,bcbd02b4-8337-4a32-a818-cefa30288f9a
+13.76952760000006,51.065682312000035,568,Marcolini Praxisklinik,clinic,,,,,,,,,,,Bautzner Straße,96,01099,Dresden,,,,,,,,,,,,,,,,2910,96feefe5-3d18-407f-9796-b77c281e6439
+10.86312487500004,48.340303526000071,569,Geriatrische Rehabilitationsklinik,clinic,clinic,geriatrics,Hessing Stiftung,,,,,,,,Butzstraße,27,86199,Augsburg,,,,,,,,,,,,,,,,3002,8743bb40-86f2-4b9c-8bc6-25615a458beb
+10.011932295000065,53.669816859000036,570,PHV-Dialysezentrum Hamburg-Nord,clinic,clinic,dialysis,PHV – Der Dialysepartner Patienten-Heimversorgung Gemeinnützige Stiftung,public,,,,,,,Ochsenweberstraße,12,22419,Hamburg,,,,,,,,,,,,,,,,3078,44100632-cdbb-4304-b023-1c2a4c45d960
+7.346696335000047,51.447833961000072,571,Tagesklinik,clinic,clinic,"psychiatry;anthroposophical",Gemeinschaftskrankenhaus Herdecke,private,+49 2302 914950,http://www.gemeinschaftskrankenhaus.de/de/fachabteilungen/psychiatriepsychotherapie/tagesklinik-witten/,tk-witten@gemeinschaftskrankenhaus.de,+49 2302 9149520,,,Pferdebachstraße,51,58455,Witten,,Mitte,,,,,,,,,,,yes,,,3088,f59d9010-efca-4eec-ae72-787a23dc149c
+11.598378480000065,48.137858153000082,572,Klinik für Strahlentherapie,clinic,clinic,,,,,,,,,,Ismaninger Straße,15,,,,,,,,,,,,,,,limited,,,3109,42c0da6a-aa31-4e62-9a69-b1b427e223fe
+8.382930400000021,50.52591148700003,573,Orthopädische Klinik Braunfels,clinic,clinic,orthopaedics,,,,,,,,,Hasselbornring,5,,Braunfels,,,,,,,,,,,,,,,,3167,76d4c055-e5fb-416a-9cfe-fe5c0acc4b3f
+9.832999350000023,47.565521055000033,574,Fachklinik Prinzregent Luitpold,clinic,,,,,,,,,,,,1,88175,Scheidegg,,Oberschwenden,,,,,,,,,,,,,,3251,13f0c76b-69de-42c0-9109-fecfb7a0b571
+9.977113017000022,53.590324533000057,575,O25 Poliklinik für Psychosomatik und Psychotherapie,clinic,clinic,psychiatry,,,,,,,,,,,,,,,,,,,,,,,,,,,,3256,a6a1fabd-b857-43bf-a7e5-03d4ea3c3d3e
+7.134144900000024,50.539980505000074,576,Klinik Niederrhein,clinic,clinic,,,,,,,,,,Hochstraße,13-19,53474,Bad Neuenahr-Ahrweiler,,,,,,,,,,,,,yes,,,3271,e1eb3598-007b-4f88-aa8e-724445393cb7
+7.100831950000043,50.740736661000028,577,Universitätszahnklinik Bonn,clinic,clinic,,Universitätsklinikum Bonn,,,,,,,,Welschnonnenstraße,17,53111,Bonn,,,,,,,,,yes,,,,no,,,3371,bd1cf99a-0db0-4d42-b9b9-dde19aad99d1
+10.082148800000027,50.197169038000027,578,Klinik Saale der Deutschen Rentenversicherung,clinic,,,,,,,,,,,Pfaffstraße,10,97688,Bad Kissingen,,,,,,,,,,,,,,,,3375,a6bf5f1d-bc55-4546-9888-2923e6be2787
+9.812259045000076,53.655055109000045,579,Visiorad GbR,clinic,clinic,"radiology;radiotherapy",,,,,,,,,Fahltskamp,74,25421,Pinneberg,,,,,,,,,,,,,,,,3392,668d2766-d619-4506-a716-bb258f795c58
+7.110640060000037,50.70428066900007,580,Robert-Janker-Klinik,clinic,,,,,,,,,,,Villenstraße,8,53129,Bonn,,,,,,,,,yes,,,,,,,3449,59efb1bc-c0b2-4ee4-b98a-294cf5e8d08a
+9.85938340000007,47.575952015000041,581,Mutter-Kind Kurhaus,clinic,,,Evangelische Mutterkurheime in Würtenberg e.V.,,,,,,,,Kurstraße,25,88175,Scheidegg,,,,,,,,,,,,,,,,3563,47ec7b78-cf08-45f0-963a-5a81fcdde8fc
+9.858282358000054,47.57371841500003,582,"Panorama Fachkliniken, Akutkrankenhaus",clinic,psychotherapist,psychiatry,,,,,,,,,Kurstraße,22,88175,Scheidegg,,,,,,,,,,,,,,,,3564,930f1d60-b9e5-433b-9e09-746769441a61
+11.365147654000054,53.647897556000032,583,Ärztehaus Lankow,clinic,centre,,,,,,,,,,Rahlstedter Straße,29,,,,,,,,,,,,,,,,,,3626,a83b8738-eb34-451b-b28d-274b2521a816
+9.387710631000061,47.669352180000033,584,Werksärztlicher Dienst,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,limited,,,3734,17f62574-bb81-4b43-9202-48cc0b00d0d5
+10.890309760000036,48.364812459000063,585,ArthroKlinik Augsburg,clinic,clinic,,,,,,,,,,Halderstraße,23,86150,Augsburg,,,,,,,,,,,,,,,,3809,7293bf83-7b6d-45b7-955d-097325a22c65
+11.46373772000004,53.592964326000072,586,MVZ am Fernsehturm,clinic,centre,,,,,,,,,,Hamburger Allee,130,,,,,,,,,,,,,,,,,,3912,c015ca70-d248-4ef7-8018-018fe74c7cfb
+11.424771425000074,53.722807695000029,587,AHG Klinik Schweriner See,clinic,clinic,psychiatry,,,,,,,,,Am See,4,,,,,,,,,,,no,,,,,,,3961,2a5d77d2-aa8e-4795-a7f3-47ce5eea36f3
+10.560184650000053,54.369764500000031,588,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3988,50d111e8-4eed-4c09-8359-4441217e9061
+12.818230950000043,50.819609744000047,589,Celenus Klinik Carolabad,clinic,clinic,,RehaKonzept GmbH,,+49 371 81420,http://www.carolabad.de,,+49 371 8142111,,,Riedstraße,32,09117,,,,,,,,,,,,,,,,,4001,6fdce1b0-2594-4c32-9a75-afec06441a99
+14.064474761000042,52.283996306000063,590,Ärztehaus am HELIOS Klinikum Bad Saarow,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4033,c9a6eda5-e2a1-4685-a19a-5a6192988d46
+12.342949500000032,50.491483551000044,591,BG Klinik für Berufskrankheiten Falkenstein,clinic,rehabilitation,,,,,,,,,,Lauterbacher Straße,16,08223,Falkenstein/Vogtl.,,,,,,,,,,,,,,,,4040,32782272-390e-4567-afb7-825e18fc42e1
+7.845400132000066,51.027368583000055,592,Medizentrum Olpe,clinic,,,,,,,,,,,Kurfürst-Heinrich-Straße,7,57462,Olpe,,,,,,,,,,,,,yes,,,4072,e1986630-aebb-4c16-aace-6a5065df9021
+13.591628928000034,52.506090608000079,593,Ärztehaus,clinic,centre,,,,,,,,,,Myslowitzer Straße,59,12621,Berlin,,Kaulsdorf,,,,,,,,,,,,,,4073,deaca120-6456-4d0f-9eaa-5af50d8fdf54
+13.592370394000056,52.507117445000063,594,Facharztzentrum,clinic,centre,,,,,,,,,,Myslowitzer Straße,49,12621,Berlin,,Kaulsdorf,,,,,,,,,,,,,,4074,a21b928c-2a94-49a8-a312-06e6e58cd6a3
+12.038107450000041,50.238166245000059,595,Bezirksklinik Rehau,clinic,clinic,,Bezirk Oberfranken,,,https://www.gebo-med.de/standorte/bezirksklinik-rehau,,,,,,,,,,,,,,,,,,,,,,,,4091,f013ea6a-69a9-4450-a30f-66fbefdf399e
+10.408443649000048,47.846990761000029,596,Günztalklinik Allgäu,clinic,,,,,,,,,,,Hagenmoos,2,87634,Obergünzburg,,,,,,,,,,,,,,,,4110,0de1981e-da20-47a6-b843-fe711ca2ad03
+13.271314242000074,53.556704641000067,597,Ärztehaus,clinic,centre,,,,,,,,,,Katharinenstraße,11,17033,Neubrandenburg,,,,,,,,,,,,,yes,,,4140,44e98e23-d8ec-43ec-b283-7b781cea18f0
+11.98918648700004,51.491687782000042,598,Universitätsklinik für Psychiatrie und Psychotherapie,clinic,clinic,psychiatry,Universitätsklinikum Halle (Saale),,+49 345 5573611,https://www.medizin.uni-halle.de/index.php?id=33,,,,,Julius-Kühn-Straße,7,06112,Halle (Saale),,,,,,,,,,,,,,,,4149,17a86715-dbff-42fd-b560-c83cacf14b48
+7.090450929000042,49.216367432000027,599,Thalmühle,clinic,,,,,,,,,,,Thalmühle,1,66132,Saarbrücken,,,,,,,,,,,,,,,,4166,6ee2165f-7715-4c05-b318-ad929d3aabda
+13.115117647000034,52.380493099000034,600,Ernst Bergmann Klinik Standort Ahornstraße,clinic,,,,,,,,,,,Ahornstraße,18,14482,Potsdam,,,,,,,,,,,,,,,,4228,8510a65f-82cb-42c8-b641-16e69b495462
+8.583518750000053,51.335450862000073,601,Klinik Brilon-Wald,clinic,,addiction_medicine,,,,,,,,,Friedrich-Köster-Weg,2,59929,Brilon,,,,,,,,,,,,,limited,,,4238,4ddea3f1-234a-4504-91e6-a435ca37bead
+12.652815858000054,54.112512349000042,602,MEDIAN Klinik,clinic,clinic,,,,,,,,,,Kastanienallee,1,18334,Bad Sülze,,,,,,,,,,,,,,,,4245,ed826fab-12bf-41a9-b74d-0c22ae5027b7
+12.884109895000051,50.843894616000057,603,Frauen- und Kinderklinik,clinic,clinic,gynaecology,Klinikum Chemnitz gGmbH,,+49 371 33322201,https://www.klinikumchemnitz.de/kliniken-bereiche/kliniken/frauenheilkunde-und-geburtshilfe/,,+49 371 33322121,,,,,,,,,,,,,,,,,,,limited,,,4298,3e5dfb22-a1c3-40d3-b06c-4e2a1d61202e
+6.043725303000031,50.778169231000049,604,SPZ Sozialpädiatrisches Zentrum (+ Personalrat Uniklinik),clinic,,,,,,,,,,,Schneebergweg,53,52074,Aachen,,,,,,,,,,,,,,,,4310,db8353e9-424b-417a-acf4-31c8b1413a97
+11.409934200000066,53.63020802300008,605,Gusanum,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,4311,4cc17829-a833-4709-be9e-258f64783a2d
+12.119416683000054,49.007571099000074,606,KfH-Nierenzentrum Regensburg,clinic,,,KfH Kuratorium für Dialyse und Nierentransplantation e.V.,,,,,,,,Plato-Wild-Straße,12,93053,Regensburg,,,,,,,,,,,,,,,,4397,a62b0eb3-d613-4ce1-8437-3f118db47d05
+14.013524600000039,51.179128502000026,607,Helios Klinik Schloss Pulsnitz,clinic,clinic,,Helios Kliniken GmbH,,,https://www.helios-gesundheit.de/reha/schloss-pulsnitz/,,,,,Wittgensteiner Straße,1,01896,Pulsnitz,,,,,,,,,,,,,,,,4435,7916cb8b-4ed6-4ebd-95d4-b0836230b358
+7.753864234000048,49.438697576000038,608,"Klinik für Psychiatrie, Psychosomatik und Psychotherapie",clinic,clinic,,,,,,,,,,Albert-Schweitzer-Straße,64,67655,Kaiserslautern,,,,,,,,,,,,,yes,,,4438,28fcdda3-e591-4647-884d-bdb65abdf5b9
+9.500460734000058,50.620777436000026,609,Naturana,clinic,,,,,,,,,,,Bonifatiusstraße,7,36364,Bad Salzschlirf,,,,,,,,,,,,,,,,4457,06303ce3-e128-4025-8d0e-bf48fdbdea6b
+10.145259396000029,54.310273313000039,610,Villa Karlstal,clinic,clinic,psychiatry,Zentrum für Integrative Psychiatrie,,,,,,,,Karlstal,42,24143,Kiel,,,,,,,,,,,,,,,,4561,231534df-02fb-464a-8c9e-53175e96ef6d
+9.775356141000032,48.095228979000069,611,Sana Klinikum für geriatrische Rehabilitation,clinic,clinic,geriatrics,,,,,,,,,,,,,,,,,,,,,,,,,,,,4597,24f3d61c-df72-4db7-8d8e-cd397f472ed8
+10.90549726100005,48.374169275000042,612,KVB-Notfallpraxis,clinic,clinic,,,,,,,,,,Franziskanergasse,12,86152,Augsburg,,,,,,,,,,,,,yes,,,4655,f2ad2088-7176-4fac-9cb1-706d2bfd2f4f
+11.543746389000034,47.758077658000047,613,Klinik Dr. Schlemmer,clinic,,,,,,,,,,,Stefanie-von-Strechine-Straße,16,83646,Bad Tölz,,,,,,,,,,,,,,,,4689,578b98e0-9322-4d73-936c-c9a56491ce2c
+12.298363025000072,50.224118178000026,614,Klinik Bad Brambach,clinic,rehabilitation,"orthopaedics;cardiology",Dr. Ebel Fachkliniken Verwaltungs-GmbH,,+49 37438 960,http://www.klinik-bad-brambach.de/,,+49 37438 96504,,,Christian-Schüller-Straße,14,08648,Bad Brambach,,,,,,,,,,,,,,,,4762,e338e1ab-b372-41f4-8179-fc6dbc2ec484
+13.296635069000047,52.465866568000081,615,Westklinik Dahlem,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4814,7c044a46-315e-40c0-8c7b-19030de9e1aa
+8.170785925000075,49.463917872000081,616,MEDIAN Klinik für Psychosomatik Bad Dürkheim,clinic,clinic,psychosomatic_medicine,,,,,,,,,Kurbrunnenstraße,12,67098,Bad Dürkheim,,,,,,,,,no,,,,,,,4892,40ca5791-29b6-43ad-a60e-9dbc49aa0ed1
+11.966007729000069,51.478394241000046,617,Saale-Klinik Halle,clinic,clinic,,,,,,,,,,Steg,1,06110,Halle (Saale),Saale-Klinik Halle,,,,,,,,,,,,yes,,,4894,5980f935-ef6a-4fd6-851f-350eef150ea9
+12.369591550000052,51.289783,618,KfH-Nierenzentrum,clinic,,,,,,,,,,,Koburger Straße,31,04416,Markkleeberg,,,,,,,,,,,,,,,,5111,35629310-ff57-4060-bd1c-d03979873ef8
+7.88532019400003,48.344835920000037,619,Ärztehaus / Medizinisches Versorgungszentrum (MVZ),clinic,centre,,,,,,,,,,Klostenstraße,17/1,,,,,,,,,,,,,,,,,,5136,3f4bd6e7-db5c-4971-be9c-b81f0150c00a
+9.775851700000032,52.359638360000076,620,Sozialpädiatrisches Zentrum Hannover,clinic,,,,,,,,,,,Janusz-Korczak-Allee,8,30173,Hannover,,,,,,,,,,,,,yes,,,5165,7358493a-6e3b-48d0-8d01-32f62b45124a
+12.106389250000063,49.031407925000053,621,Regensburger Kinderzentrum St. Martin,clinic,clinic,,Katholische Jugendfürsorge der Diözese Regensburg e.V.,,,,,,,,Wieshuberstraße,4,93059,Regensburg,,,,,,,,,,,,,,,,5315,437b4834-40a6-40a5-8e26-22747326bda8
+7.143358766000063,50.543877466000026,622,Orthopädische Fachklinik Kurköln,clinic,clinic,orthopaedics,,,,,,,,,Landgrafenstraße,32-38,53474,Bad Neuenahr-Ahrweiler,Kur Klinik Köln,,,,,,,,no,,,,,,,5510,ae3575fa-8df2-4e5a-b19c-fafbdbe35d95
+7.986533651000059,49.097296671000038,623,Edith-Stein-Fachklinik,clinic,clinic,"geriatrics;neurology;orthopaedics",ctt Reha-Fachkliniken GmbH,,,,,,,,Wiesenstraße,25,,Bad Bergzabern,,,,,,,,,no,,,240,,,,5529,c7625c2e-ff97-4e60-a14b-9d24978ac619
+13.477370620000045,48.570381093000037,624,Klinik Jesuitenschlößl,clinic,,,,,,,,,,,Kapuzinerstraße,34,94032,Passau,,Innstadt,,,,,,,,,,,,,,5546,c673ffb6-18cb-445c-91ab-0d09b1deec85
+9.257165147000023,48.756274630000064,625,St. Anna-Klinik Hedelfingen,clinic,,,,,,,,,,,Amstetter Straße,54,70329,Stuttgart,,,,,,,,,,,,,,,,5574,d6f7f657-3b0a-463a-9de1-4924187577a8
+12.606104889000051,51.320732146000068,626,Fachklinikum Brandis,clinic,clinic,"orthopaedics;neurology",Fachklinikum Brandis GmbH & Co. KG,,49 34292 840,http://www.fachklinikum-brandis.de/,,,,,Am Wald,,04821,Brandis,,,,,,,,,,,,,,,,5588,71f967d5-07f9-43b5-95f5-644d9495c1dd
+7.163925350000056,50.96711319700006,627,Parkklinik,clinic,clinic,,,,,,,,,,Im Schloßpark,1,51429,Bergisch Gladbach,,,,,,,,,,,,,,,,5624,3401530d-163d-48b6-9928-4306541fe944
+13.07877572600006,54.311993664000056,628,MVZ Diaverum Stralsund,clinic,centre,,,,,,,,,,Jungfernstieg,4c,18437,Stralsund,,,,,,,,,,,,,,,,5677,0d8b09de-325a-414d-a8e0-09869556a41d
+12.360730400000023,50.90479636300006,629,Medizinisches Versorgungszentrum,clinic,clinic,,Altenburger Land GmbH,,+49 34491 300,https://www.klinikum-altenburgerland.de/kkhabg/mvz/schmolln/wir-uber-uns.html,info@klinikum-altenburgerland.de,,,,Robert-Koch-Straße,95,04626,Schmölln,,,,,,,,,,,,,yes,,,5700,4b41f45f-8d49-447e-9f72-0df68b5c94cc
+7.576853800000038,50.421167886000035,630,Marienhaus Klinikum St. Josef Bendorf,clinic,clinic,,Marienhaus Kliniken GmbH,,+49 2622 708-0,http://marienhaus-klinikum.de,info@marienhaus-klinikum.de,+49 2622 708-4555,,,Margaretha-Flesch-Platz,1,56170,Bendorf,,,,,,,,,,,,,,,,5718,9544690d-9702-4cbb-8f5c-5f8c64f62982
+9.192581200000063,48.775675972000045,631,Klinik Charlottenhaus,clinic,clinic,"gynaecology;plastic_surgery",Robert-Bosch-Krankenhaus,,,,,,,,Gerokstraße,31,70184,Stuttgart,,,,,,,,,,,,,,,,5744,6bcd89a5-17a3-465d-883e-01fa630728e0
+13.415705550000041,54.086929066000039,632,Ärztehaus,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,5758,bf03e4bd-1024-4273-a964-70d1d5cb02e6
+11.972038993000069,51.48848799600006,633,Sportklinik,clinic,clinic,,,,,,,,,,Weidenplan,17,06108,Halle (Saale),,,,,,,,,,,,,,,,5810,c476c8b2-8494-4476-8540-d83099946275
+8.620065657000055,49.677883884000039,634,Ärztehaus Bensheim,clinic,clinic,,Katholischer Klinikverbund Südhessen gemeinnützige GmbH,,,,,,,,Rodensteinstraße,92,64625,Bensheim,,,,,,,,,,,,,,,,5885,4f048c89-a4c6-4c14-b26f-828983635ff2
+9.136699660000033,49.982309152000028,635,KfH-Nierenzentrum,clinic,clinic,,KfH Kuratorium für Dialyse und Nierentransplantation e.V.,,,,,,,,Theresienstraße,24,63741,Aschaffenburg,,,,,,,,,,,,,,,,5928,1dcd5ce9-eb02-4b25-9db6-bc53727f08e7
+9.133111280000037,49.978489853000042,636,Klinik am Ziegelberg (Frauenklinik),clinic,clinic,,,,,,,,,,Ziegelbergstraße,5,63739,Aschaffenburg,Klinik am ZiegelbergFrauenklinik Aschaffenburg,,,,,,,,,,,,,,,5938,a8d5f598-1ab2-45b4-9ad7-a12a8e9f4167
+9.815179500000056,52.383146067000041,637,"Zentrum für Nieren-, Hochdruck und Stoffwechselerkrankungen",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6027,e76c0b14-885b-4e02-b650-465c03b4585f
+7.226008406000062,51.540378794000048,638,Haranni-Clinic,clinic,clinic,"dentistry;centre;clinic",,,,,,,,,Schulstraße,30-32,44623,Herne,,,,,,,,,,,,,,,,6035,8ad8bec5-2b65-44a4-a5ee-ed9f48ed5ec4
+14.319442933000062,51.743939521000073,639,Sana-Herzzentrum Cottbus,clinic,clinic,"cardiology;cardiac_surgery",Sana-Herzzentrum Cottbus GmbH,,,,,,,,Leipziger Straße,50,03048,Cottbus,,,,,,,,,,,,,yes,,,6082,693d4ef5-0593-4544-9492-a66c721593e8
+12.694806339000024,50.587274784000044,640,Ärztehaus,clinic,centre,,,,,,,,,,Rosa-Luxemburg-Straße,19,08280,Aue,,,,,,,,,,,,,,,,6086,3d7688f5-e511-4b8a-ac2f-728a2565ad9d
+12.71949305000004,50.591237515000046,641,Dialyse Zentrum,clinic,clinic,,,,,,,,,,Albert-Schweitzer-Straße,33,08280,Aue,,,,,,,,,,,,,,,,6097,66f159de-6865-49f7-bfa1-353b01a1b96f
+12.520171325000035,49.189157740000041,642,KfH Nierenzentrum,clinic,,,,,,,,,,,Falkensteiner Straße,44,,Roding,BFS für Krankenpflege,,,,,,,,,,,,yes,,,6114,fe9796fb-5388-4cc6-97aa-63da493a998d
+9.473312929000031,52.197746490000043,643,Deutsche Klinik Bad Münder - Zentrum für IVF und Reproduktionsmedizin,clinic,clinic,,"MVZ wagnerstibbe für Gynäkologie, Reproduktionsmedizin, Zytologie, Pathologie und Innere Medizin GmbH",,,,,,,,Hannoversche Straße,24,31848,Bad Münder am Deister,,,,,,,,,,,,,,,,6129,b0068bd7-d462-4c9f-8939-b21c5aba95c8
+11.606285711000055,48.143629934000046,644,Privatkliniken Dr. Gaertner HNO,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,no,,,,,Q23930105,,6136,d47e53d5-78a0-4953-b947-22f0c16ee898
+9.965071193000028,48.392047927000078,645,Herzklinik Ulm,clinic,,,,,,,,,,,Magirusstraße,49,89077,,,,,,,,,,yes (cardiology),,,,limited,,,6268,1d95e114-ed49-4b91-9cce-399d0e047145
+12.69663274100003,53.505786586000056,646,AHG Klinik Waren,clinic,rehabilitation,,,,,,,,,,Am Kurpark,1,17192,Waren (Müritz),,,,,,,,,,,,,yes,,,6519,5fbf0d94-e714-417b-802a-3f4b655460c4
+11.342766250000068,50.645275500000082,647,"Thüringen-Kliniken ""Georgius Agricola"" GmbH - Pathologie",clinic,,,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",,,,,,,,,,,,,,,,,,,,,,,,,,,6521,fa0060bd-ecd7-4d81-a39f-6231bf2c9cf7
+9.97571356900005,53.593410227000049,648,N26 Klinik und Poliklinik für Anästhesiologie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6539,c2e26c61-0a5f-41a1-b457-a8bb1eb02b90
+8.917205126000056,52.294975302000068,649,Psychiatrische Tagesklinik,clinic,clinic,psychiatry,Mühlenkreiskliniken (AöR),,+49 571 829920-0,http://www.muehlenkreiskliniken.de,,,,,Rosentalstraße,3,32423,Minden,,,,,,,,,,,,,,,,6600,b76dd1ed-0757-40e3-9c16-69afe76e02d6
+13.787067838000041,51.033057100000065,650,Ärztehaus Gruna,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6712,cf32af13-08a0-48e8-a176-4ba9a068e209
+7.023802708000062,50.071229706000054,651,Klinik Sonnenberg,clinic,,,,,,,,,,,Auf der Sees,,56864,Bad Bertrich,Klinik Sonnenberg,,,,,,,,,,,,,,,6744,752f5146-e122-4d9e-9c6f-1e45f7068c36
+12.424640522000061,51.294174008000027,652,Klinik für Forensische Psychiatrie,clinic,clinic,,Klinikum St. Georg gGmbH,,,,,,,,Gorbitzer Straße,11,,Leipzig,,,,,,,,,no,,,,,,,6872,06c58413-3b52-46fb-9b0c-ca8bc1db9625
+13.321044400000062,50.904081439000038,653,,clinic,centre,,,,,,,,,,Franz-Kögler-Ring,135,09599,Freiberg,,,,,,,,,,,,,,,,6882,ef233338-f850-4d00-a027-1717cbdda185
+10.547048425000071,52.953268253000033,654,Klinik Veerßen,clinic,clinic,,,,,,,,,,Celler Straße,26,29525,Uelzen,,,,,,,,,,,,,,,,6892,e0d70dc4-c9c0-444c-ba79-346e4f9d7c4b
+11.725107455000057,51.132016084000043,655,Saale Klinik Bad Kösen Klinik I,clinic,rehabilitation,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,+49 34463 410,,,,,,Am Rechenberg,18,06628,Naumburg (Saale),,Bad Kösen,,,,,,,,,,,yes,,,6910,35b81c97-3680-4fd4-bebd-760288a66e2e
+11.723827125000071,51.13705085600003,656,Burgenlandklinik,clinic,rehabilitation,,Me­di­net GmbH,,+49 34463 60600,http://www.burgenlandklinik.de/,,,,,,,,,,,,,,,,,,,,,yes,,,6911,18ca635c-528b-4e8f-a58f-be02d12035f7
+8.39397324600003,49.03046538600006,657,Praxisklinik Dr. med. Klaus Steinhauser,clinic,clinic,orthopaedics,Dr. med. Klaus Steinhauser,private,,,,,,,Ohiostraße,3,76149,Karlsruhe,,,,,,,,,,,,,,,,6913,89113683-2d5a-4320-8e93-51c82a313ba3
+9.638503175000039,47.956086670000047,658,Parksanatorium Aulendorf,clinic,,,,,,,,,,,Schussenrieder Straße,5,88326,Aulendorf,,,,,,,,,no,,,,yes,,,6918,d31cb657-1994-4330-8c11-3d8d15a3440d
+12.631445924000047,51.870263822000027,659,Klinik Bosse Wittenberg,clinic,clinic,"neurology;psychiatry",Alexianer Sachsen-Anhalt GmbH,,+49 3491 4760,http://www.alexianer-sachsen-anhalt.de/unsere_angebote/klinik_bosse_wittenberg/,,,,,Hans-Lufft-Straße,5,06886,Wittenberg,,,,,,,,,,,,,yes,,,6939,1c6777db-257a-490a-8f1d-a1f489e5da90
+6.656783681000036,51.659288354000068,660,KfH-Nierenzentrum Wesel,clinic,centre,nephrology,KfH Kuratorium für Dialyse und Nierentransplantation e.V.,,,,,,,,Aaper Weg,10,46485,Wesel,,,,,,,,,,,,,,,,7011,9538dd84-9146-49fb-a5ca-932a6c6e807f
+8.796199957000056,52.223205706000044,661,Ärztehaus - Tagesklinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,limited,,,7075,00579a31-858d-488f-9f29-6bb57228cee7
+8.123538600000074,49.194165716000043,662,Fachklinik Landau,clinic,clinic,,,,,,,,,,Franz-Schubert-Straße,2,76829,Landau in der Pfalz,,,,,,,,,,,,,,,,7113,931ad6f2-bfad-479b-89dd-f285230dbfd6
+11.662185022000074,48.07833578900005,663,Medizinisches Versorgungszentrum St. Cosmas,clinic,,,,,,,,,,,,,,,,,,,,,,,no,,,,limited,,,7145,439bac5f-42d1-409f-9df9-314c6854496c
+10.770745644000044,52.420760490000077,664,AWO Psychiatriezentrum ggmbh Tagesklinik Wolfsburg,clinic,centre,psychiatry,,,,,,,,,Laagbergstraße,24,38440,Wolfsburg,,,,,,,,,,,,,,,,7187,842559ca-54a1-42d8-8b03-7f42f97e1f11
+12.438125825000043,51.331806516000029,665,,clinic,centre,,,,,,,,,,Engelsdorfer Straße,19-21,04316,Leipzig,Ärztehaus,,,,,,,,,,,,,,,7269,b1474d44-1e70-49fb-818a-d8063b7ff515
+14.660343950000026,51.098498436000057,666,Tagesklinik für Psychiatrie,clinic,,,Sächsisches Krankenhaus Großschweidnitz,,,,,,,,Äußere Bautzener Straße,26,02708,Löbau,,,,,,,,,,,,,,,,7335,701b26e7-725b-4a4f-b039-33fd4b7a9745
+11.042491750000067,50.96441270400004,667,Polyklinik Südpark,clinic,,,,,,,,,,,Melchendorfer Straße,1,99096,Erfurt,,,,,,,,,,,,,yes,,,7345,27c0d9eb-1451-4d88-b2a0-600b88a4fd6b
+13.180333907000033,52.502711536000049,668,Havelklinik,clinic,,,Privatklinik Spandau PKS GmbH,,,,,,,,Gatower Straße,191,13595,Berlin,,Wilhelmstadt,,,,,,,no,,,,,,,7366,7b1fb7b1-6ad8-46b1-a7b4-38f347094896
+11.344218600000033,50.644297695000034,669,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",clinic,,,,,,,,,,,Rainweg,68,07318,Saalfeld/Saale,,,,,,,,,,,,,yes,,,7376,4f097242-7925-4ae4-979a-ba47f623b173
+11.995737825000049,51.365120188000049,670,Kinder- & Jugend-Psychiatrie,clinic,clinic,child_psychiatry,Carl-von-Basedow-Klinikum Saalekreis gGmbH,,,,,,,,,,,,,,,,,,,,no,,,,yes,,,7378,edbdc21c-da1c-4eb5-a369-6ad08532b0ec
+13.459892913000033,52.493976845000077,671,Ärztehaus an den Treptowers,clinic,centre,,,,,,,,,,Elsenstraße,1,,,,,,,,,,,,,,,yes,,,7382,8d41951f-a09e-49c3-86ed-cec4dfc905a1
+8.538818200000037,52.042416280000054,672,Evangelisches Klinikum Bethel (EvKB) - Klinik für Psychotherapeutische und Psychosomatische Medizin,clinic,clinic,psychiatry,Evangelisches Klinikum Bethel gGmbH,,,,,,,,Schildescher Straße,103p,33611,Bielefeld,,,,,,,,,,,,,,,,7401,72326c25-c4e4-4979-ae88-a889747b291f
+12.939045250000049,51.275227467000036,673,Fachkrankenhaus Hubertusburg,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7413,eb96ec3a-2b87-447f-a79d-ec8c16a0ec2e
+11.822824150000031,50.055666951000035,674,Höhenklinik Bischofsgrün,clinic,rehabilitation,,Deutsche Rentenversicherung Nordbayern,,+49 9276 880,https://www.hoehenklinik-bischofsgruen.de/NBKBG/de/Navigation/0_home/home_node.html,,,,,Fröbershammer,12,95493,Bischofsgrün,,Fröbershammer,,,,,,,yes,,,,,,,7542,bd707f05-9c86-4126-85b1-e122a481a056
+6.897588379000069,51.020112245000064,675,Ärztehaus Chorweiler,clinic,centre,,,,,,,,,,Turkuplatz,1,50765,Köln,,,,,,,,,,,,,,,,7555,141cf4c5-3347-4ab4-8505-fc83c41f593f
+8.468601258000035,49.482504185000039,676,Zentralinstitut für Seelische Gesundheit - Tagesklinik,clinic,clinic,,,,,,,,,,,1,68161,Mannheim,,,,,,,,,,,,,no,,,7596,ee864401-26fe-43f2-869a-3e83c01e6b54
+10.615494587000057,50.502676217000044,677,Medizinisches Versorgungszentrum Themar,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7610,37de84e3-4988-45a5-8a00-96bed68ac641
+11.794016500000055,50.195169519000046,678,Hochfrankenklinik Münchberg,clinic,,,,,,,,,,,Hofer Straße,40,95213,Münchberg,,,,,,,,,yes,,,,,,,7659,515e022c-f706-43e0-a895-cb92dab9d8b1
+14.007095550000031,52.192516925000064,679,Oberbergklinik,clinic,,,,,,,,,,,Am Glubigsee,46,15864,Wendisch-Rietz,,,,,,,,,,,,,yes,,,7676,1538f1eb-c411-45a4-a647-706e1ac733f1
+8.009718700000064,52.274431288000073,680,Zentrum für Kinderwunschbehandlung,clinic,clinic,,,,,,,,,,Rheiner Landstraße,93,49078,Osnabrück,,,,,,,,,,,,,,,,7749,36e260b6-fa54-41c5-b42e-601ab4cc3811
+9.762280718000056,47.912702854000031,681,Vincera,clinic,clinic,,,,,,,,,,Badstraße,31,,Bad Waldsee,,,,,,,,,,,,,,,,7841,66b90931-e8e8-47b1-8035-7faa408ba1fb
+11.043352881000033,50.981904523000026,682,CityClinic Erfurt,clinic,clinic,surgery,,,,,,,,,,,,,,,,,,,,,,,,,,,,7846,c48259b2-e0ad-4fd9-93af-95137e2df303
+9.376023822000036,48.506092687000034,683,Kurmittelhaus,clinic,clinic,,,,,,,,,,Immanuel-Kant-Straße,45,72574,Bad Urach,,,,,,,,,,,,,yes,,,7849,113b3f3a-1688-4292-9284-dc6d930c67f7
+12.958016600000064,50.852142805000028,684,Suchtfachklinik Magdalenenstift,clinic,clinic,,,,,,,,,,Dresdner Straße,214,09131,Chemnitz,,,,,,,,,,,,,,,,7876,febbdf71-1c10-4ac5-8854-74ee6b2424be
+8.330941049000046,49.541880838000054,685,Facharztzentrum Promedi,clinic,centre,,,,,,,,,,Elsa-Brändström-Straße,1 A,67227,Frankenthal (Pfalz),,,,,,,,,,,,,,,,7878,fdae251c-81f8-42b5-92f1-9ef83bf872ba
+7.887799962000031,48.343653615000051,686,Institut für Pathologie,clinic,clinic,,,,,,,,,,Altvaterstraße,5/1,77933,Lahr/Schwarzwald,,,,,,,,,,,,,,,,7939,0ebe66c5-f14b-4fca-b721-f0bd1e976686
+8.156544153000027,49.459644045000061,687,MEDIAN Klinik Sonnenwende Bad Dürkheim,clinic,clinic,psychiatry,,,,,,,,,Sonnenwendstraße,86,67098,Bad Dürkheim,,,,,,,,,no,,,,,,,8034,8216f73e-bbc2-4517-9da2-350b606e340c
+12.957360719000064,50.833912810000072,688,,clinic,,,,,,,,,,,Fürstenstraße,,09130,,,,,,,,,,,,,,,,,8050,101cbe4b-8899-4e65-a5e1-96b22d878388
+11.376392305000024,48.771173044000079,689,Strahlentherapie Ingolstadt,clinic,,,,,,,,,,,Levelingstraße,23,85049,Ingolstadt,,,,,,,,,,,,,,,,8188,43f3660d-a8dd-436c-b934-a9314f31d8ee
+9.42978389700005,54.787269701000071,690,Orthopädische Klinik Dr. Dunckelmann,clinic,clinic,orthopaedics,,,,,,,,,Reepschlägerbahn,34,24937,Flensburg,,,,,,,,,,,,,limited,,,8235,2545b4fd-14cf-4460-8de6-fed6b7fda6a2
+8.072693350000065,48.396574844000043,691,Winkelwaldklinik,clinic,,,,,,,,,,,Winkelwald,3,77787,Nordrach,,,,,,,,,,,,,,,,8239,7b74dd12-0934-45ea-8325-2ba8a06247b0
+12.696583266000061,53.507165832000055,692,Kurzentrum Waren (Müritz),clinic,rehabilitation,,,,,,,,,,Am Kurpark,2,17192,Waren (Müritz),,,,,,,,,,,,,,,,8272,44ad11cc-35e0-46d6-85ea-69bfeb3f4456
+13.667417310000076,50.901041451000026,693,Ärztehaus,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8299,ca000b58-14fd-4b63-bede-dc3b920fa430
+12.954785500000071,50.834667100000047,694,MVZ Polymed - Ambulantes Praxiszentrum,clinic,clinic,,,,,,,,,,Yorckstraße,35,09130,Chemnitz,,,,,,,,,,,,,,,,8356,9d252ebe-3fb9-48c8-b30d-b1bab590b00f
+12.884886450000067,47.732318429000031,695,Klinik Alpenland,clinic,,,,,,,,,,,Zenostraße,9,,,,,,,,,,,,,,,,,,8360,e775aa7b-1c56-4af5-b942-f62bc473ed78
+11.673038088000055,52.129525343000068,696,Rehabilitationsfachklinik Alte Ölmühle,clinic,,,,,,,,,,,Berliner Chaussee,66,39114,Magdeburg,,,,,,,,,,,,,,,,8367,3a29a057-a2c4-463c-acd3-0b353dfddc15
+10.478660713000068,53.505752022000081,697,Johanniter Krankenhaus Psychiatrische Tagesklinik Schwarzenbek,clinic,clinic,,,,,,,,,,Körnerplatz,6,21493,Schwarzenbek,,,,,,,,,,,,,,,,8384,7477bc6b-4807-43a2-a3a6-685d86993605
+12.591518073000032,48.885799882000072,698,KfH Straubing,clinic,,,,,,,,,,,Sankt-Elisabeth-Straße,23,94315,Straubing,,,,,,,,,,,,,,,,8439,1c41f463-326c-4e3a-a014-77efd1e618f8
+6.412061415000039,51.362876091000032,699,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8509,eee36135-bba4-43d2-a425-03748948693e
+6.41094537500004,51.362495616000047,700,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8510,7bbcac9c-f226-44a7-bdd2-e989f4aebf0d
+10.617629500000021,51.729210306000027,701,Sanatorium Dr. Barner,clinic,clinic,psychiatry,Johannes Barner,,,,,,,,Dr.-Barner-Straße,1,38700,Braunlage,,,,,,,,,,,,,,,,8525,486aa57e-561b-4c19-a227-f573d127d951
+10.794627437000031,52.428047161000052,702,Diagnostikzentrum Wolfsburg,clinic,clinic,,"Dr. med. Klaus Lahme, Joachim Kretschmer, Dr. med. Souzan Hahne",,,,,,,,Heßlinger Straße,17–19,38440,Wolfsburg,,,,,,,,,no,,,,,,,8527,4ff57477-1ef9-44ff-a233-0fab1878ad8c
+6.675409356000046,51.248462502000052,703,Alexianer-Klinik Meerbusch GmbH,clinic,,,Alexianer,,,,,,,,Am Eisenbrand,20c,40667,Meerbusch,,,,,,,,,,,,,,,,8532,62ef3a6f-ffd4-46cb-adc1-ef811e132eda
+6.277174330000037,51.213236917000074,704,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8540,7c99bdca-5173-44ab-aa18-ba96d066e2ac
+6.489706119000061,51.322784886000079,705,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8542,408a98e3-ab47-4808-bcb1-2b79e8bd64fd
+6.487881700000059,51.322873144000027,706,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8543,5a9d19f8-411f-4258-9d14-c711b23e062b
+6.343761775000075,51.259136040000044,707,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8546,66676629-dea4-438b-84d1-b2b2c7b1e735
+13.59430917800006,52.44009,708,Ärztehaus Mitteltrakt,clinic,centre,,,,,,,,,,,,,,Haus 5.2,,,,,,,,,,,,,,,8561,418ccf41-7931-4fb5-9f6a-4b350b61fd57
+13.594175551000035,52.440660644000047,709,Ärztehaus Nordflügel,clinic,centre,,,,,,,,,,,,,,Haus 5.1,,,,,,,,,,,,,,,8562,bd712546-25c7-433b-a5ca-4475bb1fcdd7
+13.594099922000055,52.439747596000075,710,Ärztehaus Südflügel,clinic,centre,,,,,,,,,,,,,,Haus 5.3,,,,,,,,,,,,,,,8563,a6786e7c-20d4-4495-9e9f-6f26dd38c7ef
+6.870068700000047,51.692603576000067,711,Augenarzt Frau Dr. med. Elisabeth Lorens-Glowania,clinic,clinic,ophthalmology,,,+4928534485835,http://www.augenklinik-dorsten.de,augenklinik@mvznet.de,+4923629998010,,,Mittelstraße,21,46514,Schermbeck,,,,,,,,,,,,,,,,8572,dfa0a941-421e-4cbc-841a-4a143892f52e
+7.831941051000058,48.008870859000069,712,Freiburger Institut für Musikermedizin,clinic,clinic,,Universitätsklinik Freiburg,,,,,,,,Elsässer Straße,2m,79110,Freiburg im Breisgau,,,,,,,,,,,,,,,,8573,b2c69e4e-7fd7-472f-84a5-5d68afa5a025
+9.206549050000035,52.317610200000047,713,Augenklinik Stadthagen,clinic,clinic,ophthalmology,,,,,,,,,Brunnenstraße,12,31655,Stadthagen,Augenklinik Stadthagen,,,,,,,,,,,,yes,,,8584,2c5a8eaa-2d65-4ae1-a6ca-715483371191
+10.24235965400004,47.459020438000039,714,Fachklinik Hirtenstein,clinic,,,,,,,,,,,Hirtenstein,1,87538,Bolsterlang,,,,,,,,,no,,,,,,,8625,6cdc21f9-f0e9-491e-a546-2efc24442d01
+14.965112775000023,51.328342688000077,715,Orthopädisches Zentrum Rothenburg,clinic,,,,,,,,,,,Horkaer Straße,21,02929,Rothenburg/Oberlausitz,,,,,,,,,,,,,yes,,,8659,8cda5882-424f-451f-87f5-ad9f2c833f5e
+14.966957600000057,51.328085136000027,716,Reha-Klinik des Orthopädischen Zentrums,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,8660,3ba8c91d-b338-4d52-bbe4-a15ccf1cefea
+8.028220400000066,50.880747307000036,717,Ambulantes Zentrum Albertus Magnus,clinic,centre,,St. Marien-Krankenhaus gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,8692,fcae0f7c-434d-46b2-b77e-14807a97e5e4
+9.752186547000065,50.306512887000054,718,Klinik Hartwald,clinic,clinic,"rehabilitation;oncology",,,,,,,,,Schlüchterner Straße,4,97769,Bad Brückenau,,,,,,,,,,,,,,,,8695,82448791-d87f-44cd-974d-6eaf3482cb46
+9.742524682000067,50.301810135000039,719,Betty Ford Klinik,clinic,clinic,rehabilitation,,,,,,,,,Heinrich-von-Bibra-Straße,35,97769,Bad Brückenau,,,,,,,,,,,,,,,,8701,bc2f2c32-5913-49da-893f-6eb76f652e7a
+8.43974,50.088270137000052,720,Psychiatrische Klinik der MTK-Kliniken,clinic,clinic,psychiatry,,,,,,,,,,,,,,,,,,,,,no,,,,,,,8707,42a9bb72-4278-4c78-8574-45dcdb95485e
+8.309659909000061,51.187511722000067,721,,clinic,,,,,,,,,,,Im Ohle,31,57392,Schmallenberg,,,,,,,,,,,,,limited,,,8821,c51b97ee-2e72-47d3-88cc-e7f25cebda4a
+7.532285690000037,49.984919206000029,722,Ärztehaus,clinic,clinic,,,,,,,,,,Bingener Straße,23,55469,Simmern,,,,,,,,,,,,,yes,,,8837,7fde12e9-ba08-4415-9892-a19bc82d23cd
+9.760423450000076,50.306830178000041,723,Regena,clinic,clinic,rehabilitation,,,,,,,,,Ernst-Putz-Straße,52,97769,Bad Brückenau,,,,,,,,,,,,,,,,8844,30a49d8b-07a8-459b-9676-35bfe7e72923
+10.783616819000031,53.998193389000051,724,Curschmann Klink,clinic,clinic,cardiology,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,8873,90f15733-c2ae-42b0-add3-d1c1588b8f61
+9.50662092500005,53.941612233000058,725,"Tagesklinik für Psychiatrie, Psychotherapie und Psychosomatik des Kindes- und Jugendalters",clinic,clinic,,Klinikum Itzehoe,,,,,,,,,,,,,,,,,,,,no,,,,,,,8912,b0da974c-3461-4e8c-8a16-63cc6e4b5b9d
+6.509848350000027,51.249153500000034,726,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8933,78548a93-d4ce-4b85-8078-7e8a5257d517
+13.564746050000053,52.519175172000075,727,Gesundheitszentrum am ukb,clinic,,,,,+49 30 20181510 0,,info­@gesundheitszentrum-ukb.de,,,,Warener Straße,1,12683,Berlin,,Biesdorf,,,,,,,,,,,,,,8937,6e970695-3144-42d9-9220-07136bcec2c6
+13.279618700000071,52.592874523000035,728,Medical Park Berlin Humboldtmühle,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,no,,,,yes,,,8969,18e8e358-d73f-4da0-9205-faf7d7d0693c
+13.486928754000076,52.515055200000063,729,Ärztezentrum Ruschestraße,clinic,centre,,,,,,,,,,,,,,Haus 20,,,,,,,,,,,,,,,8977,2da124c4-e335-4ff8-81ae-e8e4fbfbe766
+10.841931850000037,51.155641090000074,730,MEDIAN Klinik Bad Tennstedt,clinic,rehabilitation,,,,,,,,,,Kurstraße,2,99955,Bad Tennstedt,,,,,,,,,,,,,,,,9025,5ae390fd-a843-4ff6-9a2d-8002ab71e1b5
+11.917286673000035,51.472960632000081,731,Psychiatriezentrum Halle,clinic,clinic,psychiatry,AWO Landesverband Sachsen-Anhalt e.V.,,+49 345 69220,https://www.awo-sachsenanhalt.de/angebote/patienten-und-gesundheit/einrichtungen/awo-psychiatriezentrum-halle.html,,,,,Zscherbener Straße,11,06124,Halle (Saale),,,,,,,,,,,,,,,,9085,898363c6-9cde-4047-8932-d586adcf6493
+10.081813250000039,50.270207006000078,732,Rehabilitations- & Präventionszentrum Bad Bocklet,clinic,clinic,"rehabilitation;oncology;internal",,,,,,,,,Frankenstraße,36,97708,Bad Bocklet,,,,,,,,,no,,,,yes,,,9097,32883e2e-0b15-4825-ac2e-23f66cba6876
+7.561780471000077,49.113195502000053,733,Vita Natura Klinik,clinic,,,,,,,,,,,Altschloßstraße,1,66957,Eppenbrunn,,,,,,,,,,,,,,,,9153,7706e8c2-97c2-490b-b3c5-d3015aedf400
+8.699189399000034,52.126363393000076,734,Kinderklinik,clinic,,,Klinikum Herford,,,,,,,,,,,,,,,,,,,,,,,,yes,,,9280,e1126a9d-3e1e-48f8-af19-05dc643b37e8
+11.738433831000066,51.132167270000082,735,Saale Klinik Bad Kösen Klinik II,clinic,rehabilitation,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,+49 34463 420,https://www.median-kliniken.de/de/median-saale-klinik-bad-koesen-klinik-ii/,,,,,Elly-Kutscher-Straße,14,06628,Naumburg (Saale),,Bad Kösen,,,,,,,,,,,,,,9322,4a6b74cc-e326-41c4-9fa3-421ea390450a
+11.74181363200006,51.133024822000039,736,Kinderklinik am Nicolausholz Bad Kösen,clinic,rehabilitation,,MEDIAN Unternehmensgruppe B.V. & Co. KG,,+49 34463 430,https://www.median-kliniken.de/de/median-kinderklinik-am-nicolausholz-bad-koesen/,,,,,Elly-Kutscher-Straße,16,06628,Naumburg (Saale),,Bad Kösen,,,,,,,,,,,,,,9323,c04ad31a-353f-472c-86a8-95fc48376524
+13.705762313000037,51.636351484000045,737,Poliklinik - Arzt,clinic,clinic,,,,,,,,,,Kirchhainer Straße,1,03238,Finsterwalde,,,,,,,,,,,,,,,,9395,95be9f50-2550-4175-87ad-77eebfaabfd8
+10.831229250000035,48.389270597000063,738,Kuratorium für Dialyse und Nierentransplantation,clinic,clinic,nephrology,KfH Kuratorium für Dialyse und Nierentransplantation e.V.,,,,,,,,Oskar-von-Miller-Straße,2a,86356,Neusäß,,,,,,,,,no,,,,yes,,,9469,dd62a0cc-bd7d-413f-9d61-226508f2859a
+7.988804078000044,49.094842825000057,739,BioMed,clinic,clinic,,,,,,,,,,Tischbergerstraße,5,76887,Bad Bergzabern,,,,,,,,,,,,,,,,9512,b9a8c48d-fb1e-46f3-a58a-fe23f40528e8
+7.98775936800007,49.09533353300003,740,BioMed,clinic,clinic,,,,,,,,,,,,,Bad Bergzabern,,,,,,,,,,,,,,,,9513,2844ff9f-61d7-4e94-8c8b-72c391969f6c
+11.846605650000072,52.273867664000079,741,AWO Tagesklinik Burg,clinic,,,,,,,,,,,Kirchhofstraße,5,39288,Burg,,,,,,,,,,,,,yes,,,9629,ee0f452f-c065-470b-a83c-e9a3a34078ce
+11.371043684000028,50.63219749700005,742,Klinik Bergfried,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9676,8d097380-2bcf-4832-92cd-761923c55064
+11.370791418000067,50.632373237000081,743,Klinik Bergfried,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9677,9d09bdcf-26ba-4dbf-b938-3b94e4ce90c0
+11.371320027000024,50.632480586000042,744,Klinik Bergfried,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9678,cff4a3cc-c134-4937-beb5-1c6107120a8b
+9.376017758000046,48.506640680000032,745,m&i Fachklinik Hohenurach 2,clinic,clinic,,,,,,,,,,Immanuel-Kant-Straße,47,72574,Bad Urach,,,,,,,,,,,,,yes,,,9719,64668bea-550a-465b-983b-907c9419d636
+10.806353100000024,47.710806655000056,746,Johannesbad Klinik Königshof,clinic,,,,,,,,,,,Hochbergle,1A,86983,Lechbruck am See,,Feriensiedlung Hochbergle,,,,,,,,,,,,,,9740,65eca97d-f16f-4754-bd53-41ec1883e679
+6.702744074000066,49.993471444000079,747,,clinic,clinic,"psychiatry;paediatrics;general;etc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,9861,93502443-f8cb-4b31-83e9-fe72eb741578
+12.849293824000029,50.698182397000039,748,Ärztehaus,clinic,centre,,,,,,,,,,Friedrichstraße,10a,09380,Thalheim/Erzgebirge,,,,,,,,,,,,,,,,9864,804440de-c98a-4b60-878d-e5bc2a3cfe36
+7.978196547000039,53.404781559000071,749,gisunt-Klinik für integrative Medizin Tagesklinik für Onkologie,clinic,clinic,,,,,,,,,,Oldenburger Straße,87,26340,Zetel,,,,,,Niedersachsen,,,,,,,,,,9905,4523856a-d59f-4a13-bf42-ac1d208c7ddb
+9.153092475000051,47.770853527000043,750,Kurpark-Klinik Überlingen,clinic,,,,,,,,,,,Gällerstraße,10,88662,Überlingen,,,,,,,,,,,,,,,,9944,df24c971-4939-406d-a1e0-ac9e8bccd567
+7.554505048000067,47.732415355000057,751,Seidel-Klinik,clinic,,,,,,,,,,,Hebelweg,4,,Bad Bellingen,,,,,,,,,,,,,,,,9989,a449c26a-e4a6-441e-b6b8-584cae79872e
+13.292924325000058,53.552876383000068,752,Ärztehaus,clinic,centre,,,,,,,,,,Juri-Gagarin-Ring,22,17036,Neubrandenburg,,,,,,,,,,,,,,,,10034,12585e9a-e814-4a6c-8e6a-d9a838478cf8
+7.335857800000042,49.621951248000073,753,Fachklinik Baumholder,clinic,clinic,"geriatrics;pulmonology",Klinikum Idar-Oberstein GmbH,,,,,,,,Krankenhausweg,22,55774,Baumholder,,,,,,,,,no,,,,,,,10052,f41c2e71-3019-43ba-9318-31070655ec97
+8.984907300000032,51.898311960000058,754,Dr. Becker Brunnen-Klinik,clinic,,,,,,,,,,,Blomberger Straße,9,32805,Horn-Bad Meinberg,,Bad Meinberg,,,,,,,,,,,,,,10063,b1b7eaa4-ba90-4b36-8f0f-236d72ea350f
+8.55626473500007,54.681102631000044,755,Nordsee-Fachklinik Sonneneck,clinic,rehabilitation,,,,,,,,,,Osterstraße,2,25938,Wyk auf Föhr,,,,,,,,,,,,,yes,,,10071,61fd4862-8dc9-468f-aff7-545c0a6e71be
+11.913867891000052,49.707984275000058,756,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074,1cc11023-b2fc-4ddc-965c-5988d56c52cf
+13.298445983000022,52.704803200000072,757,ADV Fachklinik Briese,clinic,,,ADV gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,10076,0b7d6ac8-bf29-4823-bcbd-05ca430f38de
+7.814383994000025,48.023815109000054,758,Praxisklinik 2000,clinic,clinic,"orthopaedics; surgery",,,,,,,,,Wirthstraße,11a,79110,Freiburg im Breisgau,,,,,,,,,,,,,yes,,,10078,fdd2a3db-0d86-44eb-8aea-141f7ef38582
+9.680482951000045,50.551740376000055,759,Augentagesklinik,clinic,clinic,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122,bbea58b8-87f7-4bd5-97be-499fae4a75f5
+7.676089151000042,49.706395272000066,760,Sprachheilzentrum,clinic,clinic,,Landeskrankenhaus Rheinland-Pfalz,,,,,,,,,,,,,,,,,,,,,,,,,,,10131,dde00816-9264-4a98-b1e7-e85678bd0ea5
+7.85783790000005,49.83243741900003,761,St. Franziska-Stift,clinic,clinic,,,,,,,,,,Franziska-Puricelli-Straße,3,55543,,,,,,,,,,no,,,,limited,,,10174,cb778fd3-9136-4c29-9831-7402c6efdccf
+12.24524660700007,50.278303335000032,762,"MediClin Klinik ""Am Brunnenberg""",clinic,,,,,,,,,,,Endersstraße,5,08645,Bad Elster,,,,,,,,,,,,,yes,,,10201,a3e27053-5dea-4bf7-b11a-02085449208c
+10.545338170000036,52.497235846000081,763,Awo Tagesklinik Gifhorn,clinic,clinic,psychiatry,,,,http://www.awo-psychiatriezentrum.de,,,,,Campus,7,38518,Gifhorn,,,,,,,,,,,,,yes,,,10227,c274c0b3-4a27-4ddf-86f4-39646105840a
+8.368497640000044,49.634840392000058,764,DRK Tagesklinik Worms,clinic,clinic,,,,,,,,,,Maximilianstraße,10,67547,Worms,,,,,,,,,,,,,,,,10245,cd0dfad1-813f-47ab-a09b-b479c7f40c0e
+8.074333874000047,48.629663905000029,765,Gesundheitszentrum Am Stadtgarten,clinic,centre,,,,,,,,,,Am Stadtgarten,28,77855,Achern,,,,,,,,,,,,,,,,10254,b169a9db-5002-4bc1-b147-059975d01ec5
+11.613027362000025,50.118231224000056,766,Klinik Wirsberg,clinic,clinic,,,,,,,,,,Adlerhütte,2,95339,Wirsberg,,,,,,,,,,,,,,,,10292,ab3f3525-8d0f-4b8f-ac53-f8aabd7168ec
+6.861423908000063,50.937558196000055,767,ORTHOPARC,clinic,clinic,orthopaedics,,,,,,,,,Aachener Straße,1021b,50858,Köln,,,,,,,,,,,,,limited,,,10294,d6e79217-83d8-4752-b7fb-13a3a7da1cfc
+8.304065650000041,50.669930803000057,768,"Dres. Dahlke, Kornder, Pschaick, Pfau Chirurgisches Zentrum",clinic,clinic,surgery,,,,,,,,,Austraße,66,35745,Herborn,,,,,,,,,,,,,limited,,,10367,4a27deff-de92-48a6-90ce-e57a47aca4ff
+9.696936796000045,49.102378477000059,769,Augenzentrum Michelfeld,clinic,,ophthalmology,,,,,,,,,Daimlerstraße,60,74545,Michelfeld,,,,,,,,,,,,,yes,,,10394,b10457c2-e3c6-4649-919d-987c5f31a958
+9.084687200000076,51.107740168000078,770,Parkland-Klinik,clinic,,,Parkland-Klinik GmbH & Co. Betriebs KG,,+49 5621 706-0,http://www.parkland-klinik.de/,,+49 5621 706-705,,,Im Kreuzfeld,6,34537,Bad Wildungen,,Reinhardshausen,,,,,,,,,,,yes,,,10458,3085b7f3-7e9f-4814-b859-fcf751883cbe
+6.914239844000065,50.867670587000077,771,Somnia Klinik Konraderhof/Hürth,clinic,,,,,,http://www.somnia-kliniken.de/,,,,,,,,,,,,,,,,,no,,,,,,,10488,0c77318a-910d-459c-8d56-2e026d19c530
+10.385734628000023,53.423416069000041,772,Vitanas Klinik für Geriatrie,clinic,clinic,geriatrics,,,,,,,,,Johannes-Ritter-Straße,100,21502,Geesthacht,,,,,,,,,no,,,,,,,10491,10b01022-7453-43eb-88a5-c6e68a6caa5a
+13.76921326300004,50.946622478000052,773,Klinik Bavaria Kreischa,clinic,rehabilitation,,Rudolf Presl GmbH & Co. Klinik Bavaria Rehabilitations KG,,+49 800 57347242,http://www.klinik-bavaria.de/,info@klinik-bavaria.de,,,,An der Wolfsschlucht,1-2,01731,Kreischa,,,,,,,,,,,,,,Q1378154,,10557,38345761-a1f2-4356-a9b7-d4de7e22caf9
+12.877545270000041,47.732165019000035,774,Rehaklinik Prinzregent Luitpold Bad Reichenhall,clinic,,,,,,,,,,,Traunfeldstraße,13,,,Rehaklinik Prinzregent Luitpold,,,,,,,,,,,,,,,10580,3f6e7e8c-04b8-4a12-827d-733021dfd274
+7.605930758000056,49.200629623000054,775,Tagesklinik für Kinder- und Jugendpsychiatrie,clinic,clinic,psychiatry,,,,,,,,,Klosterstraße,1a,66953,Pirmasens,,,,,,,,,,,,,,,,10599,bb50f649-3a02-46cf-b2ce-623d0cdcfac1
+12.883541747000038,47.728754765000076,776,Salus Gesundheitszentrum GmbH & Co. KG,clinic,,,,,,,,,,,Rinckstraße,7-9,,,,,,,,,,,,,,,,,,10667,ca306e6c-4999-4777-80c6-4f7b1c9c00de
+12.883212,47.727697563000049,777,Klink Bad Reichenhall,clinic,,,,,,,,,,,Salzburger Straße,8-11,,,Klinik Bad Reichenhall der Deutschen Rentenversicherung Bayern Süd,,,,,,,,,,,,,,,10668,3e4d062e-e66d-4253-94af-c80c2961e2fb
+13.429155450000053,52.478944441000067,778,KfH Nierenzentrum,clinic,clinic,,,,+49 30 620005-0,https://www.kfh.de/nierenzentrum/berlin-rollbergstrasse/startseite/,berlin.rollbergstrasse@kfh-dialyse.de,+49 30 620005-30,,,,,,,,,,,,,,,,,,,,,,10669,b8a8e72d-d166-4227-bd6f-b29b5811b2eb
+8.555641450000053,53.079344052000067,779,Fachklinik für Orthopädie,clinic,,,STENUM Ortho GmbH,,,,,,,,Heilstättenweg,1,27777,Ganderkesee,,,,,,,,,,,,,,,,10692,aea99dda-e0d6-489c-ad7a-91d6387b7dcd
+11.618339552000066,50.884571428000072,780,Gräfliche Kliniken - Ambulantes Reha Zentrum,clinic,clinic,,,,+49 3641 482 40,http://www.arz-jena.de/,,,,,Ebereschenstraße,1 + 3,07747,Jena,,,,,,,,,no,,,,yes,,,10724,48b44ecd-b829-498b-b8ec-2c7dac799904
+10.708600890000071,50.948708637000038,781,Gesichtschirugie/Röntgeninstitut,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,10740,f60ca0d0-fecb-4396-b9f6-03bb7a1f6190
+8.315554250000048,51.198294729000054,782,Fachklinik Hochsauerland,clinic,,,,,,,,,,,Zu den drei Buchen,2,,,,,,,,,,,,,,,yes,,,10853,9a81550f-6c07-4143-b46f-3af9be3969ea
+8.317046087000051,51.198062040000082,783,Fachklink Fredeburg,clinic,,,,,,,,,,,Zu den drei Buchen,1,,,,,,,,,,,,,,,yes,,,10854,d2920121-fc98-4c4f-b25e-906a4ff22043
+8.212524021000036,52.895577003000028,784,Dietrich-Bonhoeffer-Klinik,clinic,,,Diakonisches Werk Oldenburg Dietrich-Bonhoeffer-Klinik gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,10953,fc9a8c01-4ace-452d-bebf-c0110627f6ca
+13.039617,50.911558050000053,785,"Medizinisches Versorgungszentrum Flöha der Landkreis Mittweida Krankenhaus gGmbH, Nebenbetriebsstätte Frankenberg",clinic,,,,,,,,,,,Humboldtstraße,30,09669,Frankenberg/Sa.,,,,,,,,,,,,,,,,11167,f67bf30f-e471-4749-be85-b629bd2d0ea5
+13.742623417000061,50.75900807000005,786,Reha-Klinik Raupennest,clinic,rehabilitation,"orthopaedics;physiatry;traditional_chinese_medicine;osteopathy",Johannesbad Raupennest AG & Co. KG,,+49 35056 300,https://www.raupennest.de/,,,,,Rehefelder Straße,18,01773,Altenberg,,,,,,,,,,,,,,,,11196,72da4d79-473c-4c3b-88be-58663cd2fe09
+9.473855575000073,53.598098065000045,787,Klinik Dr. Witwity,clinic,clinic,,,,,,,,,,Neubourgstraße,4,21682,Stade,,,,,,,,,,,,,,,,11230,d2bd5a2d-edcc-4374-bc67-d26ea766a46e
+10.13736780000005,54.385174612000071,788,Medizinisches Zentrum Altenholz,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11241,c35436e7-21c1-41ee-8668-e6744e3ce72b
+7.253995631000066,49.39776940400003,789,AHG Klinik Münchwies,clinic,clinic,psychiatry,AHG Allgemeine Hospitalgesellschaft AG,,,,,,,,,,,,,,,,,,,,no,,,,yes,,,11263,1b4e87f0-b210-40e3-b388-6c8b73f56ad9
+8.842812077000076,53.074758594000059,790,Zentrum für Kinder- und Jugendmedizin,clinic,,,Klinikum Bremen-Mitte gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,11303,ea41e673-1a0e-4ce5-9933-9c9b239a8061
+10.07778766000007,50.193812942000079,791,Reha-Zentrum Bad Kissingen Klinik Rhön,clinic,clinic,"rehabilitation;psychiatry",,,,,,,,,Kurhausstraße,20,97688,Bad Kissingen,,,,,,,,,,,,,yes,,,11466,b8231409-c608-425a-ad31-ae4c4c8580af
+8.520769105000056,52.009872665000046,792,Klinik Pniel im Evangelischen Klinikum Bethel (EvKB),clinic,clinic,,,,,,,,,,Hoffnungstaler Weg,10,33617,Bielefeld,,,,,,,,,,,,,,Q1381343,de:Evangelisches Klinikum Bethel,11501,57391483-a95a-43b8-b961-3d13806b3527
+6.683289050000042,49.26591858300003,793,Psychosomatische Klinik Berus,clinic,,,,,,,,,,,Orannastraße,55,66802,Überherrn,,,,,,,,,,,,,,,,11564,b59d746d-5071-47bc-8658-2385bbc5bdf3
+13.012633412000071,48.704634770000041,794,Fachklinik Osterhofen,clinic,,,,,,,,,,,Plattlinger Straße,29,,,,,,,,,,,,,,,,,,11610,90bf86f4-8416-4cc5-ae9b-f8ce659f459f
+9.472580900000025,53.595355403000042,795,Klinik Dr. Hanken,clinic,clinic,"oncology;radiology",Klinik Dr. Hancken GmbH,,,,,,,,Harsefelder Straße,8,,,,,,,,,,,,,,,yes,Q25621836,,11613,fca99a9d-e607-48f5-8159-2baeb0bb2ed2
+11.089293196000028,50.948797505000073,796,sportklinik.ERFURT,clinic,,,,,,,,,,,Am Urbicher Kreuz,7,99099,Erfurt,,,,,,,,,no,,,,yes,,,11643,9fe985d6-42a8-455c-842a-1ff2ebb53d2b
+10.870585809000033,48.389103836000061,797,Strahlentherapie Augsburg,clinic,clinic,radiotherapy,,,,,,,,,Hirblinger Straße,79a,86154,Augsburg,,,,,,,,,,,,,yes,,,11759,0fd1582f-541b-4a85-93eb-e8c055e3f24c
+8.67569194500004,52.154139826000062,798,Klinikum Lippe Tagesklinik Herford,clinic,,,,,,,,,,,Johann-Wichern-Weg,8,32120,Hiddenhausen,,,,,,,,,,,,,,,,11780,656e43a2-f5cc-427b-b70d-e8584180a33d
+9.012832100000026,48.402675640000041,799,Klinik Bad Sebastiansweiler,clinic,clinic,,,,,,,,,,Hechinger Straße,26,72116,Mössingen,,,,,,,,,,,,,,,,11812,8fce0d85-f682-43ad-a671-743df5aa2fa4
+12.118284600000038,50.16895995200008,800,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11870,9169217d-37db-4b20-85f6-244b38c11657
+13.080021551000073,50.665165973000057,801,Knappschafts-Klinik Warmbad,clinic,rehabilitation,,Deutsche Rentenversicherung Knappschaft-Bahn-See,,+49 37369 830,https://www.kbs.de/DE/05_medizinisches_netz/2_reha-kliniken/33_warmbad/InhaltsNav.html,,,,,Am Kurpark,10,09429,Wolkenstein,,Warmbad,,,,,,,,,,,,,,11928,e0b60f0e-b18d-41bf-9620-87fa181e04c5
+12.309773311000072,50.007023883000045,802,Medizinisches Versorgungszentrum Stiftland,clinic,clinic,,MVZ Stiftland gGmbH,,+49 9632 91210,http://www.mvz-stiftland.de/,,,,,Stegwiesenstraße,5,95652,Waldsassen,Medizinisches Versorgungszentrum Stiftland,,,,,,,,,,,,,,,12003,30e3d28f-535e-4090-8c9e-c0583e2fb2e8
+12.246116075000032,51.839208246000055,803,St. Josephs Krankenhaus,clinic,clinic,psychiatry,Alexianer Sachsen-Anhalt GmbH,,,,,,,,Teichstraße,66,06844,Dessau-Roßlau,,,,,,,,,no,,,,,,,12058,b5f32500-591b-472e-ad23-03f6e61fe235
+11.116466514000024,51.725120808000042,804,,clinic,rehabilitation,,,,,,,,,,,,06485,Quedlinburg,,Bad Suderode,,,,,,,,,,,,,,12107,1326e777-bb34-4e8c-9a4d-05a19b0bf2aa
+11.116582175000076,51.725703238000051,805,,clinic,rehabilitation,,,,,,,,,,,,06485,Quedlinburg,,Bad Suderode,,,,,,,,,,,,,,12108,30569b07-5188-4482-88c5-4c5ed2211dc9
+8.442450200000053,48.801019551000081,806,Celenus Klinik Bad Herrenalb,clinic,,,Celenus-Kliniken GmbH,,,,,,,,Lindenweg,21,76332,Bad Herrenalb,,,,,,,,,no,,,,,,,12133,54b891f9-6c78-40c4-a40a-848873408be1
+8.44181362300003,48.800914329000079,807,Celenus Klinik Bad Herrenalb,clinic,,,Celenus-Kliniken GmbH,,,,,,,,Kurpromenade,42,76332,Bad Herrenalb,,,,,,,,,no,,,,limited,,,12134,e7c2e0ec-fa10-440e-9bd2-d4ce34d7739f
+8.439766834000068,48.798076879000064,808,SANIMA Klinik,clinic,,,,,,,,,,,Alte Dobler Straße,8,76332,Bad Herrenalb,,,,,,,,,,,,,,,,12135,451b30f0-a6bf-4f2d-8ccc-4c0c73936d15
+6.646698460000039,50.595297413000026,809,Sozialpädiatrischen Zentrum Mechernich,clinic,,,Kreiskrankenhaus Mechernich GmbH,,,,,,,,Im Schmidtenloch,34,53894,Mechernich,,,,,,,,,,,,,,,,12259,2736f53f-769b-464e-8afa-1d21c83a6dd1
+11.092689450000023,47.492375750000065,810,Klinik Dr. Beger,clinic,clinic,orthopaedics,Christian Klotz,,,,,,,,Achenfeldstraße,19/21,82467,Garmisch-Partenkirchen,,,,,,,,,,,,,,,,12364,a3aa8b7f-56f7-42dd-a5d8-16eb1d6f5c0d
+12.122872419000032,50.502524111000071,811,,clinic,,,,,,,,,,,Stadtparkring,4,08523,Plauen,,,,,,,,,,,,,,,,12409,6e23a31c-b5bd-4ca4-9f76-b978507eb5a1
+12.066608,49.004038749000074,812,ZAR Regensburg,clinic,rehabilitation,,,,,,,,,,Doktor-Gessler-Straße,29,93051,Regensburg,,,,,,,,,,,,,,,,12449,969c35b4-3e4c-4100-b6a1-f1da0e58fbd1
+6.644123627000056,50.68803784000005,813,Psychiatrische Institutsambulanz Marienborn,clinic,clinic,psychiatry,Fachklinik für Psychiatrie und Psychotherapie der MARIENBORN gGmbH,religious,,,,,,,Nideggener Straße,32,53909,Zülpich,,,,,,,,,,,,,,,,12462,6bc9d0a9-3e68-4f80-83b2-8665dd5b9e68
+6.645074500000021,50.683978525000043,814,"Marienborn, Fachklinik für Psychiatrie und Psychotherapie",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,de:Kloster Marienborn (Eifel),12475,7a85ea9e-cccf-4e09-a0b6-5d325d297ebb
+10.29987505500003,48.425121502000081,815,24: Erste-Hilfe-Station,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,12476,0422be75-9512-4afa-a377-62e0f4b3665b
+8.326083376000042,48.765340878000075,816,MediClin Reha-Zentrum Neurologie,clinic,neurology,,Mediclin AG,,,,,,,,,,,,,,,,,,,,,,,,,,,12539,1b21964d-43fa-4b0c-b5cc-77a810136775
+8.038728770000034,51.752805348000038,817,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12621,edafd917-c930-42d5-b3d7-d8a6d7eb3a1c
+13.244462493000071,52.752987434000033,818,PHV-Dialysezentrum Oranienburg,clinic,,,,,,,,,,,Lehnitzstraße,31,16515,Oranienburg,,,,,,,,,no,,,,,,,12682,870724d2-6df0-48e7-834c-c74cde0cc0c7
+12.696998737000058,53.505847737000067,819,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12685,754f1295-83dd-48ef-9c84-a7af4135e1d0
+7.989006823000068,53.192949554000052,820,Privatklinik Bad Zwischenahn,clinic,clinic,,,,,,,,,,Seestraße,2,26160,Bad Zwischenahn,,Rostrup,,,,,,,no,,,,,,,12743,fa28718a-db59-4da6-b78f-bd960c919720
+14.645656,51.742789594000044,821,Ärztehaus Friedrichplatz,clinic,,,,,,,,,,,Friedrichplatz,2,03149,Forst (Lausitz),,,,,,,,,,,,,,,,12750,86a6b198-be7c-4edc-87dd-c8e44d5e84ca
+12.314897932000065,47.771338537000076,822,Klinik Sonnenbichl Mutter- Kind Kurklinik,clinic,,,,,,,,,,,Am Sonnenbichl,1,83229,Aschau im Chiemgau,,,,,,,,,,,,,,,,12873,f9fd66a6-fe4c-447f-96ae-4ef9b4f5d937
+7.883725560000073,51.769634624000048,823,Tagesklinik,clinic,clinic,,,,,,,,,,Parkstraße,49,59227,Ahlen,,,,,,,,,,,,,,,,12898,fb616d98-227e-41c3-b3c2-95a46a0e133a
+8.629629100000045,53.05131825400008,824,Gesundheitszentrum am Josef-Hospital Delmenhorst,clinic,clinic,,,,,,,,,,Westerstraße,2,27749,Delmenhorst,,,,,,,,,,,,,,,,12931,6af2574a-a815-41c2-97f3-78c53ebd5a10
+13.327317941000047,48.52687360300007,825,KfH-Nierenzentrum Fürstenzell,clinic,,,,,,,,,,,Gruberfeld,2,94081,Fürstenzell,,,,,,,,,,,,,,,,12943,df9f776f-57ac-4ecd-b6fa-3265dae34d51
+13.258966050000026,53.55596283400007,826,Ärztehaus,clinic,centre,,,,,,,,,,,,17033,Neubrandenburg,,,,,,,,,,,,,yes,,,12950,22ffb936-045b-42db-a5cd-a12e706e43e6
+8.081101223000076,50.044011957000066,827,Sankt Valentinushaus,clinic,,,,,,,,,,,Suttonstraße,42,,,,,,,,,,,,,,,,,,12962,a18de240-cb2f-4bcb-9f06-a835b370b674
+6.301113024000074,50.604974006000077,828,Alexianer Khs Tagesklinik,clinic,clinic,,,,,,,,,,Kammerbruchstraße,8,52152,Simmerath,,,,,,,,,,,,,,,,13041,2a6e4b6a-18a5-4490-b4e0-7bc91027d05a
+7.39889852500005,50.547278650000067,829,Westerwaldklinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,13153,fb6dfcdd-5c8f-426b-8134-b7614c63cd48
+8.628230175000056,53.051025767000056,830,,clinic,clinic,,Josef-Hospital Delmenhorst gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,13156,566a142e-1c75-412f-a163-dbe77d28c667
+7.865551320000066,48.565792258000045,831,Epilepsieklinik für Kinder und Jugendliche,clinic,,,Diakonie Kork,,,,,,,,Landstraße,2e,,Kehl,,,,,,,,,,,,,,,,13188,b021f70c-1712-4916-8c7f-0722d9931b4c
+7.865985425000076,48.565672451000069,832,Epilepsieklinik für Erwachsene,clinic,,,Diakonie Kork,,,,,,,,Landstraße,1,,Kehl,,,,,,,,,,,,,,,,13189,6438a4d6-7316-4e6c-8ad2-01cb57cc0006
+13.347870262000072,50.654189515000041,833,Klinikum Mittleres Erzgebirge gGmbH Haus Olbernhau,clinic,,,,,,,,,,,Krankenhausstraße,1,09526,Olbernhau,,,,,,,,,,,,,,,,13220,2915889c-c690-40af-b059-89f9e1958ff9
+9.988469489000067,53.736386273000051,834,Tagesklinik für Psychiatrie und Psychotherapie,clinic,clinic,psychiatry,,,,,,,,,Beim Umspannwerk,6,,,,,,,,,,,,,,,,,,13347,360fbaf9-43b5-4675-9b9f-baafcf9edff7
+12.265769644000045,49.192356431000064,835,Reha-Zentrum am Regenknie,clinic,,,,,+49 9436 9500,http://www.reha-entrum-nittenau.de,,,,,Eichendorffstraße,21,93149,Nittenau,,,,,,,,,,,,,,,,13434,882b68a0-0b12-4ddf-9fdf-a8d15ddba73f
+12.267398141000058,49.192256757000052,836,Reha-Zentrum am Regenknie,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13436,6a9686a3-41f0-4955-9592-90ccba3f07a2
+8.485469989000023,50.752116522000051,837,Rheumazentrum Mittelhessen GmbH & Co KG,clinic,,,,,,,,,,,Sebastian-Kneipp-Straße,36,35080,Bad Endbach,,,,,,,,,,,,,yes,,,13441,30f61a19-9b04-4d93-ae0f-5bc07cb25847
+9.00346324700007,49.737536006000028,838,Odenwaldklinik Klinik für Rehabilitation u. Prävention,clinic,,,,,,,,,,,Waldstraße,7,64732,Bad König,,,,,,,,,,,,,,,,13487,ced99e46-6ff5-4c7e-9120-b6fbc022a751
+7.991816079000046,49.252523265000036,839,Fachklinik Eußerthal,clinic,clinic,drugs,Deutsche Rentenversicherung Rheinland-Pfalz,,,,,,,,Klinikstraße,1,76857,Eußerthal,,,,,,,,,no,,,,,,,13501,f2de0b8c-29bf-4df1-9138-a358b6598da3
+11.787034663000043,48.643303681000077,840,,clinic,,,,,,,,,,,Abensberger Straße,23,84048,Mainburg,,,,,,,,,,,,,,,,13573,a5a17283-f6fe-46a4-9d80-ae18b8d745e1
+11.595302606000075,48.110171402000049,841,Gesundheitszentrum Giesing Süd,clinic,clinic,,,,,,,,,,Giesinger Bahnhofplatz,2,81539,München,,,,,,,,,,,,,,,,13614,479ae5a8-2569-4c2f-8c23-c7d80d08bbc6
+7.140211552000039,49.575117978000037,842,Mutter-Kind-Klinik Saarwald,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13616,b9e53b5c-26f9-498f-9698-7a5fe3cffbd6
+7.855619900000022,49.84038432400007,843,ACURA Rheuma-Akutzentrum,clinic,clinic,,ACURA Kliniken Rheinland-Pfalz GmbH,,,,,,,,Kaiser-Wilhelm-Straße,9-11,55543,Bad Kreuznach,,,,,,,,,,,,,,,,13653,8c66ad88-f295-4544-b4bf-baeeb9cf3fdc
+13.403408,54.087116050000077,844,,clinic,clinic,"dental_oral_maxillo_facial_surgery;dermatology;otolaryngology",Universitätsmedizin Greifswald,,,,,,,,,,,,,,,,,,,,,,,,,,,13691,48f3e017-735f-42a5-84ba-e89a12b143cd
+13.401345685000024,54.090356597000039,845,Zahntechnisches Labor,clinic,clinic,dentistry,Universitätsmedizin Greifswald,,,,,,,,Fleischmannstraße,46,17489,Greifswald,,,,,,,,,,,,,,,,13695,296a200d-9ca9-43f1-a56f-cde99995ff23
+9.056893375000072,51.763632746000042,846,Park-Klinik Bad Hermannsborn,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13726,f8515c36-606a-451b-8101-1deb5745bd6c
+8.17591499100007,49.465070757000035,847,Median Park-Klinik Bad Dürkheim,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,no,,,,,,,13774,38f31b43-555b-4641-ad36-89ac36c0856d
+8.511387650000074,49.517883058000052,848,Nierenzentrum Mannheim,clinic,,,,,,,,,,,Dornheimer Ring,92,68309,Mannheim,,,,,,,,,,,,,,,,13776,6f15b9b4-1dcb-482d-a77b-26ef91f2dac2
+10.208651418000045,53.352748166000026,849,Dr. Loges + Co. GmbH,clinic,clinic,,,,,,,,,,Schützenstraße,5,21423,Winsen (Luhe),,,,,,,,,,,,,,,,13852,10584942-6740-486a-889d-11d0a68097ff
+12.082194250000043,50.894403848000081,850,Ärztehaus Gera-Bieblach,clinic,centre,,,,,,,,,,Johannes-R.-Becher-Straße,1,07546,Gera,,,,,,,,,,,,,,,,13913,10bbe4aa-7bd2-4b0e-a686-39aaa6ee7214
+7.869657338000025,48.343053829000041,851,Psychiatrische Tagesklinik Lahr,clinic,clinic,,,,+497821954180,,,,,,Obere Bergstraße,28,,,,,,,,,,,,,,,,,,13952,5987472f-eaba-43f1-b976-a522197a63c0
+8.330188606000036,50.790315674000055,852,Klinik Eschenburg,clinic,,,,,,,,,,,Am Berg,1,,,,,,,,,,,,,,,,,,13965,4ff9f624-e5d4-4e81-bd3b-934c373b6945
+6.669374100000027,49.756298293000043,853,"Kinderwunsch Praxisklinik Trier, Dr. med. Satari",clinic,clinic,,,,,,,,,,Max-Planck-Straße,15,,Trier,,,,,,,,,,,,,,,,14057,23b8b452-654f-4852-8f45-29006d583c33
+8.131745882000075,49.741151276000039,854,Rheinhessen-Fachklinik Alzey,clinic,clinic,"neurology;psychiatry",Landeskrankenhaus Rheinland-Pfalz,,+49 6731 50-0,www.rheinhessen-fachklinik-alzey.de,info@rfk.landeskrankenhaus.de,+49 6731 50-1442,,,,,,,,,,,,,,,,,,,yes,,de:Rheinhessen-Fachklinik Alzey,14185,8c704eeb-9f6c-4c5f-a10e-00a51246f154
+13.091381750000039,47.661558917000036,855,EMCO Klinik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14247,7203950d-0cc7-44a9-9b90-1fd8c2b13d37
+8.903399540000066,52.050875293000047,856,Therapeutisches Zentrum,clinic,,,Stiftung Eben-Ezer,,,,,,,,Volkeningweg,5,32657,Lemgo,,,,,,,,,,,,,,,,14267,3b2127c2-49c0-43be-ab3b-1d5340650597
+7.421427860000051,50.539952046000053,857,Marienhaus Klinikum St. Antonius Waldbreitbach,clinic,clinic,psychiatry,,,,,,,,,Margaretha-Flesch-Straße,,56588,Waldbreitbach,,,,,,,,,,,,,yes,,,14305,97b53a98-5021-45cc-b109-f4f493cb499d
+10.531202066000048,50.15933678600004,858,Fachklinik Schloss Eichelsdorf,clinic,clinic,rehabilitation,,,,,,,,,Schlossstraße,1,97461,Hofheim in Unterfranken,,,,,,,,,,,,,,,,14334,d7743e8d-3937-4177-a98c-4aea30dd27ca
+10.078662300000076,50.195926883000027,859,Rehaklinik Am Kurpark,clinic,clinic,"rehabilitation;oncology;rheumatology",,,,,,,,,Kurhausstraße,9,97688,Bad Kissingen,,,,,,,,,,,,,limited,Q25089316,de:Kurhausstraße 9 (Bad Kissingen),14405,5af59f9c-f02d-4f3d-9437-a560b8b86285
+12.235363684000049,50.285100595000074,860,Fachklinik Sonnenhöhe,clinic,rehabilitation,,DGS – Diakoniegesellschaft Sachsen gemeinnützige GmbH,,,http://www.diakonie-badelster.de/leistungsspektrum/ev-fachklinik-sonnenhoehe/klinikportrait/,,,,,Georg-Leißner-Straße,1,08645,Bad Elster,,,,,,,,,,,,,yes,,,14430,fd5e917a-1994-46ec-9e65-73240a91d94e
+9.055819963000033,54.480029708000075,861,Klinik Dr. Winkler,clinic,clinic,,,,,,,,,,Brinckmannstraße,6,25813,Husum,,,,,,,,,,,,,yes,,,14436,5e6d1ceb-6f5d-47a3-95d3-fb39fadab965
+11.223920148000047,52.026121301000046,862,Tagesklinik,clinic,,,AMEOS Klinikum Oschersleben,,,,,,,,Seilerweg,3,39387,Oschersleben,,,,,,,,,,,,,,,,14552,f378e15b-2a36-4d20-9be9-eb9ab693208d
+8.086429848000023,50.744071827000027,863,Praxisklinik am Flüßchen,clinic,,,,,,,,,,,Am Flüßchen,10,57299,Burbach,,,,,,,,,,,,,,,,14623,e182f883-1e11-4556-91e8-bd0cee18c15b
+7.629822600000068,50.683574144000033,864,MVZ Ärztehaus Altenkirchen,clinic,centre,,,,,,,,,,Leuzbacher Weg,31,57610,Altenkirchen,,,,,,,,,,,,,,,,14679,ac76ad92-91df-4ce7-b535-9bfb65784319
+8.87422250000003,53.101696021000066,865,AugenZentrumBauer,clinic,clinic,,,,,,,,,,Leher Heerstraße,66,28359,Bremen,,,,,,,,,,,,,yes,,,14708,f644fa25-5ea0-4d2d-95b1-c7ad08535c28
+9.117052014000024,49.566959086000054,866,Klinik Schloss Waldleiningen,clinic,rehabilitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14754,1a82138d-d7dc-45c6-b6c4-65ced6adcc3a
+13.26863,52.44910849200005,867,,clinic,clinic,,,,,,,,,,Clayallee,225A,14195,Berlin,,Dahlem,,,,,,,,,,,,,,14781,ac542177-258c-45c7-a019-15c834e846a2
+13.268272200000069,52.450047473000041,868,Sport-Gesundheitspark,clinic,,,,,,,,,,,Clayallee,225C,14195,Berlin,,Dahlem,,,,,,,,,,,,,,14782,427832c8-3702-4c8f-aeb6-432f54adb39f
+13.268686400000036,52.449661401000071,869,,clinic,clinic,,,,,,,,,,Clayallee,225B,14195,Berlin,,Dahlem,,,,,,,,,,,,,,14783,2273701b-144d-413c-90b2-21637cefd6e8
+13.269382825000037,52.449767789000077,870,,clinic,clinic,,,,,,,,,,Clayallee,225,14195,Berlin,,Dahlem,,,,,,,,,,,,,,14784,6b63e975-5fe0-41ec-b67f-375227a8ac9a
+12.235006021000061,51.393795669000042,871,Sächsisches Krankenhaus Altscherbitz,clinic,clinic,"psychiatry;neurology",Freistaat Sachsen,,+49 34204 870,https://www.skh-altscherbitz.sachsen.de/startseite/,,+49 34204 873671,,,,,,,,,,,,,,,,,,,yes,,,14818,310082af-f493-4605-a462-3af383cf2f7f
+13.387109919000068,54.094034177000026,872,MVZ Stadtmitte,clinic,clinic,,Universitätsmedizin Greifswald,,,https://www2.medizin.uni-greifswald.de/mvz/standorte/mvz-stadtmitte/,,,,,Lange Reihe,89a,17489,Greifswald,,,,,,,,,,,,,,,,14916,7c9a8d15-ecac-4cd1-b4bb-83e1474119b0
+13.44151802500005,48.499518527000077,873,Klinik Inntaler Hof,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14940,d195eb2e-0db8-4c2c-8c45-ad9cf275139e
+12.194576798000071,48.994263106000062,874,Haus der Gesundheit Tagesklinik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14964,b2ff6f74-fce1-4596-bbbf-ed32beaec03e
+11.730180844000074,49.50446746800003,875,Fachärztezentrum,clinic,clinic,,,,,,,,,,Krankenhausstraße,16 A,92237,Sulzbach-Rosenberg,,,,Amberg-Sulzbach,,Bayern,,,,,,,,,,14983,38421053-d48a-428a-817e-85a0169d6c3d
+6.419738050000035,51.157386230000043,876,Klinik für Pädiatrie,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15027,afc6a1b1-3d74-4f60-8852-a0cf80943b6a
+9.986374475000048,47.674957894000045,877,Celenus Fachklinik Bromerhof,clinic,hospital,,Celenus Fachklinik Bromerhof GmbH,private,,,,,,,Oberisnyberg,2,88260,Argenbühl,,,,,,,,,,,,,,,,15173,202e2581-8b06-41fe-be7b-2066687d3997
+6.298609975000034,50.007507356000076,878,Gesundheitszentrum Neuerburg,clinic,,,Gesundheitszentrum Neuerburg gGmbH,,+49 6564 69-17200,http://gesundheitszentrum-neuerburg.de,info@gesundheitszentrum-neuerburg.de,,,,Bitburger Straße,17,54673,Neuerburg,,,,,,,,,,,,,,,,15186,e5007ea3-ff5c-4a82-b16e-d19f977dbfb8
+8.124994050000055,48.430860573000075,879,Rehaklinik Klausenbach,clinic,,,,,,,,,,,Klausenbach,1,77787,Nordrach,,Kolonie,,,,,,,,,,,,,de:Otto Walther,15203,f9239384-00a3-406f-a193-f42b93301ecc
+8.003705258000025,52.27967347200007,880,Dermatologie für berufsbedingte Hautkrankheiten,clinic,clinic,,,,,,,,,,Am Finkenhügel,7A,49076,Osnabrück,,,,,,,,,,,,,,,,15204,941381f6-b828-432a-be92-e363ca2414aa
+8.642146899000068,52.798244490000059,881,Tagesklinik für Psychiatrie und Psychotherapie,clinic,clinic,psychiatry,Alexianer Landkreis Diepholz GmbH,,,,,,,,Sankt-Annen-Straße,15,,,,,,,,,,,,,,,,,,15351,54887f21-b738-49dc-a39d-f11057cf875f
+8.014002036000022,49.150366023000061,882,Pfalzklinikum Klingenmünster,clinic,clinic,"child_psychiatry;neurology;psychiatry",,,,,,,,,,,,,,,,,,,,,no,,,,,,,15379,da3ff2b8-e412-4e41-ada4-99a611cc3573
+6.596552761000055,49.495731208000052,883,DRK Klinik Mettlach für Geriatrie und Rehabilitation,clinic,rehabilitation,geriatrics,DRK gemeinnützige Krankenhausgesellschaft mbH Saarland,,,,,,,,Saaruferstraße,10,66693,Mettlach,,,,,,DE,,,,,,,,,,15392,fffa985d-0ba1-40dc-b627-409f3b1eb68b
+8.081884817000059,48.399204448000035,884,Franz-Alexander-Klinik,clinic,,,,,,,,,,,Im Dorf,44,77787,Nordrach,Rothschild,,,,,,,,,,,,,,,15424,32654356-f267-4c9f-9095-b487b4de96fd
+13.177004190000048,52.547607936000077,885,Ärztezentrum Spandau,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15472,40d75aea-7b77-4b51-b7c0-2bc9dfa60d5c
+7.036518833000059,49.312013101000048,886,medicus Gesundheitszentrum,clinic,,,,,,,,,,,Fischbacher Straße,100,66287,Quierschied,,,,,,,,,,,,,,,,15578,49942814-fa85-4ff4-ab41-f9a1a8168660
+12.27263105000003,51.661613199000044,887,Gesundheitszentrum Bitterfeld-Wolfen,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15593,269153fd-a0fb-427d-bbde-31aac28e5798
+13.544122986000048,52.439634364000028,888,Ärztehaus,clinic,centre,,,,,,,,,,Pfingstberggasse,10,12489,Berlin,,Adlershof,,,,,,,,,,,,,,15653,4afbade2-8ef9-4d36-8a8f-f9f39f474444
+7.245772850000037,49.263145983000072,889,MediClin Bliestal Kliniken,clinic,,,MEDICLIN AG,,,,,,,,Am Spitzenberg,,66440,Blieskastel,,,,,,,,,,,,,,,,15726,e52e1cb3-c8df-4b82-aa6a-b4ccb4a159dc
+8.105979651000041,49.745683542000052,890,Gesundheitszentrum,clinic,clinic,,,,,,,,,,Am Damm,17,55232,Alzey,,,,,,,,,,,,,,,,15735,73be362f-27c1-4aea-a307-55f1efe5e198
+12.385432250000065,51.338972579000028,891,Praxisklinik am Johannisplatz,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15807,f5664b32-5c1c-4378-a129-ef286613e0bb
+6.985778872000026,50.820991529000025,892,LVR-Bonn Tagesklinik und Ambulanz,clinic,,,LVR Klinikverbund,,,,,,,,Bonner Straße,86,50389,Wesseling,,,,,,,,,,,,,,,,15890,75a0a3a6-cc25-432e-9b55-1fe6e2d4ee41
+13.939247472000034,50.852373584000077,893,"Klinik Helleberg, Klinik für Herz-Kreislauf-Erkrankungen, Haus 12",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15985,c790f65f-d3e0-413b-a36b-f155e64674c4
+7.265156183000045,51.639164039000036,894,Gesundheitszentrum Ludwigstraße,clinic,clinic,,,,,,,,,,Ludwigstraße,6,45739,Oer-Erkenschwick,,,,,,,,,,,,,yes,,,16022,ef8fd5c7-62c1-4ec7-9a42-f82d3769a131
+13.054737276000026,52.446272549000071,895,Heinrich-Heine-Klinik,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16029,f608a31c-399e-431c-853f-77f9d259ff36
+9.903661414000055,51.547154254000077,896,Therapiezentrum OPEN,clinic,rehabilitation,,,,+49 551 9004980,https://www.goettingen-suchthilfe.de/,,+49 551 900498100,,,Robert-Bosch-Breite,1c,37079,Göttingen,,,,,,,,,,,,,,,,16095,ff59777c-6931-4d67-b7b4-36c5f00af4cd
+13.579856575000065,52.459832683000059,897,Gesundheitsforum Köpenick,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16150,c8f47111-d714-4f36-9d38-f444aa695744
+11.71160720000006,47.720288193000044,898,Kurklinik Der Jägerwinkel,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16181,a67eae8b-406d-4165-9c0c-96aa437ce9f0
+7.132415450000053,50.540638300000069,899,Median Klinik Tönisstein,clinic,clinic,,,,+49 2641 914-0,http://www.ahg.de,toenisstein@ahg.de,+49 2641 914-201,,,Hochstraße,25,53474,Bad Neuenahr-Ahrweiler,,,,,,,,,,,,,,,,16237,00f17a2c-2a7c-4a54-8091-c1f8a0cb05f4
+7.131562979000023,50.540626524000061,900,Stiftung Bethesda-St. Martin,clinic,clinic,,,,+49 6742 8747-0,,stiftung@stiftung-bethesda.de,+49 6742 8747-110,,,Hochstraße,29,53474,Bad Neuenahr-Ahrweiler,,,,,,,,,,,,,,,,16238,458dc4bf-1394-42ac-acc8-91bb7756279b
+7.13271437800006,50.540385049000065,901,Venen-Clinic,clinic,clinic,,,,,,,,,,Hochstraße,23,53474,Bad Neuenahr-Ahrweiler,,,,,,,,,,,,,yes,,,16239,9cfa66c0-6265-47a5-a7c0-f5f03a4d218c
+7.13557727500006,50.54326340700004,902,Knappschaft Klinik,clinic,clinic,,,,,,,,,,Georg-Kreuzberg-Straße,2-6,53474,Bad Neuenahr-Ahrweiler,,,,,,,,,,,,,,,,16243,03ef07a9-37f0-47dd-87ba-f52badd6d6dd
+14.218403175000049,53.451140360000068,903,,clinic,,,,,,,,,,,Karl-Liebknecht-Straße,6,17321,Löcknitz,,,,,,,,,,,,,,,,16257,385aaf53-4bbd-4ee6-8927-352557216c4a
+7.212492200000042,50.558077827000034,904,Ahrtal-Klinik Bad Bodendorf,clinic,clinic,cardiology,,,,,,,,,Hauptstraße,166,53489,Sinzig,,Bad Bodendorf,,,,,,,,,,,,,,16258,ae5f5cc8-3962-467c-986c-16eb444fa50d
+12.602247125000076,53.370465876000026,905,Klinik für Psychiatrie und Psychotherapie,clinic,hospital,psychiatry,Mediclin,,,,,,,,,,,,,,,,,,,,,,,,,,,16295,255772a4-3d2b-4a0e-b1a8-64a2f6f9898b
+7.846007475000022,49.810922506000054,906,Geriatrische Fachklinik Rheinhessen-Nahe,clinic,clinic,geriatrics,,,,,,,,,Berliner Straße,63-65,55583,Bad Kreuznach,,Bad Münster am Stein-Ebernburg,,,,,,,,,,,yes,,,16297,1e077451-c00f-4cb1-8933-2743c65f2e23
+8.189941543000032,49.41193301900006,907,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16310,df8c291c-e9fd-43aa-a341-01425da9d4d5
+11.34487125000004,50.643122529000038,908,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",clinic,,,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",,,,,,,,,,,,,,,,,,,,,,,,,,,16432,501ead0e-70d4-40a4-a560-072173d450a7
+14.973696806000078,51.336880586000063,909,Klinik Rothenburg,clinic,,,,,,,,,,,Mühlgasse,3a,02929,Rothenburg/Oberlausitz,,,,,,,,,,,,,,,,16569,9740718b-a659-4b8e-ab0a-6cba048e6bb3
+7.150828600000068,53.710234894000052,910,Fachklinik Thomas Morus,clinic,rehabilitation,,,,,,,,,,Benekestraße,44,26548,Norderney,,,,,,,,,,,,,,,,16621,0ac78edb-cf78-4877-be91-576b96cf7eab
+12.398792170000036,51.323188499000082,911,Universitätsklinikum Leipzig,clinic,clinic,"psychiatry;palliative",Universitätsklinikum Leipzig,,+49 341 97109,https://www.uniklinikum-leipzig.de/,,+49 341 9715909,,,,,,,,,,,,,,,,,,,,,,16670,bdec7118-546d-4f66-a954-4f19d820b985
+6.95153382500007,50.627242722000062,912,Malteser Gesundheitszentrum Rheinbach,clinic,,,,,+49 2226 850,https://www.malteser-krankenhaus-bonn.de/ueber-uns/malteser-gesundheitszentrum-rheinbach.html,,,,,Gerbergasse,1-3,53359,Rheinbach,,,,,,,,,,,,,,,,16710,b3dfc98a-40fb-42b6-9a90-7fc1ab5f322a
+7.885721539000031,48.342883374000053,913,Klinik für Psychosomatische Medizin und Psychotherapie,clinic,clinic,,,,,,,,,,,,77933,Lahr/Schwarzwald,,,,,,,,,,,,,,,,16803,2709184d-f823-4f79-a2b8-cf14e2c9f64c
+8.531881844000054,49.369580491000079,914,Fides Klinik,clinic,dentist,,fides Beleg-Klinik GmbH,,+49 6202 6953 100,http://www.fides-klinik.de/,zahnmedizin@fides-klinik.de,+49 6202 6953 170,,,Gassenäckerstraße,3,68775,Ketsch,,,,,,Baden-Württemberg,,,,,,,,,,16816,b6f20ff1-14cf-40b2-97a7-be1c8f57bec1
+8.728629186000035,50.356769338000049,915,Facharztzentrum,clinic,centre,,Gesundheitszentrum Wetterau gGmbH,,,,,,,,,,,,,,,,,,,,,,,,,,,16821,7a97c9f5-16bc-42bc-8eec-a9d9f514a1e7
+13.997180898000067,51.09338751100006,916,Sächsisches Krankenhaus Arnsdorf,clinic,clinic,"neurology;psychiatry",,,+49 35200 260,http://www.skh-arnsdorf.sachsen.de,,,,,,,,,,,,,,,,,,,,,,,,16903,e9491667-5114-4aab-9dfd-c36197570cf9
+7.766227198000024,50.631628779000039,917,Kliniken Wied,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16979,bb015a16-68d6-4ebe-a787-7eb2757d4da2
+7.098589874000027,50.977946753000026,918,Psychosomatische Klinik Bergisch Land,clinic,,,,,,,,,,,,,,,,,,,,,,,no,,,,,,,16992,20138deb-bc59-4b38-aca3-38d2aefccd9f
+9.081294,51.11364381900006,919,Reha-Klinik Reinhardsquelle,clinic,,,Zeiss Sanatorien GmbH & Co KG,,+49 5621 8080,,,,,,Carl-Zeiss-Allee,5,34537,Bad Wildungen,,Reinhardshausen,,,,,,,,,,,,,,17009,c7ade153-416c-487d-ad4c-0c1cf0068173
+9.083878800000036,51.111802913000076,920,Klinik Reinhardshöhe,clinic,,,Dr. Ebel Fachkliniken Verwaltungs-GmbH,,+49 5621 705 0,,,+49 5621 705 101,,,Quellenstraße,8-12,34537,Bad Wildungen,,,,,,,,,,,,,,,,17011,06d0a596-1d3d-4521-8e8a-f5633a7c880f
+9.109131,51.113357885000028,921,Klinik und Gesundheitszentrum Helenenquelle,clinic,,,,,,,,,,,Dr.-Born-Straße,7,34537,Bad Wildungen,,,,,,,,,,,,,,,,17107,340f0a42-0215-465f-beec-f237463ee0fd
+9.035061799000061,48.531147015000045,922,Augenklinik,clinic,clinic,ophthalmology,Universitätsklinikum Tübingen,,,,,,,,Elfriede-Aulhorn-Straße,7,72076,Tübingen,,,,,,,,,yes,,,,yes,,,17233,43842473-2d3b-4b74-ba3e-a05bc662e027
+7.182528613000045,50.961752286000035,923,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17256,94337988-dd80-4664-8165-100cdb3299e1
+11.095155454000064,51.358628365000072,924,Reichental-Klinik GmbH,clinic,,"dental_oral_maxillo_facial_surgery;orthopaedics",,,,,,,,,An der Wipper,2,06567,Bad Frankenhausen/Kyffhäuser,,,,,,,,,,,,,,,,17260,2a07edae-4024-464c-b23d-7b0fd92b55b9
+11.10775405000004,51.353713332000041,925,Tagesklinik für Psychiatrie und Psychotherapie Bad Frankenhausen,clinic,,,,,,,,,,,Stiftstraße,2-4,06567,Bad Frankenhausen/Kyffhäuser,,,,,,,,,,,,,,,,17263,8086e052-46e0-4b85-807d-525c5bfc8343
+8.530300751000027,52.006741900000065,926,Rehabilitationsklinik,clinic,rehabilitation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17320,7a9fbf74-09c8-4e50-8572-f426b2c37dd0
+11.02542943800006,53.562659202000077,927,Schloss Tessin,clinic,clinic,drug_addicts,Fachklinik Schloß Tessin,,,,,,,,Dorfstraße,23,19243,Wittendörp,,Tessin,,,,,,,,,,,,,de:Tessin (Wittendörp),17334,baf7acd1-48c0-49c2-81bb-2bf78f837a8f
+9.434128343000054,48.062267336000048,928,Dr. Soeder,clinic,clinic,general,,,,,,,,,Bahnhofstraße,43,,Herbertingen,,,,,,,,,,,,,,,,17407,2cda3878-8a37-4932-b9e9-35a221a03494
+11.632303570000033,51.089854115000037,929,Sophienklinik,clinic,,,Diakonie,,,www.sophien-klinik.de,,,,,,,,,,,,,,,,,,,,,,,,17434,c2487fc5-82b2-4d46-85a7-e1b325ab8e01
+13.650011613000061,51.107244280000032,930,Ärztehaus Radebeul Medicum,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17529,5396063d-8734-4a6e-a255-4a0c1127ec24
+9.076913868000076,52.186157551000065,931,Tagesklinik Rinteln (Blumenwall),clinic,clinic,psychiatry,,,,,,,,,Blumenwall,7,31737,Rinteln,,,,,,,,,,,,,,,,17577,59b78f22-63e6-4806-aa14-73e8fed4409e
+9.945144048000031,51.512299727000027,932,AWO Gerontopsychologische Tagesstätte,clinic,clinic,psychiatry,,,,,,,,,Kiesseestraße,63a,37083,Göttingen,,Geismar,,,,,,,,,,,,,,17585,80ca633a-64e9-474f-8c91-58b642a20b34
+7.465505430000064,51.483881518000032,933,Johanniter-Klinik am Rombergpark,clinic,clinic,,,,,,,,,,Am Rombergpark,42,44225,Dortmund,,,,,,,,,,,,,,,,17586,4c771015-aacf-4e53-b27e-5f50549d4971
+6.808815275000029,50.628075132000049,934,Klinik St. Martin,clinic,clinic,,,,+49 2251 94770,https://www.marien-hospital.com/andere-stiftungsbereiche/klinik-st-martin.html,,+49 2251 947722,,,Sternenstraße,1,53881,Euskirchen,,Stotzheim,,,,,,,,,,,,,,17627,9b25e8bf-925f-4217-adfc-21f5517972c6
+7.972448197000062,49.102329896000072,935,Celenus Parkklinik Bad Bergzabern,clinic,clinic,psychiatry,,,,,,,,,,,,,,,,,,,,,,,,,,,de:Celenus Kliniken,17672,428d4bc2-5f82-4781-ad03-3cae63b42399
+7.178134999000065,50.154809355000054,936,Rhein-Mosel-Fachklinik Tagesklinik Cochem,clinic,clinic,psychiatry,Rhein-Mosel-Fachklinik Andernach,,,,,,,,Avallonstraße,30,56812,Cochem,,,,,,,,,,,,,,,,17681,94b06aa3-a553-46ab-be73-17bb11b9fb71
+8.231902722000029,48.671583540000029,937,Max-Grundig-Klinik,clinic,clinic,,,,,,,,,,Schwarzwaldhochstraße,1,77851,Bühl,,,,,,,,,,,,,yes,,,17703,9f338c3e-b053-4c62-bc0e-5aa65b4f8e6d
+9.363834849000057,53.089882741000054,938,Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie,clinic,,psychiatry,,,,,,,,,Verdener Straße,200,27356,Rotenburg (Wümme),,,,,,,,,,,,,,,,17728,4faa2063-cc81-450e-8761-f928ea7c2289
+12.187939918000041,50.866993066000077,939,Fachklinik für Geriatrie,clinic,clinic,geriatrics,Fachklinik für Geriatrie GmbH,,+49 36602 550,http://www.krankenhaus-ronneburg.de/,post@krankenhaus-ronneburg.de,+49 36602 55203,,,Rudolf-Breitscheid-Platz,1,07580,Ronneburg,,,,,,,,,,,,,,,,17747,e6019e5f-5004-47aa-9103-1b214a624706
+14.27469220200004,51.441807217000076,940,,clinic,clinic,,,,,,,,,,Maria-Grollmuß-Straße,10,02977,Hoyerswerda,,,,,,,,,,,,,,,,17825,086725f4-b294-4444-b281-a2b3586a07e3
+7.063692341000035,49.915982156000041,941,Cusanus-Krankenhaus Bernkastel-Kues - Abteilung Psychiatrie und Psychotherapie,clinic,clinic,psychiatry,,,+49 6531 58-13115,https://www.verbund-krankenhaus.de/medizin-pflege/psychiatrie-und-psychotherapie/,psychiatrie@verbund-krankenhaus.de,+49 6531 58-13190,,,Karl-Binz-Weg,11,54470,Bernkastel-Kues,,Kues,,,,,,,,,,,,,,17882,d419e7ee-dae7-407f-b23c-93aa17a84576
+14.157641050000052,53.954128449000052,942,MEDIGREIF Inselklinik Heringsdorf Haus Gothensee,clinic,rehabilitation,,,,,http://www.haus-gothensee.de,,,,,Setheweg,11,17424,Ostseebad Heringsdorf,,,,,,,,,,,,,,,,17927,01581e7a-e175-4ae4-b150-aeb607742dc0
+7.850474940000026,51.688061657000048,943,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17958,b09b5317-2dd9-45dd-8cb4-40dd40ed177b
+7.849966565000045,51.68828178900003,944,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17959,48f24602-49e6-4df5-8ed2-ca7e69abe306
+12.424374850000049,50.988381269000058,945,"Klinik für Psychiatrie, Psychotherapie und Psychosomatik",clinic,clinic,psychiatry,Evangelische Lukas-Stiftung Altenburg,,,,,,,,Zeitzer Straße,28,04600,Altenburg,,,,,,,,,,,,,,,,17966,aca70f2c-4f2e-4735-8a1a-4da77ee43490
+13.538834741000073,51.287296067000057,946,Rehabilitationsklinik Großenhain,clinic,rehabilitation,neurology,ELBLAND Reha- und Präventions-GmbH,,,,,,,,,,,,,,,,,,,,no,,,,,,,17991,8465fe13-0ee3-4ad3-922e-5fdca23a6837
+7.79322439300006,48.571820513000034,947,Maison Médicale des Deux Rives,clinic,clinic,,,,,,,,,,Rue François Épailly,8,67000,Strasbourg,,,,,,,,,,,,,,,,18016,d5e59118-41a2-471a-a979-605161144fee
+10.615110617000028,47.78278888300008,948,Medicum,clinic,clinic,,Marktoberdorf,,,,,,,,,,,,,,,,,,,,,,,,,,,18044,e6313ffb-80ce-4404-aee5-768603308ed1
+13.93922772600007,50.852155300000049,949,"Klinik Helleberg, Klinik für Herz-Kreislauf-Erkrankungen, Haus 12",clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18057,5798a28f-f115-4db1-94f3-2b78a683df0a
+13.202647057000036,52.433519109000031,950,Klinik Nikolassee,clinic,,,,,,,,,,,Von-Luck-Straße,3,14129,Berlin,,Nikolassee,,,,,,,,,,,,,,18107,f94d1629-fc77-4673-962d-56f3d2d85e6e
+11.461242519000052,48.148405743000069,951,Ärztehaus Pasing,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18112,253e8919-644c-4ce8-a93d-d66c9217320e
+13.941143446000069,50.854880528000081,952,,clinic,,,,,,,,,,,,,,,,,,,,,,,no,,,,,,,18130,04301f7c-e37a-4e67-8837-2c09deeeee62
+13.941953554000065,50.856276618000038,953,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18131,d1a508c7-ef2d-4598-8a8c-4bbe8eb3e234
+9.081705900000031,52.184226524000053,954,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18179,16fec231-9bd5-4c7e-9d1c-7b3850292b03
+9.08139716200003,52.184459662000052,955,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18180,9532c50f-3b08-4c0a-b282-d2f260d1cdc2
+9.081628469000066,52.184555370000055,956,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18181,ad5df003-505e-4aef-88e0-f7333a2ea941
+10.387674291000053,53.42646293100006,957,Helios Klinik,clinic,clinic,"reha;neurology;rehabilitation",,,,,,,,,,,,,,,,,,,,,no,,,,,,,18232,7ac08f88-10ee-4926-8f40-15d8d117bba3
+14.817733013000066,51.294124312000065,958,Diakonissenanstalt Emmaus,clinic,clinic,,Diakonissenanstalt EMMAUS Niesky,,+49 3588 2640,http://www.emmaus-niesky.de/,,+49 3588 264333,,,Bautzener Straße,21,02906,Niesky,,,,,,,,,,,,,,,,18279,411b13e5-5330-401b-bb93-b3305d3f2be8
+7.161929201000021,52.318207395000059,959,Fachklinik Bad Bentheim - Kardiologie,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18286,6df8e74f-74e2-44f0-b2b3-41a3c12f6a4f
+8.063813850000031,50.136270549000074,960,Klinik am Park - Hauptgebäude,clinic,clinic,orthopaedics,Deutsche Rentenversicherung Hessen,community,,,,,,,Parkstraße,7,65307,Bad Schwalbach,,,,,,,,,,,,,yes,,,18298,fd57105d-7d2b-44d0-a659-1fe3912705d1
+14.290733844000044,51.047123749000036,961,Hohwaldklinik,clinic,,orthopaedics,AKG Klinik Hohwald GmbH,,+49 3596 5670,http://www.hohwaldklinik.de,hohwald@asklepios.com,+49 3596 567204,,,Hohwaldstraße,40,01844,Neustadt in Sachsen,,Hohwald,,,,,,,,,,,,,,18356,64002228-7e44-484d-8c88-01e3182a6d55
+12.436807199000043,51.306916286000046,962,Herzzentrum Leipzig,clinic,clinic,"cardiology;cardiac_surgery",Helios Kliniken GmbH,,+49 341 8650,https://www.helios-gesundheit.de/kliniken/leipzig-herzzentrum/,,,,,Strümpellstraße,39,04289,Leipzig,,,,,,,,,,,,,,Q1615521,,18358,fbe73c01-c31e-49e0-b830-16722756d507
+9.858405664000031,47.575391321000041,963,"Panorama Fachkliniken, Privatklinik Hubertus",clinic,,,,,,,,,,,Kurstraße,16,88175,Scheidegg,,,,,,,,,,,,,,,,18409,aecad57c-2d4f-43a6-86b6-5ea500a38ea5
+11.967249740000057,51.496795861000066,964,Poliklinik Reil,clinic,clinic,,,,,,,,,,Reilstraße,129a,06114,Halle (Saale),,,,,,,,,,,,,yes,,,18445,ccfdd26c-41b1-4aef-a78c-cc43c2d5c25e
+6.91591575700005,50.217351483000073,965,Median Kliniken Daun - Thommener Höhe,clinic,rehabilitation,"physiatry;psychiatry",MEDIAN Unternehmensgruppe B.V. & Co. KG,,,,,,,,,,54552,Utzerath,,,,,,,,,,,,134,,,,18479,9a520d23-ec28-4494-b78a-70cefbe48589
+12.197256100000061,51.818049475000066,966,St.Joseph Krankenhaus,clinic,,,,,,,,,,,Auenweg,36,06847,Dessau-Roßlau,,,,,,,,,,,,,,,,18521,ccf7bdc2-e482-48be-adb2-86aea885fec9
+7.464999014000057,50.425220308000064,967,Johanniter-Zentrum für Kinder- und Jugendpsychiatrie,clinic,clinic,,Johanniter GmbH,,+49 2631 3944-0,https://www.johanniter.de/,,+49 2631 3944-944,,,,,,,,,,,,,,,,,,,,,,18562,a9e55496-ae79-430a-b362-45100aebfa29
+8.308373950000032,50.533238195000081,968,Gertrudis Klinik,clinic,clinic,,,,,,,,,,Karl-Ferdinand-Broll-Straße,4-6,35638,Leun,,,Bisbingen,,,,,,,,,,,,,18586,d3984374-31a1-4585-bd1b-4a9a606addb3
+8.258300432000055,49.99642657000004,969,Römerwallklinik,clinic,clinic,otolaryngology,,,,,,,,,Römerwall,51-55,55131,Mainz,,,,,,,,,no,,,,yes,,,18595,0a6cd13a-4d39-431d-a4e0-0575eec8dc61
+13.691633370000034,54.381596774000059,970,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18603,15ae15df-8af4-4fcf-82c5-f24298a20fb1
+13.730927510000072,54.329453043000058,971,,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18609,d332ff03-d231-4c6c-b698-ccdb2a27faa9
+8.641137600000036,49.635894506000056,972,Vitos - Kinder- und Jugendpsychiatrie Ambulanz,clinic,clinic,,,,,,,,,,Ludwigstraße,51,,,,,,,,,,,,,,,,,,18676,6ee07903-21c0-421a-851a-8835d99bb1c2
+8.520677555000077,52.009817546000079,973,Evangelisches Klinikum Bethel (EvKB) - Fachbereich Pniel der Klinik für Psychiatrie und Psychotherapie,clinic,clinic,psychiatry,Evangelisches Klinikum Bethel gGmbH,,,,,,,,Hoffnungstaler Weg,10,33617,Bielefeld,,,,,,,,,,,,,,,,18690,6c58c43f-e0c6-4630-8cce-5d5fd2343fd3
+10.823241265000036,54.105248132000042,974,Tagesklinik Ostholstein,clinic,clinic,,,,,,,,,,Rettiner Weg,30,23730,Neustadt in Holstein,,,,,,,,,,,,,,,,18691,fb5301c1-bd98-4ef1-9f0b-99b0c50c1f0e
+7.383413914000073,52.301259204000075,975,LWL-Maßregelvollzugsklinik Rheine,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18718,e0dd6c96-bf34-4f95-8b9c-a6e744e4a355
+8.004058945000054,52.279163567000069,976,visualeins - MVZ für Augenheilkunde,clinic,,,visual eins - MVZ für Augenheilkunde und Anästhesie GmbH,,,,,,,,Am Finkenhügel,7B,49076,Osnabrück,,,,,,,,,,,,,,,,18767,011f6fe8-1558-4a80-bd08-b1251cae1601
+8.057611750000035,50.133543020000047,977,Klinikzentrum Lindenallee,clinic,rehabilitation,"psychiatry;orthopaedics;neurology",,,,,,,,,,,,,,,,,,,,,,,,,,,,18780,1ff0dd4b-b10a-4751-bfa3-8803d7d5f5cc
+8.058529648000047,50.136014617000058,978,Montanus-Klinik,clinic,rehabilitation,orthopaedics,,,,,,,,,,,,,,,,,,,,,,,,,,,,18781,7849063e-bb0c-4456-b931-89413adc8378
+7.030181025000047,50.070481373000064,979,,clinic,,,,,,,,,,,Clara-Viebig-Straße,4,56864,Bad Bertrich,,,,,,,,,,,,,,,,18855,805a5a11-1712-45c5-9123-5404707238da
+7.023433650000072,50.072185060000038,980,Elfenmaar Klinik,clinic,,,ELFENMAAR-Klinik GmbH,,,,,,,,Auf der Sees,,56864,Bad Bertrich,Elfenmaar Klinik,,,,,,,,,,,,,,,18860,d18bb329-9e40-441c-a40c-fd35a83efad7
+8.417742007000072,49.315761942000051,981,Tagesklinik für Kinder- und Jugendpsychiatrie,clinic,clinic,,Pfalzklinikum für Psychiatrie und Neurologie AdöR,,,http://kjp.pfalzklinikum.de/tageskliniken/tagesklinik-speyer/,,,,,Otto-Mayer-Straße,1,67346,Speyer,,,,,,,,,,,,,,,,18903,16691122-654f-4bbb-a134-7c3a0836c1b0
+10.000618674000066,48.410420957000042,982,Uniklinik für Psychiatrie und Psychotherapie III,clinic,clinic,psychiatry,,,,,,,,,,,,,,,,,,,,,,,,,,,,18979,5847e3f6-cf93-40ec-b515-6a41e736d969
+7.481946220000054,51.354468484000051,983,Volmeklinik,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18985,d06ed91e-9bff-43b1-abbb-492627996bac
+8.280930835000049,49.222640241000079,984,Fachklinik Ludwigsmühle,clinic,clinic,,,,,,,,,,Waldstraße,,67363,Lustadt,Ludwigsmühle,,,,,,,,,,,,,,,19102,f87f3924-fd0a-4e31-a17d-5f113aea8107
+7.803822650000029,49.454635545000031,985,Lutrina Klinik,clinic,,,,,,,,,,,Brüsseler Straße,7,67657,Kaiserslautern,,,,,,,,,,,,,,,,19120,cba83c56-dace-4928-8c64-2696d99ea485
+12.224863552000045,49.951488391000055,986,DLRG / Wasserwacht,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19137,c44a31c1-ff39-4647-bd62-1f8e885139c3
+12.129525598000043,50.492348532000051,987,Ärztehaus Gartenstraße,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19206,15315ddd-f522-4d06-9818-a181a80fa0ed
+12.130614217000073,50.494331277000072,988,Ärztehaus Seminarstraße,clinic,centre,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,19208,14d07f82-82a4-4043-8789-b85d2a0e425c
+9.992338700000062,48.410642463000045,989,Kinderklinik,clinic,clinic,paediatrics,,,,,,,,,,,,,,,,,,,,,,,,,,,,19238,30a8873c-3913-4abd-9e5c-d116ca9ebe83
+9.993276177000041,48.409629946000052,990,Augenklinik,clinic,clinic,ophthalmology,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,19240,1515aa80-3adc-46af-8ad0-2b603e55df15
+12.123433850000026,50.502079191000064,991,Admedia Plauen GmbH,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,19245,f56cdaa3-948a-4d70-a856-b2a390df8fdc
+7.91596406900004,53.25673818100006,992,Klinik für Psychosomatische Medizin und Psychotherapie,clinic,clinic,,,,,,,,,,An der Hössen,23,26655,Westerstede,,,,,,,,,,,,,,,,19277,e939b7c4-9604-4229-b11b-d7c762ddc7d0
+11.633789842000056,49.941874738000081,993,Klinik an der Therme,clinic,clinic,"surgery;gynaecology;paediatric_surgery;urology;=dental_oral_maxillo_facial_surgery;otolaryngology",,,,,,,,,Kurpromenade,2,95448,Bayreuth,,,,,,,,,,,,,,,,19297,7c36f2b1-51db-45c0-bc1c-aa6de67c6650
+12.392086095000025,51.320482019000053,994,Klinik für Klauentiere,clinic,clinic,,"Universität Leipzig, Veterinärmedizinische Fakultät",,,,,,,,An den Tierkliniken,11a,04103,Leipzig,,,,,,,,,,,,,,,,19308,828384c4-c3d7-44c1-b0fa-1232541cfee5
+12.392213085000037,51.320344617000046,995,"Klinik für Pferde, Abteilung Innere Medizin und Reproduktionsmedizin",clinic,clinic,,"Universität Leipzig, Veterinärmedizinische Fakultät",,,,,,,,An den Tierkliniken,11a,04103,Leipzig,,,,,,,,,,,,,,,,19309,fcce305a-d5dc-49ff-a3dd-8947369bbb02
+10.072268993000023,50.194754806000049,996,Parkklinik Heiligenfeld,clinic,psychiatry,,,,,,,,,,Bismarckstraße,40-44,97688,Bad Kissingen,,,,,,,,,,,,,,,,19335,ef448aec-f13b-4f51-924f-e918c934b6e8
+10.071737450000057,50.198038006000047,997,Rosengarten Klinik Heiligenfeld,clinic,psychiatry,,,,,,,,,,Bismarckstraße,16,97688,Bad Kissingen,,,,,,,,,,,,,,,,19336,ee1f727f-410a-4bf3-8654-800317128120
+11.91652096100006,50.302453420000063,998,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19359,1470654c-e020-405a-a30f-bbd354a87fa9
+9.744853620000072,50.299077833000069,999,Sinntalklinik,clinic,clinic,"rehabilitation;oncology;cardiology",,,,,,,,,Wernarzer Straße,12,97769,Bad Brückenau,,,,,,,,,,,,,,,,19363,15c3a944-cd01-4798-884a-d1283d1f3177
+7.64251842300007,50.302055554000049,1000,Medizinisches Zentrum Lahnhöhe,clinic,clinic,"orthopaedics;psychiatry",Klinik Lahnhöhe Krankenhausgesellschaft mbH & Co KG,,,,,,,,Am Kurpark,,56112,Lahnstein,,,,,,,,,,,,,,,,19386,6a6e54c6-fdbe-417f-9c8e-5630b732257e
+9.188384348000056,47.671918910000045,1001,"Klinikum Konstanz, Haus 1 / Vincentius Krankenhaus",clinic,hospital,,,,,,,,,,Mainaustraße,35,78464,Konstanz,,,,,,,,,,,,,,,,19399,4d25b244-d5e3-4ddd-9898-8979d5d56cc5
+12.997813275000055,51.398237928000071,1002,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19457,a98394e6-198a-449b-8cb0-3b031bbe64cd
+10.080935466000028,50.270412930000077,1003,Rehabilitations- & Präventionszentrum Bad Bocklet,clinic,clinic,"rehabilitation;oncology;internal",,,,,,,,,Frankenstraße,36,97708,Bad Bocklet,,,,,,,,,no,,,,yes,,,19461,4dfcf51c-2842-4d05-b57c-64f557310388
+9.001520700000071,48.801888645000076,1004,rocc Praxis für Strahlentherapie,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19513,867a83d3-684b-459c-9ff0-603b69fd94e3
+11.144191832000047,47.837987826000074,1005,Ärztehaus Weilheim,clinic,clinic,,,,,,,,,,Johann-Baur-Straße,5,82362,Weilheim in Oberbayern,,,,,,,,,,,,,,,,19581,4567b591-22e3-4a2e-b246-8e403a7008f7
+12.063451265000026,50.837071953000077,1006,Asklepios Fachklinikum Tagesklinik,clinic,clinic,,,,,,,,,,Werner-Petzold-Straße,17,07549,Gera,,,,,,,,,,,,,,,,19636,6372261c-b788-4e93-87ec-936d167b7add
+7.050414416000024,49.920679506000056,1007,,clinic,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19690,26538a9a-3f9a-4c6f-b95f-74ad1a160145
+6.624814599000047,51.219806099000039,1008,"Klinik für Psychiatrie, Psychotherapie und Psychosomatik",clinic,clinic,psychiatry,Oberberggruppe,,,,,,,,,,41564,Kaarst,,,,,,,,,,,,,,,,19737,0147e8b0-fd37-44e0-93ec-a480c83ceced
+8.935405825000032,49.867452791000062,1009,Zentrum für Seelische Gesundheit,clinic,clinic,psychiatry,Kreis­kli­ni­ken Darm­stadt-Die­burg,,,,,,,,Krankenhausstraße,7,64823,Groß-Umstadt,,,,,,,,,,,,,yes,,,19790,82249152-2fc3-41a2-a88e-5dd09cce3395
+13.486806288000025,48.667635561000054,1010,Praxisklinik Hutthurm,clinic,clinic,,Dr. med. Joachim Fürst,,,,,,,,Goldener Steig,43,94116,Hutthurm,,,,,,,,,,,,,,,,19794,e5e5ee86-13ab-405a-9976-5ea567bad158
+12.026345555000034,47.858015756000043,1011,Reha Zentrum Bad Aibling Klinik Wendelstein,clinic,rehabilitation,,Deutsche Rentenversicherung,,,,,,,,Kolbermoorer Straße,56,83043,Bad Aibling,,,,,,,,,,,,,yes,,,19801,5da494bb-094f-4515-996d-a886ab6e335d
+12.021776751000061,47.851814390000072,1012,Fachklinik Ghersburg,clinic,clinic,geriatrics,Gesundheitsbetriebe Dr. Nikolaus Netzer Verwaltungs-GmbH,,,,,,,,Ghersburgstraße,9,83043,Bad Aibling,,,,,,,,,,,,,,,,19802,82053e50-fcf6-41ad-8271-24117799823a
+8.107323500000064,53.260421803000042,1013,MVKK,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19812,13851330-e391-4665-89dd-0affdb34fc12
+8.107715994000046,53.260592125000073,1014,MVKK,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19813,d82d415b-d35a-4095-b87d-39e7cc5d5d3c
+8.107277279000073,53.261024752000026,1015,MVKK,clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19814,3a7773fa-9497-4979-bf79-7cd4e2732942
+10.326638359000071,50.97750381700007,1016,Tagesklinik St. Georg,clinic,,,St. Georg Klinikum Eisenach,,,,,,,,Goethestraße,49,99817,Eisenach,,,,,,,,,,,,,,,,19825,4c8ab128-9113-4c56-8e17-61a6087bad4b
+10.327260271000057,50.976910066000073,1017,Poliklinik St. Georg,clinic,,,St. Georg-Klinik Eisenach GmbH,,,,,,,,Schillerstraße,8,99817,Eisenach,,,,,,,,,,,,,,,,19826,c09a1e5e-e1a2-426e-acc8-ac54124676c3
+9.37248452700004,52.335753662000059,1018,Landgrafenklinik,clinic,clinic,,Niedersächsisches Staatsbad Nenndorf Betriebsgesellschaft mbH,,,,,,,,Bahnhofstraße,9,31542,Bad Nenndorf,,,,,,,,,,,,,,,,19834,93fa88ad-9a00-49f8-9c13-437a2871e993
